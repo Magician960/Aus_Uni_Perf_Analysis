@@ -2,7 +2,7 @@ install.packages("tidyverse")
 library(tidyverse)
 library(scales)
 
-setwd('C:\\Users\\GamingUniPC\\Downloads\\Case Study\\Data')
+setwd('D:\\Comp_Sci_Projects\\Case Study')
 
 uni_ranking <- read.csv("universities_ranking_v2.csv")
 uni_score <- read.csv("universities_scores_v2.csv")

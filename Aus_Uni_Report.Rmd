@@ -11,12 +11,13 @@ library(tidyverse)
 library(scales)
 
 ##Importing datasets
-uni_ranking <- read.csv("C:\\Users\\GamingUniPC\\Downloads\\Case Study\\Data\\universities_ranking_v2.csv")
-uni_score <- read.csv("C:\\Users\\GamingUniPC\\Downloads\\Case Study\\Data\\universities_scores_v2.csv")
+setwd('D:\\Comp_Sci_Projects\\Case Study')
+uni_ranking <- read.csv("Data\\universities_ranking_v2.csv")
+uni_score <- read.csv("Data\\universities_scores_v2.csv")
 
 uni_data <- uni_ranking %>% inner_join(uni_score, 
                                        by = c("ranking", "title", "location"))
-uni_data_v2 <- read.csv("C:\\Users\\GamingUniPC\\Downloads\\Case Study\\Data\\uni_data_v2.csv")
+uni_data_v2 <- read.csv("Data\\uni_data_v2.csv")
 
 #Summarising necessary data for analysis
 overall_score_avg <- uni_data %>%
