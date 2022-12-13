@@ -1,0 +1,25 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2022-12-12
+
+### Added
+- Added Changelog.txt
+- Added Project_Work_File.docx
+- Combined both universities_ranking & universities_scores into uni_data
+- Included boolean column 'is Australia?' in uni_data for easier comparison, saved as
+	uni_data_v2
+- Created scatterplot graphs for Student:Staff Ratio & Total Entrolment to
+	Teaching and Research Quality
+- Created Final_Report_v1.0
+
+### Changed
+- Changed universities_ranking.csv perc intl students datatype from % to decimal for import.
+- Edited Karlstad University's perc intl students from '%' to 0.
+- Changes to dataset saved as separate universities_ranking_v2.csv file.
+- Changed overall_score in universities_scores to be compatibable with float datatype,
+	saved as universities_scores_v2

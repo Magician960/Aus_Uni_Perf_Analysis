@@ -1,0 +1,1527 @@
+,ranking,title,location,number.students,students.staff.ratio,perc.intl.students,gender.ratio,overall.score,teaching.score,research.score,citations.score,industry.income.score,intl.outlook.score
+1,1,University of Oxford,United Kingdom,20774,11.1,0.41,46:54:00,95.6,91.3,99.6,98,68.7,96.4
+2,2,Stanford University,United States,16223,7.4,0.23,44:56:00,94.9,92.2,96.7,99.9,90.1,79.5
+3,3,Harvard University,United States,21261,9.3,0.25,49:51:00,94.8,94.4,98.8,99.4,46.8,77.7
+4,4,California Institute of Technology,United States,2238,6.3,0.33,36 : 64,94.5,92.5,96.9,97,92.7,83.6
+5,5,Massachusetts Institute of Technology,United States,11276,8.4,0.34,39 : 61,94.4,90.7,94.4,99.7,90.4,90
+6,6,University of Cambridge,United Kingdom,19370,11,0.38,47:53:00,94,90.3,99.2,95.6,52.1,95.7
+7,7,"University of California, Berkeley",United States,39918,19.8,0.17,51:49:00,92.2,85.8,97.2,99.1,84.3,72.3
+8,8,Yale University,United States,12910,6,0.2,50:50:00,91.6,91.9,93.8,97.9,56.1,68.4
+9,9,Princeton University,United States,8091,8,0.23,46:54:00,91.5,88.8,92.5,98.9,58,80.2
+10,10,The University of Chicago,United States,14292,5.9,0.31,46:54:00,90.3,88.9,90.5,98.6,54.9,74
+11,11,Imperial College London,United Kingdom,17176,11.6,0.58,39 : 61,89.4,82.3,88.2,97.2,69.6,97.4
+12,12,Johns Hopkins University,United States,16432,4.4,0.27,52:48:00,89.2,81.6,91.8,97.7,93.4,73.9
+13,13,University of Pennsylvania,United States,20771,6.4,0.21,52:48:00,88.9,85.4,89.9,98.1,77.9,66.3
+14,14,ETH Zurich,Switzerland,19632,13.1,0.4,32 : 68,87.9,80.4,92.3,90.5,62.8,98
+15,15,"University of California, Los Angeles",United States,41673,10,0.17,55:45:00,87.1,82.5,90.2,96.5,57.6,65.3
+16,16,UCL,United Kingdom,34590,10.8,0.55,57:43:00,86.9,76.6,89.4,96.2,42.1,96.5
+17,17,Columbia University,United States,27384,5.7,0.39,n/a,86.8,85.1,82.9,97.7,45,79.8
+18,18,University of Toronto,Canada,74502,20,0.22,59:41:00,86,75.4,90.9,94.5,50,87.2
+19,19,Cornell University,United States,23016,10.2,0.25,50:50:00,85.3,78.8,86.7,97.2,36.3,73.7
+20,20,Duke University,United States,15489,4.3,0.21,49:51:00,84.8,80.7,80.4,96.9,99.7,65.5
+21,21,Tsinghua University,China,37484,11.6,0.13,34 : 66,84.8,87.7,94.9,78.8,100,51.1
+22,22,University of Michigan-Ann Arbor,United States,43873,8.3,0.17,50:50:00,84,79,86.9,95.4,47.2,59.6
+23,23,Peking University,China,38583,11.1,0.16,43:57:00,83.9,89.6,91.3,75.4,96.3,61.2
+24,24,Northwestern University,United States,18529,13,0.19,49:51:00,83.6,74.9,83.6,98.2,69.9,64.5
+25,25,National University of Singapore,Singapore,30943,18,0.26,50:50:00,83.5,75.9,90.8,81.5,77.8,94.8
+26,26,New York University,United States,44474,8.8,0.34,57:43:00,81.9,76.1,80.6,96,37.3,69.6
+27,27,London School of Economics and Political Science,United Kingdom,10660,12,0.72,54:46:00,81.4,68.5,82.5,94.3,34.1,92.8
+28,28,Carnegie Mellon University,United States,14058,13.7,0.48,43:57:00,81,65.1,81.3,98.9,53.3,80.5
+29,29,University of Washington,United States,46258,10.7,0.17,53:47:00,80.4,69.8,80.5,98.7,45.6,60.9
+30,30,University of Edinburgh,United Kingdom,30649,12.1,0.42,60:40:00,79.4,67.2,74.7,96,38.7,94.6
+31,31,University of Melbourne,Australia,50094,27,0.48,57:43:00,78.9,67.1,76.3,90.1,74.2,93.9
+32,32,LMU Munich,Germany,34249,33.6,0.17,61:39:00,78.2,68.7,78.7,87.9,100,68.1
+33,33,"University of California, San Diego",United States,34232,12,0.3,47:53:00,77.7,60.3,80.4,94.3,95.6,64.4
+34,34,University of British Columbia,Canada,53123,18.7,0.32,55:45:00,76.4,62.1,75.1,90,44.7,94.7
+35,35,King・・s College London,United Kingdom,27400,12.4,0.46,62:38:00,76.1,57.3,72.4,96.6,43.6,95.4
+36,36,Karolinska Institute,Sweden,7696,8.8,0.26,68:32:00,76,57.6,72.2,95.8,71.4,87.3
+37,37,The University of Tokyo,Japan,25935,10.6,0.13,n/a,76,87.9,90.7,57.7,82.6,40.1
+38,38,Georgia Institute of Technology,United States,26043,23.6,0.27,33 : 67,75.8,59.5,76.8,91.1,65.8,78.9
+39,39,University of Hong Kong,Hong Kong,18135,18.2,0.43,54:46:00,75.2,67.5,73.3,80.3,57.4,99
+40,40,McGill University,Canada,31578,12.8,0.31,59:41:00,75.1,64.2,73.4,86.4,43.7,91.3
+41,41,Technical University of Munich,Germany,32377,39.8,0.31,36 : 64,74.8,63.8,73.6,85,100,74.4
+42,42,Heidelberg University,Germany,20020,14.5,0.18,54:46:00,74.3,67.5,61.7,96.6,56.9,68.4
+43,43,ﾃ・cole Polytechnique Fﾃｩdﾃｩrale de Lausanne,Switzerland,10942,12.2,0.6,29 : 71,74.1,63.9,66.7,85.8,73.3,98.5
+44,44,University of Texas at Austin,United States,49510,16.9,0.1,52:48:00,74,67.9,74.8,90.5,46.2,39.4
+45,45,KU Leuven,Belgium,45617,36.1,0.15,50:50:00,73.7,58.7,74.4,86.1,97.2,72.7
+46,46,Paris Sciences et Lettres ・・ PSL Research University Paris,France,20701,14.7,0.24,46:54:00,73.6,71.2,73,75.9,61.7,80.6
+47,47,"Nanyang Technological University, Singapore",Singapore,23902,14.8,0.25,48:52:00,72.7,57.1,71.9,83,83.2,94
+48,48,University of Illinois at Urbana-Champaign,United States,45980,17.8,0.24,48:52:00,72.3,62.5,79.1,81.3,49.5,55.1
+49,49,University of Wisconsin-Madison,United States,39451,9.8,0.13,n/a,71.4,68.2,71.4,82.5,45,48.4
+50,50,Washington University in St Louis,United States,13693,7.5,0.21,n/a,71.1,61.2,58.7,99,40.4,59.1
+51,51,University of Manchester,United Kingdom,36557,14.4,0.41,53:47:00,70.9,57.1,66.5,85.6,49.2,91.7
+52,52,University of Sydney,Australia,46453,19.4,0.43,58:42:00,70.9,51.3,64.4,92.3,69.3,90
+53,53,University of Southern California,United States,41953,13,0.23,49:51:00,70.4,63.8,58.4,93.1,39.2,64.9
+54,54,Boston University,United States,26510,11.1,0.28,59:41:00,70.3,58.9,60.9,94.9,41.7,64.9
+55,55,Kyoto University,Japan,22935,9.3,0.11,25 : 75,70.3,77.9,79.9,60.8,74.6,37.8
+56,56,Chinese University of Hong Kong,Hong Kong,18675,19.3,0.33,n/a,70.1,55.7,59.1,89.4,58.6,98.3
+57,57,The Hong Kong University of Science and Technology,Hong Kong,9976,21.6,0.3,n/a,70.1,52.1,63,88.9,63.6,97.4
+58,58,University of North Carolina at Chapel Hill,United States,30956,8.2,0.08,58:42:00,70.1,60.6,63.3,96.3,42.5,39.7
+59,59,Australian National University,Australia,18801,17.8,0.47,53:47:00,69.8,48.5,68.3,88.4,43,96.2
+60,60,Seoul National University,South Korea,26757,15.1,0.11,n/a,69.7,72.4,73.8,68.8,97.8,37.4
+61,61,Brown University,United States,9695,10.8,0.2,n/a,69.5,62.4,56.6,94,36.1,62.3
+62,62,The University of Queensland,Australia,40389,35.5,0.38,55:45:00,69.4,54.3,61,85.9,81,93
+63,63,Wageningen University & Research,Netherlands,14356,21,0.27,54:46:00,69.4,48.2,56.4,97.3,100,83.7
+64,64,"University of California, Davis",United States,36395,13.6,0.17,58:42:00,68.9,60.5,66.2,81.9,50.4,66.9
+65,65,Monash University,Australia,57406,41.7,0.43,57:43:00,68.9,52.9,61.7,86.2,73.9,90.3
+66,66,University of Amsterdam,Netherlands,24747,12.8,0.24,57:43:00,68.8,49.1,62.2,92.8,39.9,87.4
+67,67,UNSW Sydney,Australia,46234,41,0.44,47:53:00,68.2,50.9,62,85.3,66.8,94.7
+68,68,"University of California, Santa Barbara",United States,24780,28.2,0.18,53:47:00,67.9,45.8,59.6,96.7,81.8,70
+69,69,McMaster University,Canada,25285,30.5,0.18,55:45:00,67.5,46.7,53.1,95.8,99.5,83.8
+70,70,Fudan University,China,32597,11.2,0.13,52:48:00,66.7,65.9,65.6,73.3,67.1,47.7
+71,71,Leiden University,Netherlands,30178,19,0.18,59:41:00,66.7,45.6,66,84.1,72.6,82.2
+72,72,Erasmus University Rotterdam,Netherlands,26453,26.8,0.22,50:50:00,66.2,37.9,57,97.6,73.6,87.8
+73,73,University of Montreal,Canada,36774,20.2,0.21,n/a,65.6,51.1,52.6,87.4,78.3,84.3
+74,74,University of Zurich,Switzerland,22960,14.8,0.21,57:43:00,65.6,50.1,50.4,89.8,64.1,92.1
+75,75,Charitﾃｩ - Universitﾃ､tsmedizin Berlin,Germany,7431,17.4,0.2,65:35:00,65.4,48.3,48,97.4,92.1,66.6
+76,76,Utrecht University,Netherlands,32022,14,0.1,58:42:00,65.4,43,61.1,89.9,65.7,74.1
+77,77,University of Warwick,United Kingdom,21777,13.3,0.41,49:51:00,65.3,46.7,53.8,90.1,41.6,94
+78,78,Delft University of Technology,Netherlands,19594,17.4,0.31,30 : 70,65.2,54.4,71.6,60,98.9,92.8
+79,79,University of Tﾃｼbingen,Germany,27590,36.6,0.14,58:42:00,65.2,53.3,59.7,81.9,77.1,64.3
+80,80,University of Groningen,Netherlands,28392,23.9,0.23,51:49:00,65.1,41.2,56.2,92.6,69.8,85.1
+81,81,Humboldt University of Berlin,Germany,33388,56.3,0.18,n/a,65.1,60.6,67.8,68.3,37.6,68.3
+82,82,Ohio State University (Main campus),United States,54650,12.1,0.13,50:50:00,65.1,55.6,54.2,87.9,53.3,60.1
+83,83,University of Freiburg,Germany,14878,32.5,0.21,54:46:00,64.7,48.4,52.2,87.3,100,77.8
+84,84,University of Copenhagen,Denmark,30746,4.2,0.17,62:38:00,63.8,49.3,47.3,90.4,50.5,86.4
+85,85,Emory University,United States,12923,4,0.2,59:41:00,63.7,53.9,41.1,98.7,46.7,59.2
+86,86,University of Minnesota,United States,61994,12.4,0.11,53:47:00,63.7,55.1,59,81.4,80.3,40.7
+87,87,ﾃ・cole Polytechnique,France,2850,5.6,0.44,1.011805556,63.4,60.5,52.4,68.2,72.1,96.1
+88,88,University of Science and Technology of China,China,16434,7.2,0.05,n/a,63.4,64,60.4,72.3,75.2,33
+89,89,Sorbonne University,France,43585,12.8,0.2,58:42:00,63.4,63.2,54.5,73.5,36.9,68.5
+90,90,"University of Maryland, College Park",United States,33671,16.6,0.11,48:52:00,63.1,47.4,58.8,90.2,38.9,42.9
+91,91,University of Bristol,United Kingdom,22981,14.5,0.28,55:45:00,63,40.3,48.6,95.6,39.8,88.2
+92,92,University of Basel,Switzerland,9229,12.3,0.3,55:45:00,62.9,44,41.4,91.7,99.7,97.2
+93,93,University of Glasgow,United Kingdom,26533,14.7,0.38,59:41:00,62.9,40.9,48.1,94.3,39.9,92.8
+94,94,Purdue University West Lafayette,United States,41573,16.3,0.22,43:57:00,62.5,57.1,65.5,62,69.9,71.5
+95,95,Zhejiang University,China,33825,10.8,0.23,1.011805556,62.5,65.9,65.6,52.3,100,65.1
+96,96,Korea Advanced Institute of Science and Technology (KAIST),South Korea,9514,10.4,0.09,0.888888889,62.4,64.4,68.1,57.9,100,36.6
+97,97,National Taiwan University (NTU),Taiwan,24880,9.9,0.12,43:57:00,62.3,57.1,66.7,66.9,69.5,44.8
+98,98,"University of California, Irvine",United States,35040,17.5,0.27,52:48:00,62.1,43.5,47.5,93.5,53.2,72.4
+99,99,University of Helsinki,Finland,22137,15.9,0.05,66:34:00,62.1,42.7,58.3,88.9,37,56.1
+100,100,Shanghai Jiao Tong University,China,38556,11.9,0.11,39 : 61,61.8,60.8,70,53.7,100,52
+101,101,Dartmouth College,United States,6336,7.6,0.15,48:52:00,61.7,57.8,39.2,95.3,37.8,40.7
+102,102,Sungkyunkwan University (SKKU),South Korea,23340,19.5,0.18,43:57:00,61.7,55.7,60.3,67.8,98.1,55
+103,103,Ghent University,Belgium,37587,36.1,0.11,56:44:00,61.6,46.6,57.4,79.6,79.9,60.7
+104,104,Lund University,Sweden,27443,11.3,0.19,55:45:00,61.6,39.4,54.5,85.5,79,77
+105,105,Michigan State University,United States,44618,16.1,0.15,51:49:00,61.5,53.1,55.1,77.9,36.4,63.6
+106,106,Aarhus University,Denmark,26318,13.8,0.1,55:45:00,61.4,36.9,56.4,86.2,71.3,76.6
+107,107,University of Birmingham,United Kingdom,30193,14.8,0.3,57:43:00,61.3,40.3,45.5,92.6,40.1,90.2
+108,108,RWTH Aachen University,Germany,45256,58.4,0.23,32 : 68,61.3,55.8,62.4,62.9,98,60.1
+109,109,University of Bern,Switzerland,11417,16.8,0.16,57:43:00,61.2,44.9,42.8,87.4,84.7,87.1
+110,110,Queen Mary University of London,United Kingdom,19365,13.6,0.45,55:45:00,61.1,34.9,43.6,97.4,41.5,96.8
+111,111,Nanjing University,China,37475,17.5,0.09,49:51:00,61,52.4,54,75.2,91.3,56.3
+112,112,Uppsala University,Sweden,25112,15.8,0.18,58:42:00,61,39.2,55.3,84.8,72.4,72.2
+113,113,Vanderbilt University,United States,12139,3,0.15,54:46:00,61,48.9,44.5,94.6,53.5,43.6
+114,114,University of Bonn,Germany,37439,70.2,0.13,56:44:00,60.9,48.6,49.8,84.9,52.7,61.7
+115,115,Penn State (Main campus),United States,46682,11,0.15,47:53:00,60.9,52.6,58.8,76.9,36.9,46.9
+116,116,Vrije Universiteit Amsterdam,Netherlands,25443,18,0.13,58:42:00,60.8,38.2,52.1,89.3,57.5,73.1
+117,117,University of Virginia (Main campus),United States,24879,9,0.13,52:48:00,60.6,52.1,43.3,90.7,41.9,50.2
+118,118,University of Adelaide,Australia,21054,30.7,0.29,49:51:00,60.4,33.7,42.9,96,68.5,92.3
+119,119,Free University of Berlin,Germany,36380,59.2,0.22,59:41:00,60.4,56.8,64.4,58.4,42,73.3
+120,120,Georgetown University,United States,16451,8.5,0.19,55:45:00,60.1,54.5,33.8,94.7,65.7,47.2
+121,121,Case Western Reserve University,United States,10774,9.1,0.23,50:50:00,60,47.3,41,95,40.7,53.5
+122,122,Maastricht University,Netherlands,17326,18.4,0.54,60:40:00,60,39.9,49.1,79.7,82.1,98
+123,123,University of Sheffield,United Kingdom,26765,15.5,0.35,52:48:00,60,45,47.4,81.8,46.5,87.7
+124,124,University of Arizona,United States,39635,18,0.09,52:48:00,59.8,47.6,51.7,85.6,50.3,40.4
+125,125,Rice University,United States,6805,9.2,0.28,42:58:00,59.8,48,38.4,89.9,42.9,77.3
+126,126,City University of Hong Kong,Hong Kong,9510,10.8,0.51,54:46:00,59.7,44.1,47.2,78.6,50.3,99.8
+127,127,University of Oslo,Norway,20737,12.2,0.17,62:38:00,59.4,39.5,44.2,91.5,40.4,78.1
+128,128,University of Southampton,United Kingdom,23498,14.3,0.35,53:47:00,59.4,39.4,42.5,89,41.2,94.5
+129,129,Hong Kong Polytechnic University,Hong Kong,22778,25.4,0.27,51:49:00,59.1,41.1,47.5,81,41.7,96.1
+130,130,University of Gﾃｶttingen,Germany,30894,28,0.13,51:49:00,59,47.6,48.5,82.1,36.4,61.8
+131,131,University of Alberta,Canada,32846,21.5,0.27,55:45:00,58.9,46.4,50.4,72.4,60,88.2
+132,132,University of Colorado Boulder,United States,34481,16.1,0.11,44:56:00,58.9,43.8,45.9,91.3,42,47.5
+133,133,University of Pittsburgh-Pittsburgh campus,United States,26761,5.7,0.11,53:47:00,58.8,45.5,42.8,93.9,40.6,41.7
+134,134,University of York,United Kingdom,16881,15,0.25,57:43:00,58.8,39,44.8,87.9,35.2,86
+135,135,University of Hamburg,Germany,30649,58.7,0.12,57:43:00,58.6,45,53.9,74.1,93.7,58.7
+136,136,Lancaster University,United Kingdom,13047,12.4,0.37,51:49:00,58.4,36.8,40.5,90.9,35.2,94.6
+137,137,University of Paris,France,63219,17.7,0.18,64:36:00,58.4,50.8,38.2,86.3,33.3,66.4
+138,138,Radboud University Nijmegen,Netherlands,20752,17.3,0.16,57:43:00,58.4,33.7,50,88.6,48,73.9
+139,139,The University of Western Australia,Australia,18253,22.5,0.29,48:52:00,58.3,32.4,43.1,90.4,59.1,94.6
+140,140,Indiana University,United States,67054,15,0.15,51:49:00,58.2,49.8,48.8,77.8,51.7,53.6
+141,141,University of Mannheim,Germany,10593,78.3,0.18,n/a,58.2,41.4,49.7,82.7,58.8,60.6
+142,142,Technical University of Berlin,Germany,22695,60.8,0.26,34 : 66,58.2,51.2,55.9,62.3,93.9,66.9
+143,143,Ulm University,Germany,10503,28.4,0.13,49:51:00,58.2,40,37.9,94.9,82,57.4
+144,144,University of Wﾃｼrzburg,Germany,23887,38.2,0.1,56:44:00,58.2,39.3,43,90.5,70.2,61.5
+145,145,University of Cologne,Germany,34630,35,0.18,n/a,58,42.9,44.8,81.6,79.6,69.6
+146,146,University of Ottawa,Canada,35140,24.6,0.2,58:42:00,58,41.1,41.3,87.1,46,79.9
+147,147,University of Auckland,New Zealand,32596,22.6,0.31,56:44:00,57.8,30.6,44.8,87.5,75.4,94.5
+148,148,University of Rochester,United States,10017,4.9,0.34,49:51:00,57.8,45.4,35.2,91.2,41.4,69.8
+149,149,Durham University,United Kingdom,17090,15.2,0.31,55:45:00,57.6,44.8,49.7,71.2,37.3,92.7
+150,150,University of Geneva,Switzerland,17271,16,0.38,61:39:00,57.6,35.2,45.4,80.6,72.8,98.3
+151,151,Pohang University of Science and Technology (POSTECH),South Korea,3034,9.7,0.03,24 : 76,57.5,53.8,51.5,70.4,97.9,30.7
+152,152,University of Florida,United States,46632,16.1,0.09,56:44:00,57.4,54.2,60.4,61.9,56.1,40.5
+153,153,Pompeu Fabra University,Spain,11914,22.9,0.13,60:40:00,57.4,36.9,39.9,93.8,50.9,65.8
+154,154,TU Dresden,Germany,31103,32.9,0.15,43:57:00,57.4,47.2,48.6,73.1,96.7,57.6
+155,155,University of Cape Town,South Africa,21647,11.7,0.17,54:46:00,57.3,30.1,42.1,90.9,89,81.6
+156,156,Trinity College Dublin,Ireland,17154,21.4,0.32,59:41:00,57.3,40.5,44.4,78.3,50.7,94.8
+157,157,Tufts University,United States,11024,9.7,0.16,55:45:00,57.3,46.7,33,95.5,38.5,50
+158,158,Bielefeld University,Germany,24890,71.5,0.08,57:43:00,56.9,34.4,42.7,94.8,66.5,48.3
+159,159,University of Nottingham,United Kingdom,30798,15,0.29,54:46:00,56.9,42,42.4,80,38.7,87.8
+160,160,University of Leeds,United Kingdom,31461,14.3,0.3,60:40:00,56.8,43.2,46.2,74.7,38.5,88.5
+161,161,University of Sussex,United Kingdom,16259,15.8,0.37,55:45:00,56.8,32.7,38.1,92.3,35.1,93.9
+162,162,University of Technology Sydney,Australia,26529,41.7,0.36,51:49:00,56.8,35.3,44.3,81.1,53.7,97
+163,163,University of Liverpool,United Kingdom,25168,14.6,0.33,55:45:00,56.7,35.2,38.1,89.5,37.9,92.6
+164,164,Universitﾃｩ Catholique de Louvain,Belgium,26462,39.7,0.2,53:47:00,56.5,38.1,51.5,73.7,57.9,80.5
+165,165,University of Vienna,Austria,32650,38.5,0.28,65:35:00,56.5,46.1,56.4,59.1,36.3,94.6
+166,166,"Rutgers, the State University of New Jersey",United States,44264,11,0.17,52:48:00,56.4,47.3,48.5,75.8,40.4,52.5
+167,167,University of Bologna,Italy,67298,24.4,0.12,56:44:00,56.3,50.8,36.6,83.6,44.1,51.6
+168,168,Korea University,South Korea,22666,16.6,0.22,n/a,56.3,48.7,50.1,67.6,96.2,53.4
+169,169,University of Alabama at Birmingham,United States,18211,17.3,0.06,63:37:00,56.2,38.4,35.5,97.4,78.6,38.4
+170,170,University of Antwerp,Belgium,15272,31.2,0.17,55:45:00,56,35.3,46,80.7,83,70
+171,171,University of Leicester,United Kingdom,15551,14.7,0.32,53:47:00,56,30.9,33.6,96.2,37.6,90.7
+172,172,University of Notre Dame,United States,12149,10.9,0.12,46:54:00,56,52.1,45.5,71.5,38.1,57.3
+173,173,Sant・・Anna School of Advanced Studies ・・ Pisa,Italy,661,10,0.2,36 : 64,56,45.8,39.6,79.9,85.9,57.2
+174,174,University of Exeter,United Kingdom,22007,17,0.28,54:46:00,55.9,32.4,38.3,89.9,35.8,91.5
+175,175,Lomonosov Moscow State University,Russian Federation,28525,8.4,0.32,52:48:00,55.9,80,67.6,12.9,97.7,70.7
+176,176,Northeastern University,United States,20711,14.1,0.36,48:52:00,55.8,36.7,29.1,98.2,36.5,76
+177,177,Ulsan National Institute of Science and Technology (UNIST),South Korea,3983,14.3,0.08,27 : 73,55.8,34.9,40.7,90.8,85.3,49.1
+178,178,University of Aberdeen,United Kingdom,12863,16.6,0.42,57:43:00,55.7,29.5,34.2,94.4,45.1,95.6
+179,179,Newcastle University,United Kingdom,24089,14.6,0.27,51:49:00,55.7,31.4,38.2,90.6,40.1,88
+180,180,Paris-Saclay University,France,28618,14.6,0.16,55:45:00,55.7,37.3,48.7,80.4,34.5,65.1
+181,181,Scuola Normale Superiore di Pisa,Italy,557,6.7,0.11,29 : 71,55.6,55.6,36.3,77.2,34.2,53.5
+182,182,Autonomous University of Barcelona,Spain,31284,12.5,0.17,59:41:00,55.5,34.7,38.3,91.9,42.1,65.6
+183,183,Stockholm University,Sweden,27200,19.1,0.1,n/a,55.3,31.6,49.2,82.5,35.7,71.4
+184,184,Arizona State University (Tempe),United States,45827,19.7,0.2,43:57:00,55.2,38.2,47.8,79.1,37.1,62.8
+185,185,University of Canberra,Australia,10304,37.4,0.35,n/a,55.2,25.5,32.9,99.7,41.2,89.8
+186,186,Queensland University of Technology,Australia,35555,42,0.17,53:47:00,55.1,31.7,37.4,89.4,53.5,83.2
+187,187,Eindhoven University of Technology,Netherlands,9469,21.3,0.23,n/a,54.9,46.5,49.7,57.9,99.8,82.3
+188,188,George Washington University,United States,23788,13.4,0.17,60:40:00,54.9,46.9,33.3,85.8,34.4,55.9
+189,189,Technical University of Denmark,Denmark,9412,6.7,0.25,31 : 69,54.9,39.8,41.2,72.4,78.4,92.7
+190,190,Yonsei University (Seoul campus),South Korea,17745,14.7,0.22,48:52:00,54.9,52.2,53.7,54,99.5,58.6
+191,191,Cardiff University,United Kingdom,25898,14.1,0.28,59:41:00,54.7,32.4,35.6,89.4,36.7,86.8
+192,192,University of Gothenburg,Sweden,19616,9.8,0.13,n/a,54.7,27.7,40.8,94,39.4,66.2
+193,193,University of Lausanne,Switzerland,12685,8.8,0.24,n/a,54.7,33.1,44.1,76.1,71.3,92.6
+194,194,Tel Aviv University,Israel,22635,22.3,0.07,56:44:00,54.7,40.1,52,73,41.1,56.2
+195,195,Macquarie University,Australia,29835,65.5,0.29,53:47:00,54.6,38.5,43.1,73.7,58.6,87.1
+196,196,University of Mﾃｼnster,Germany,44580,42.9,0.08,n/a,54.6,39.2,43.8,82.5,47,49.5
+197,197,Texas A&M University,United States,62070,24.4,0.08,47:53:00,54.5,47.4,51.6,64.8,44.9,56.1
+198,198,University of Barcelona,Spain,45494,15,0.11,62:38:00,54.4,31,40.2,91.5,45.9,58.6
+199,199,University of Erlangen-Nuremberg,Germany,38052,57.3,0.12,49:51:00,54.4,41.6,46.2,72.6,88.4,53.8
+200,200,University of Calgary,Canada,31863,17.6,0.21,54:46:00,54.3,33.7,36.1,87,51.3,80.2
+201,201,University of East Anglia,United Kingdom,15757,13.8,0.27,59:41:00,54.3,27.8,31.4,97.1,34.5,87.9
+202,202,Queen・・s University Belfast,United Kingdom,18438,17.2,0.36,56:44:00,54.3,31.5,38.1,84,38.4,96.7
+203,203,Aalborg University,Denmark,16227,13.4,0.14,n/a,52.4,27.6,38.6,85.6,49.1,74.5
+204,204,Aalto University,Finland,12506,18.6,0.24,37 : 63,52.4,39.8,38.8,70.7,50,82.7
+205,205,University of Bath,United Kingdom,14410,16.2,0.33,46:54:00,52.4,30,32.2,80.5,36.5,91.8
+206,206,University of Bergen,Norway,14297,12.4,0.13,60:40:00,52.4,28.3,29,94.4,36.3,78.3
+207,207,Brandeis University,United States,5346,12.7,0.27,58:42:00,52.4,28.1,24.4,99.9,34.7,55.8
+208,208,"University of California, Santa Cruz",United States,19457,23.8,0.12,49:51:00,52.4,31.4,31.9,96.2,38.9,63.6
+209,209,Chalmers University of Technology,Sweden,8325,11.9,0.17,32 : 68,52.4,38.8,42.6,61.6,78.9,84
+210,210,Copenhagen Business School,Denmark,16312,30.7,0.25,48:52:00,52.4,25.7,33.1,86.2,42.4,93.3
+211,211,Curtin University,Australia,30130,20.5,0.32,52:48:00,52.4,24.1,30.5,86.9,42.1,95
+212,212,University of Duisburg-Essen,Germany,42744,53.6,0.19,48:52:00,52.4,31.8,33.6,91.5,70.4,60.4
+213,213,University of Dundee,United Kingdom,12247,17.5,0.22,63:37:00,52.4,23.9,32.1,91.5,49.3,80.9
+214,214,Griffith University,Australia,33645,28.6,0.17,58:42:00,52.4,26.7,35.3,85.6,48,82.2
+215,215,University of Hawai・・i at Mﾄ・noa,United States,14732,10.6,0.1,57:43:00,52.4,37,39.3,72.3,52.5,65.5
+216,216,Hebrew University of Jerusalem,Israel,16105,11.9,0.05,57:43:00,52.4,45.6,45,61.3,42.6,60.5
+217,217,University of Hohenheim,Germany,9235,42.5,0.15,57:43:00,52.4,33.8,31.1,96.4,50.8,55.8
+218,218,Howard University,United States,8766,9.3,0.08,67:33:00,52.4,43.9,17,99.5,33.3,35
+219,219,University of Iowa,United States,29406,11.6,0.1,53:47:00,52.4,42.3,30.2,80.6,50.6,46.1
+220,220,James Cook University,Australia,11198,21,0.11,64:36:00,52.4,22.7,28.9,94.2,45.3,76.4
+221,221,Karlsruhe Institute of Technology,Germany,26886,27.9,0.23,28 : 72,52.4,45.4,49.4,60,94.6,71.2
+222,222,King Abdulaziz University,Saudi Arabia,31869,7.8,0.22,54:46:00,52.4,30.6,16,95.2,77.7,93.4
+223,223,KTH Royal Institute of Technology,Sweden,13482,16.5,0.2,33 : 67,52.4,41.3,44.1,58,51,88.7
+224,224,La Trobe University,Australia,22303,31.9,0.3,64:36:00,52.4,27.9,34.6,82.7,50,86.7
+225,225,Universitﾃｩ Libre de Bruxelles,Belgium,24157,42.1,0.31,56:44:00,52.4,32.1,42.6,76.2,42.6,88.8
+226,226,University of Luxembourg,Luxembourg,4858,19,0.51,52:48:00,52.4,35.7,35,73.2,45.2,99.6
+227,227,University of Massachusetts,United States,61958,13.3,0.15,48:52:00,52.4,37.3,32,88.3,50.7,64.1
+228,228,Medical University of Graz,Austria,3541,12.1,0.25,52:48:00,52.4,29.8,27.3,95.1,62.6,76
+229,229,Medical University of Innsbruck,Austria,3080,11,0.44,52:48:00,52.4,31,26.3,92.3,86.9,87
+230,230,Medical University of Vienna,Austria,7466,8.8,0.3,52:48:00,52.4,33.4,25.4,92.2,57.8,79.2
+231,231,University of Miami,United States,16179,6.3,0.16,52:48:00,52.4,45.1,25,81.4,40.5,60.6
+232,232,Moscow Institute of Physics and Technology (MIPT),Russian Federation,5736,11.4,0.18,25 : 75,52.4,53.4,45.3,49.9,100,60.4
+233,233,University of Otago,New Zealand,18571,20.4,0.21,59:41:00,52.4,29.5,33.4,85.3,37.1,89.8
+234,234,RCSI University of Medicine and Health Sciences,Ireland,2355,23.1,0.65,n/a,52.4,30.9,33.3,87.8,50.3,94.1
+235,235,University of Reading,United Kingdom,15207,15.8,0.31,57:43:00,52.4,34.3,35.5,74.7,38.2,91.9
+236,236,"St George・・s, University of London",United Kingdom,3425,12,0.21,62:38:00,52.4,22.5,26.9,99.3,36.4,76.6
+237,237,University of Sﾃ｣o Paulo,Brazil,82961,16.1,0.04,47:53:00,52.4,56.6,58.9,44.2,41.7,35.2
+238,238,Sapienza University of Rome,Italy,77496,22.9,0.07,57:43:00,52.4,51.9,41.4,68.5,44,41.4
+239,239,University of South Florida (Tampa),United States,34839,19.2,0.15,n/a,52.4,31.1,36.9,87.4,93.2,55.6
+240,240,University of St Andrews,United Kingdom,9614,12.8,0.47,58:42:00,52.4,43.3,44,55.6,36.7,95.4
+241,241,Tﾃｩlﾃｩcom Paris,France,897,5.4,0.43,0.847916667,52.4,44.1,38.1,68.1,81.1,84.7
+242,242,Tilburg University,Netherlands,9380,24,0.16,47:53:00,52.4,36.5,50.2,61.9,51.2,79.8
+243,243,Tohoku University,Japan,17752,11.7,0.12,27 : 73,52.4,57.7,61,38.1,97.4,46.7
+244,244,University of Twente,Netherlands,8207,14.4,0.35,37 : 63,52.4,37.6,46.6,54.7,86.7,92.9
+245,245,University of Utah,United States,30692,14.8,0.08,48:52:00,52.4,38.3,31.8,86.6,56.4,32.8
+246,246,Virginia Polytechnic Institute and State University,United States,34155,18.4,0.14,43:57:00,52.4,36.2,42.4,72.5,47.8,55.6
+247,247,University of Waterloo,Canada,32804,22.8,0.21,47:53:00,52.4,35.8,43.3,67.1,44,86
+248,248,Western University,Canada,29865,22.8,0.18,56:44:00,52.4,39.7,35.8,79.3,64.2,80.7
+249,249,University of the Witwatersrand,South Africa,27839,25.8,0.07,55:45:00,52.4,30.7,43.9,77.8,100,72.8
+250,250,University of Wollongong,Australia,18517,30.5,0.29,52:48:00,52.4,29.2,36.1,78.1,56.9,94.3
+251,251,Alfaisal University,Saudi Arabia,2640,10.2,0.34,60:40:00,49.25,19.8,21,98.7,45.2,97.8
+252,252,Auckland University of Technology,New Zealand,17909,17.1,0.49,59:41:00,49.25,21,19.9,99.5,36.1,95.9
+253,253,Australian Catholic University,Australia,24087,46.3,0.13,73:27:00,49.25,21.5,27.6,89.1,37.8,77.3
+254,254,Brighton and Sussex Medical School,United Kingdom,900,9.3,0.14,59:41:00,49.25,18.9,20.3,100,33.4,78.7
+255,255,University at Buffalo,United States,26341,17.5,0.16,44:56:00,49.25,36.8,34,73.1,44.7,64.6
+256,256,"University of California, Riverside",United States,22498,17.7,0.14,53:47:00,49.25,31.2,30.3,85,37.5,65.7
+257,257,University of Cincinnati,United States,29309,20.5,0.09,51:49:00,49.25,35.8,31.2,83.8,38.5,43.6
+258,258,Dalhousie University,Canada,15651,13.3,0.26,54:46:00,49.25,27.7,29.2,78.4,42.4,87.7
+259,259,Deakin University,Australia,41341,33.9,0.26,57:43:00,49.25,25.1,31.4,78.3,40.2,87.1
+260,260,ﾃ・cole des Ponts ParisTech,France,2059,11.5,0.43,31 : 69,49.25,35.7,23.8,79.2,58.7,83.1
+261,261,ﾃ・cole Normale Supﾃｩrieure de Lyon,France,2362,9,0.13,48:52:00,49.25,44.1,45.6,53.5,50.5,67
+262,262,Flinders University,Australia,17167,25.4,0.4,64:36:00,49.25,21.9,29.8,85.6,37.8,89.2
+263,263,Florida State University,United States,38368,25.8,0.07,57:43:00,49.25,37.9,40.1,69.5,38.7,45.9
+264,264,Friedrich Schiller University Jena,Germany,17063,20.1,0.14,n/a,49.25,39.5,37.2,71.1,49.1,61.5
+265,265,George Mason University,United States,30500,18.1,0.11,53:47:00,49.25,31,28.9,89.9,35,47.8
+266,266,Goethe University Frankfurt,Germany,46481,19.2,0.16,57:43:00,49.25,33.1,31.1,77.9,41.6,61
+267,267,HSE University,Russian Federation,25268,14.8,0.11,n/a,49.25,34.1,41.4,68.4,59.5,44.5
+268,268,University of Illinois at Chicago,United States,27031,11.5,0.2,52:48:00,49.25,43.7,33,68.9,42.6,55.7
+269,269,Jacobs University,Germany,1353,18.8,0.76,43:57:00,49.25,38.7,32.1,64.6,57.1,91.1
+270,270,University of Kiel,Germany,27181,22.3,0.08,53:47:00,49.25,30.2,30.3,85.9,33.3,56.4
+271,271,University of Konstanz,Germany,11553,51.1,0.13,55:45:00,49.25,39,44.4,59.9,69.6,69.6
+272,272,Kyung Hee University,South Korea,20862,17.5,0.23,54:46:00,49.25,37,41.4,63.9,85.3,63.5
+273,273,Universitﾃｩ Laval,Canada,28874,17.2,0.13,58:42:00,49.25,39.4,33.5,71.4,63.9,69.8
+274,274,Macau University of Science and Technology,Macao,10596,24.9,0.84,56:44:00,49.25,29.7,23.6,86.3,40.3,100
+275,275,University of Navarra,Spain,11329,14.9,0.24,54:46:00,49.25,29,27.9,83.3,63.4,69.5
+276,276,University of Newcastle,Australia,23221,21.7,0.18,55:45:00,49.25,26.2,30.5,80.7,53,84.2
+277,277,University of New Mexico (Main campus),United States,18277,16.3,0.05,56:44:00,49.25,39.8,30.2,82.3,42.3,33.5
+278,278,Nova Southeastern University,United States,17101,21.2,0.06,70:30:00,49.25,38.7,11.5,99.8,33.3,29.3
+279,279,Oregon Health and Science University,United States,2999,1,0.03,66:34:00,49.25,36.5,17.4,99.7,46.1,27.8
+280,280,University of Padua,Italy,46900,21.7,0.07,55:45:00,49.25,40,32.8,78.5,38.3,48.8
+281,281,University of Potsdam,Germany,20668,55,0.12,57:43:00,49.25,36.4,40.3,66.6,65.3,56.6
+282,282,Queen・・s University,Canada,24354,26.1,0.14,58:42:00,49.25,40,36.9,64.8,58.8,68.9
+283,283,Ruhr University Bochum,Germany,42954,59.5,0.15,49:51:00,49.25,39.5,45.2,63.6,53.9,57.5
+284,284,Simon Fraser University,Canada,26778,27.5,0.3,55:45:00,49.25,25.1,34.3,77.8,47.3,91.9
+285,285,University of Southern Denmark,Denmark,22544,12.7,0.14,53:47:00,49.25,21.1,30.2,85.2,71.1,78.4
+286,286,Southern University of Science and Technology (SUSTech),China,3656,9,0.01,n/a,49.25,25.2,35.2,84.1,97.4,59.7
+287,287,State University of New York Albany,United States,16078,16.6,0.09,53:47:00,49.25,24.2,27.5,93.3,40.1,50.6
+288,288,Stellenbosch University,South Africa,24525,25.9,0.08,56:44:00,49.25,28.7,35.7,77.9,73.1,54.1
+289,289,Sun Yat-sen University,China,53734,16.1,0.08,50:50:00,49.25,41.7,34.9,69.7,62.3,35.6
+290,290,University of Surrey,United Kingdom,14315,16.3,0.38,54:46:00,49.25,30.8,34.5,74,43.1,94.5
+291,291,Swansea University,United Kingdom,17353,16.5,0.22,45:55:00,49.25,20.7,21.6,95.7,36,83.3
+292,292,University of Tartu,Estonia,8735,11.9,0.1,68:32:00,49.25,25.6,28.3,87.8,41.7,59.3
+293,293,Universitﾃ della Svizzera Italiana,Switzerland,2713,10.3,0.67,49:51:00,49.25,29.4,21.5,82.1,56.6,99.6
+294,294,University College Dublin,Ireland,23148,23.2,0.3,n/a,49.25,29,37.8,73.3,44,93.1
+295,295,Vita-Salute San Raffaele University,Italy,2880,9.8,0.04,60:40:00,49.25,36.2,21.5,96.1,34.3,43.1
+296,296,Vrije Universiteit Brussel,Belgium,12041,29.8,0.23,55:45:00,49.25,36.6,43,63.3,54.8,76.3
+297,297,Wake Forest University,United States,7804,4.1,0.1,54:46:00,49.25,39.1,20.5,89.1,42.2,32.6
+298,298,Western Sydney University,Australia,34750,37.8,0.2,56:44:00,49.25,24.4,30.9,88,41.6,86.7
+299,299,William & Mary,United States,8278,11.1,0.09,56:44:00,49.25,46.1,19.8,84.7,34.5,38.2
+300,300,American University of Beirut,Lebanon,8603,8.4,0.22,51:49:00,46.75,29.3,15.3,87.9,35.4,78.9
+301,301,Anglia Ruskin University ARU,United Kingdom,18932,24,0.33,64:36:00,46.75,17.8,15.4,100,34.1,87.6
+302,302,Autonomous University of Madrid,Spain,29825,13.5,0.14,61:39:00,46.75,32.7,29,75.4,36.1,53.3
+303,303,Beijing Normal University,China,23365,14.9,0.11,n/a,46.75,46.5,41.2,54.1,69.7,43.3
+304,304,Boston College,United States,12921,15.5,0.11,54:46:00,46.75,48.2,33.3,64.5,33.5,44
+305,305,"University of California, Merced",United States,7849,21.2,0.09,51:49:00,46.75,21.6,23,95.2,38.8,43.9
+306,306,University of Colorado Denver,United States,17112,4,0.08,56:44:00,46.75,32.7,19.1,94.2,41,29.9
+307,307,Cyprus University of Technology,Cyprus,3176,17.4,0.11,55:45:00,46.75,18.3,17.8,98.2,35.1,76
+308,308,University of Delaware,United States,21564,17.1,0.1,57:43:00,46.75,27.9,39.7,69.1,95.1,48.9
+309,309,University of Essex,United Kingdom,12435,15.6,0.38,53:47:00,46.75,30.8,34.8,67.2,34.4,96.5
+310,310,University of Greifswald,Germany,10179,21,0.07,56:44:00,46.75,31.3,25.7,80.8,40,47.4
+311,311,Huazhong University of Science and Technology,China,56941,16.3,0.06,36 : 64,46.75,39.8,39.4,63.3,91.9,27.7
+312,312,Illinois Institute of Technology,United States,6092,14.5,0.49,36 : 64,46.75,42.2,27.3,63.3,36.4,75.7
+313,313,Indian Institute of Science,India,4038,9.3,0.01,27 : 73,46.75,58.1,53.1,31.9,87.6,22.1
+314,314,Johannes Gutenberg University of Mainz,Germany,31773,25.7,0.11,59:41:00,46.75,34.3,25.9,77.5,64.4,57.4
+315,315,University of Kent,United Kingdom,17843,19.3,0.3,53:47:00,46.75,26.4,30,73.7,33.8,91.1
+316,316,University of Klagenfurt,Austria,3361,10.1,0.23,69:31:00,46.75,30.4,17.7,85.5,34.8,88.2
+317,317,Kurdistan University of Medical Sciences,Iran,2927,11,0.01,51:49:00,46.75,39.8,9.7,100,35.8,19.1
+318,318,University of Macau,Macao,9343,14,0.36,56:44:00,46.75,30,35.5,64.8,40.9,99.3
+319,319,University of Malaya,Malaysia,15794,8.3,0.2,65:35:00,46.75,39.3,31.5,60,44.4,83.7
+320,320,University of Marburg,Germany,24527,32.6,0.12,55:45:00,46.75,34.4,29,72.6,39.1,53.4
+321,321,Montpellier University,France,39703,19.7,0.15,53:47:00,46.75,36.8,29.7,67.5,36.9,61.9
+322,322,"National University of Ireland, Galway",Ireland,14453,26.6,0.18,58:42:00,46.75,26.8,31.9,69.6,45.8,80.2
+323,323,North Carolina State University,United States,29966,12.5,0.15,46:54:00,46.75,36.6,36.3,62.3,42.6,59
+324,324,University of Oregon,United States,22019,10.6,0.1,54:46:00,46.75,33,24.2,83.1,34.3,35.9
+325,325,University of Oulu,Finland,9822,26.6,0.07,53:47:00,46.75,31.4,32.8,74.6,51,55.4
+326,326,University of Passau,Germany,11249,91.4,0.14,59:41:00,46.75,33.8,40,64.4,40.5,60.5
+327,327,Peter the Great St Petersburg Polytechnic University,Russian Federation,16768,9.2,0.31,39 : 61,46.75,27.1,16.9,90,74.8,56.1
+328,328,Qatar University,Qatar,8808,9.2,0.37,75:25:00,46.75,25,30.7,71.7,54,99.4
+329,329,Reykjavﾃｭk University,Iceland,2501,23.4,0.09,46:54:00,46.75,15.1,20.6,100,35,69.4
+330,330,RMIT University,Australia,33427,23.1,0.33,48:52:00,46.75,25.8,30.2,70.5,44.2,93.5
+331,331,"Royal Holloway, University of London",United Kingdom,9686,14.7,0.35,58:42:00,46.75,32.3,31.4,65.1,35.7,91.9
+332,332,Rush University,United States,2624,2.2,0.02,74:26:00,46.75,39.9,14.6,92.2,41.7,21.3
+333,333,Sejong University,South Korea,12207,20.2,0.11,46:54:00,46.75,26.8,25.3,86.9,44.3,47.3
+334,334,University of South Australia,Australia,20930,30.6,0.2,58:42:00,46.75,24.5,36.1,67.2,86.9,86.2
+335,335,University of Stirling,United Kingdom,9548,16.7,0.24,63:37:00,46.75,23.4,26.5,80,34.2,83.4
+336,336,Stony Brook University,United States,24593,10.6,0.23,50:50:00,46.75,33.3,24.5,78.4,34.7,71.8
+337,337,Syracuse University,United States,20484,15,0.2,53:47:00,46.75,34.7,28.3,73.7,34.9,49.6
+338,338,Taipei Medical University,Taiwan,6112,9.8,0.1,58:42:00,46.75,30.3,33.2,77.5,96,40.3
+339,339,Tampere University,Finland,15267,21.8,0.06,52:48:00,46.75,26,32.8,83.3,54,51.6
+340,340,Technical University of Darmstadt,Germany,17814,39.8,0.17,31 : 69,46.75,44.3,44.6,48.1,87.4,58.2
+341,341,Temple University,United States,36398,13.1,0.09,53:47:00,46.75,38.8,25.3,81.3,33.3,39.2
+342,342,The University of Tennessee-Knoxville,United States,26184,16.6,0.05,n/a,46.75,33.1,24.2,81.3,43.7,46.7
+343,343,University of Texas at Dallas,United States,23587,20.8,0.23,43:57:00,46.75,25,27.7,81.1,39.6,59.8
+344,344,Tokyo Institute of Technology,Japan,9566,7.8,0.13,0.684027778,46.75,51.8,54.2,34.7,71.8,41.1
+345,345,University of Trento,Italy,13180,20.1,0.07,51:49:00,46.75,28.1,31.8,74.9,39.8,58.2
+346,346,Tulane University,United States,11224,9.1,0.11,58:42:00,46.75,42.9,24.1,78.2,35.8,43.2
+347,347,United Arab Emirates University,United Arab Emirates,7270,8.9,0.18,83:17:00,46.75,24.7,21.3,83.6,55.8,89.4
+348,348,University College Cork,Ireland,17051,17.6,0.19,58:42:00,46.75,23.7,23.5,82.9,44.8,82.5
+349,349,Washington State University,United States,28482,18.4,0.07,53:47:00,46.75,32.1,30.5,76.9,49.4,49.3
+350,350,Wuhan University,China,53956,15.2,0.07,n/a,46.75,43.4,36.8,58.4,86.9,40.4
+351,351,Aix-Marseille University,France,68841,16.7,0.13,59:41:00,44.55,40.6,25.4,66.3,37,60.1
+352,352,Babol Noshirvani University of Technology,Iran,5140,23.8,0,34 : 66,44.55,18.8,20.3,100,38.3,18.7
+353,353,University of Bayreuth,Germany,9162,30.5,0.12,47:53:00,44.55,36.4,38,56.2,62.7,59.1
+354,354,"Birkbeck, University of London",United Kingdom,8148,17,0.38,54:46:00,44.55,28.7,33.2,60.8,33.5,87.7
+355,355,Universiti Brunei Darussalam,Brunei Darussalam,3818,10.9,0.17,65:35:00,44.55,24.3,18.6,80.1,35.1,87.4
+356,356,Brunel University London,United Kingdom,11679,18,0.36,47:53:00,44.55,28.7,26.2,67.1,36,96
+357,357,Catholic University of Portugal,Portugal,11187,23.7,0.17,62:38:00,44.55,19.3,13.4,95.8,35.3,57.5
+358,358,Central South University,China,53277,19.1,0.03,n/a,44.55,32.6,37.1,66.2,96.7,24.3
+359,359,"City, University of London",United Kingdom,14786,18.5,0.51,57:43:00,44.55,27,28.1,69.8,34.4,95.1
+360,360,University of Crete,Greece,13649,24.5,0.05,62:38:00,44.55,19.1,20.7,91.1,36.6,48.1
+361,361,Drexel University,United States,20140,11.4,0.16,51:49:00,44.55,35.7,22.3,73,43,50.3
+362,362,East China Normal University,China,27085,14.5,0.13,65:35:00,44.55,36.7,33.3,56.5,54.7,61.5
+363,363,University of Fribourg,Switzerland,10888,31.7,0.18,60:40:00,44.55,29.5,32.2,60.7,53.6,86.7
+364,364,Grenoble Alpes University,France,40486,17.1,0.14,53:47:00,44.55,33.3,31,64,35.1,62
+365,365,Hanyang University,South Korea,20019,15.3,0.21,n/a,44.55,40.1,40.8,42.3,97.6,63.3
+366,366,Hasselt University,Belgium,5503,30.9,0.13,48:52:00,44.55,29.9,37.9,59,54.9,68.4
+367,367,Heriot-Watt University,United Kingdom,9420,18,0.36,41:59:00,44.55,28.8,25,66.8,44.4,94
+368,368,Hong Kong Baptist University,Hong Kong,8224,15.4,0.51,71:29:00,44.55,30.6,29.8,59.2,38.8,98.4
+369,369,IMT Atlantique,France,1628,8.6,0.43,24 : 76,44.55,36.4,33.5,53.6,95.4,75.9
+370,370,Indian Institute of Technology Ropar,India,1765,10.9,0,0.725,44.55,30.3,13,100,35.7,19.1
+371,371,University of Innsbruck,Austria,13492,22.8,0.42,54:46:00,44.55,32.9,30.7,53.5,51.6,95.9
+372,372,University of Kansas,United States,24467,9.9,0.09,52:48:00,44.55,36.6,24.8,68.9,44,48.4
+373,373,Khalifa University,United Arab Emirates,3164,9.7,0.19,59:41:00,44.55,27.9,34,53.1,100,90.3
+374,374,University of KwaZulu-Natal,South Africa,36731,28.8,0.04,58:42:00,44.55,28.1,31.3,70.6,36,54.3
+375,375,Lappeenranta-Lahti University of Technology LUT,Finland,4099,29.2,0.16,31 : 69,44.55,27.2,31.6,68.1,54.9,62.1
+376,376,University of Liﾃｨge,Belgium,20968,25.9,0.2,57:43:00,44.55,28.2,37.3,60.3,98.1,71.1
+377,377,Loughborough University,United Kingdom,14802,13.7,0.27,41:59:00,44.55,33.5,35.4,57.6,37.7,83.3
+378,378,University of Manitoba,Canada,28786,28.9,0.18,53:47:00,44.55,31.9,31.9,71.3,34.7,54.5
+379,379,University of Milan,Italy,45752,20.9,0.06,59:41:00,44.55,33.1,29,72.8,37.5,43.1
+380,380,University of Milan-Bicocca,Italy,27098,29.4,0.06,61:39:00,44.55,26.9,21.5,82.9,39,44.9
+381,381,Nagoya University,Japan,15589,9.4,0.11,30 : 70,44.55,47.7,47.8,38.5,87.7,34.9
+382,382,Nankai University,China,29500,13.5,0.08,n/a,44.55,37.2,23.5,78.3,43.2,31.2
+383,383,National Tsing Hua University,Taiwan,14758,17.9,0.11,42:58:00,44.55,37.4,48.6,48.4,65.3,39.2
+384,384,Northumbria University,United Kingdom,21983,17.2,0.18,55:45:00,44.55,19.6,17.8,87.3,34,74.3
+385,385,NOVA University of Lisbon,Portugal,19976,18.3,0.19,51:49:00,44.55,25.1,28.2,76.6,45.5,61.2
+386,386,"University of Occupational and Environmental Health, Japan",Japan,1159,2.5,0.01,52:48:00,44.55,27,10.2,100,40,19.3
+387,387,ﾃ・rebro University,Sweden,9434,16.9,0.06,60:40:00,44.55,17.8,21.7,90.5,35.2,53.8
+388,388,Osaka University,Japan,22867,7.4,0.12,32 : 68,44.55,52,50.6,34,64,38.6
+389,389,Polytechnic University of Milan,Italy,36828,25.4,0.18,34 : 66,44.55,32,34.4,60.8,75,60.5
+390,390,University of Stuttgart,Germany,24554,44,0.2,33 : 67,44.55,39.3,43.5,47.4,96.2,52.8
+391,391,Swedish University of Agricultural Sciences,Sweden,3720,4.4,0.04,69:31:00,44.55,29.5,27.9,74.2,89.5,48.1
+392,392,Swinburne University of Technology,Australia,15604,25.1,0.28,35 : 65,44.55,24.6,28.2,70.4,41.6,81.1
+393,393,University of Tasmania,Australia,18328,22.8,0.33,60:40:00,44.55,25.4,32.9,63.3,46.2,90.1
+394,394,University of Turku,Finland,12813,15.8,0.06,63:37:00,44.55,27,30.8,75.6,35.8,54
+395,395,UiT The Arctic University of Norway,Norway,14276,10.4,0.11,58:42:00,44.55,23,20.8,83,36,65.4
+396,396,Umeﾃ･ University,Sweden,17055,12.4,0.11,60:40:00,44.55,23,28.7,79.3,35.2,63.5
+397,397,Universitﾃｩ de Versailles Saint-Quentin-en-Yvelines,France,16699,21.2,0.16,60:40:00,44.55,16.5,23.3,86.8,34.6,66.1
+398,398,Victoria University,Australia,15838,44.1,0.28,52:48:00,44.55,25,28.1,70.5,43.6,86.6
+399,399,University of Victoria,Canada,21317,25.2,0.21,55:45:00,44.55,23.6,31.7,65.1,44.4,87.8
+400,400,Wayne State University,United States,22359,11.6,0.07,57:43:00,44.55,33.6,18.4,81.9,48.1,37.4
+401,401,Aberystwyth University,United Kingdom,6809,17.2,0.22,51:49:00,41.65,23.8,23.8,62,38.6,79
+402,402,University of Alaska Fairbanks,United States,3342,8.2,0.05,52:48:00,41.65,28.8,24.1,67.3,41.3,55.7
+403,403,American University,United States,12460,13.5,0.13,63:37:00,41.65,39.5,17.6,69.9,38.7,34.6
+404,404,Aston University,United Kingdom,11549,19.7,0.25,48:52:00,41.65,21.5,25.6,66.2,36.1,92.4
+405,405,Aswan University,Egypt,25114,40.9,0.02,57:43:00,41.65,12.4,9.1,99.9,33.4,46.9
+406,406,Bangor University,United Kingdom,9663,17,0.25,59:41:00,41.65,22.4,24,65.3,34.2,82.3
+407,407,University of Bari Aldo Moro,Italy,29396,21.1,0.01,61:39:00,41.65,17.1,19.5,87.3,35.8,33.1
+408,408,Bauman Moscow State Technical University,Russian Federation,19501,5.6,0.08,29 : 71,41.65,32.5,17.1,71.7,69.9,29.4
+409,409,University of Bordeaux,France,54812,22.4,0.13,59:41:00,41.65,31.3,22.3,68.6,37,59.9
+410,410,Bournemouth University,United Kingdom,13713,17,0.18,55:45:00,41.65,33.5,20.3,67.3,33.6,79.8
+411,411,University of Bremen,Germany,18843,32.3,0.13,51:49:00,41.65,35.4,37.2,50.4,50.7,58.7
+412,412,University of Brescia,Italy,14479,25.1,0.07,45:55:00,41.65,23.4,16.7,80.1,38.4,44.2
+413,413,University of Campinas,Brazil,29082,15.6,0.03,47:53:00,41.65,45.3,43.9,37.2,45.7,32
+414,414,Cankaya University,Turkey,7492,25.2,0.01,45:55:00,41.65,15.1,11.6,100,35,43.2
+415,415,University of Canterbury,New Zealand,14069,18.6,0.24,50:50:00,41.65,22,26.8,68.9,37.4,93.1
+416,416,Centrale Nantes,France,1776,16.5,0.48,25 : 75,41.65,32.6,31.4,41.1,79.4,84.3
+417,417,CEU Universities,Spain,17654,11.5,0.19,63:37:00,41.65,17.4,8.9,94.3,37.2,48.3
+418,418,Charles University in Prague,Czech Republic,47406,12.8,0.22,62:38:00,41.65,33.1,26.5,56.3,33.8,62.9
+419,419,"China Medical University, Taiwan",Taiwan,7633,16.9,0.09,55:45:00,41.65,27.1,34.8,54.5,96.6,36.3
+420,420,Clark University,United States,3045,11.5,0.23,60:40:00,41.65,23.9,22.2,73.5,33.3,57.8
+421,421,Colorado School of Mines,United States,5898,17.2,0.11,30 : 70,41.65,30.8,26.2,68.9,46,41
+422,422,"Colorado State University, Fort Collins",United States,26178,16.1,0.06,53:47:00,41.65,28.9,24.7,76,39,38.3
+423,423,University of Connecticut,United States,27996,13.2,0.11,52:48:00,41.65,34.7,28.8,59,36.7,53
+424,424,University of Denver,United States,9397,12.6,0.08,57:43:00,41.65,40.2,22.8,68.9,34.7,27.5
+425,425,University of Desarrollo,Chile,15213,18.6,0.03,56:44:00,41.65,14.3,9.2,99.5,35.8,49
+426,426,Diego Portales University,Chile,17234,14.7,0.02,49:51:00,41.65,15.4,10.5,96.4,33.4,50.8
+427,427,Durban University of Technology,South Africa,23432,33.3,0.01,52:48:00,41.65,16.8,9.4,99.9,37.5,38.8
+428,428,University of Eastern Finland,Finland,11742,18.8,0.06,64:36:00,41.65,24.2,28.3,70.9,37.4,50.3
+429,429,Edith Cowan University,Australia,17756,28.8,0.27,60:40:00,41.65,18.9,22,70.8,37.2,84.2
+430,430,Federal University of Toulouse Midi-Pyrﾃｩnﾃｩes,France,104479,16.5,0.14,54:46:00,41.65,27,25.5,64.4,35.8,61
+431,431,University of Florence,Italy,36497,21,0.1,59:41:00,41.65,33.7,25.8,65.7,42.5,46.4
+432,432,Florida International University,United States,33974,23.7,0.08,58:42:00,41.65,30.6,27.1,67.1,34.4,39.6
+433,433,Free University of Bozen-Bolzano,Italy,3891,11.9,0.12,67:33:00,41.65,20.7,13.4,81.7,35.3,75.9
+434,434,University of Genoa,Italy,23405,19.3,0.09,56:44:00,41.65,31.9,24.7,69.7,44,43.5
+435,435,University of Georgia,United States,36169,16.6,0.07,57:43:00,41.65,40.3,36.1,51.4,36.2,46.3
+436,436,Georgia State University,United States,30633,15.3,0.06,58:42:00,41.65,32.1,26.9,62.1,34.4,37
+437,437,"Goldsmiths, University of London",United Kingdom,9015,15.7,0.36,66:34:00,41.65,26.2,27,59.5,33.3,81
+438,438,Harbin Institute of Technology,China,31873,10.6,0.12,30 : 70,41.65,39.3,37.7,46.9,99.4,37.8
+439,439,Hunan University,China,41210,20.2,0.02,47:53:00,41.65,22.5,22.7,85.3,53.8,24
+440,440,University of Ibadan,Nigeria,38170,25.7,0.01,47:53:00,41.65,21.4,12.2,88.5,34,30.9
+441,441,University of Iceland,Iceland,8309,14.1,0.12,66:34:00,41.65,19.2,31.6,71.9,65.2,63.1
+442,442,Indian Institute of Technology Indore,India,1309,9.2,0,0.765972222,41.65,36.2,23.8,70.2,35,20.4
+443,443,Iowa State University,United States,31814,18.1,0.12,44:56:00,41.65,30.7,32.3,58.8,49.5,57
+444,444,Jordan University of Science and Technology,Jordan,21087,11.9,0.16,57:43:00,41.65,17,9,99.9,38.8,62.5
+445,445,Justus Liebig University Giessen,Germany,28039,44.5,0.1,62:38:00,41.65,34.6,35.2,54.7,40.7,53.4
+446,446,University of Jyvﾃ､skylﾃ､,Finland,10262,14.6,0.04,61:39:00,41.65,26.1,30.6,62.6,34.8,51.5
+447,447,University of Kentucky,United States,26839,13.3,0.04,56:44:00,41.65,36.6,26.6,56.6,38.1,38.1
+448,448,King Saud University,Saudi Arabia,38189,10.1,0.1,52:48:00,41.65,25,26.2,63.5,86.6,80.3
+449,449,Koﾃｧ University,Turkey,5440,16,0.06,50:50:00,41.65,29.8,37.4,49.4,63.6,49.5
+450,450,Kyushu University,Japan,18714,9.3,0.13,28 : 72,41.65,45.3,42.3,33.8,79,40.7
+451,451,Linkﾃｶping University,Sweden,18628,11.2,0.11,54:46:00,41.65,22.8,24.6,75.6,50.1,63.1
+452,452,L・・institut Agro,France,2120,10.9,0.16,62:38:00,41.65,36.4,22.9,59.7,44.8,60
+453,453,Liverpool John Moores University,United Kingdom,20201,16.9,0.15,53:47:00,41.65,19.2,18,78.9,33.8,73.4
+454,454,Makerere University,Uganda,30486,20.8,0.03,52:48:00,41.65,18.3,24.7,68.7,100,54.7
+455,455,Mansoura University,Egypt,140144,23.8,0.03,58:42:00,41.65,18.3,10.1,91.9,38.2,46.4
+456,456,Maynooth University,Ireland,10107,28.6,0.12,56:44:00,41.65,19.8,28.8,66.4,36.4,77.6
+457,457,Middlesex University,United Kingdom,15749,17.9,0.45,60:40:00,41.65,19.7,18.3,74.2,33.6,89.2
+458,458,Missouri University of Science and Technology,United States,7862,21.6,0.12,24 : 76,41.65,25.2,25.5,66.8,54.6,65.9
+459,459,Mizzou - University of Missouri,United States,26446,12.5,0.05,53:47:00,41.65,35.3,25.7,64.2,34.8,41.5
+460,460,University of Modena and Reggio Emilia,Italy,18741,26.8,0.06,53:47:00,41.65,31.5,22.1,72.1,41.6,39.9
+461,461,University of Naples Federico II,Italy,50375,19.7,0.02,55:45:00,41.65,30.7,24.1,73.1,38.8,32.1
+462,462,National and Kapodistrian University of Athens,Greece,59348,28.3,0.1,62:38:00,41.65,23.2,15.8,76.9,58.6,53.3
+463,463,National Research Nuclear University MEPhI,Russian Federation,5797,10.5,0.26,34 : 66,41.65,40.5,40.4,26.9,100,66.3
+464,464,National Yang-Ming University,Taiwan,4254,4.8,0.02,49:51:00,41.65,38.6,19.1,75.1,37.6,22.8
+465,465,University of Nebraska-Lincoln,United States,24677,16.6,0.12,48:52:00,41.65,26.1,27.3,62.9,36.9,58
+466,466,University of Neuchﾃ｢tel,Switzerland,4138,12.7,0.25,58:42:00,41.65,25.3,29.3,53.3,36.1,92.1
+467,467,Norwegian University of Science and Technology,Norway,36050,15.5,0.08,48:52:00,41.65,27.2,28.3,64,37.6,63.1
+468,468,Oklahoma State University,United States,22047,15.4,0.07,50:50:00,41.65,28.6,20.4,75,39.4,44.1
+469,469,Oregon State University,United States,25824,16.6,0.11,47:53:00,41.65,29.6,29.5,65.1,36.3,53.2
+470,470,University of Pavia,Italy,25589,44,0.08,56:44:00,41.65,27.3,26.9,65.5,59.9,48
+471,471,University of Peradeniya,Sri Lanka,17301,11.5,0.01,61:39:00,41.65,16.5,7.8,100,34.5,42.1
+472,472,University of the Philippines,Philippines,41419,8.7,0.01,54:46:00,41.65,23.5,16,86.7,39.5,33.4
+473,473,University of Pisa,Italy,32974,21.1,0.06,51:49:00,41.65,26.2,26.2,72.5,40.1,41.9
+474,474,University of Plymouth,United Kingdom,17481,17.6,0.15,55:45:00,41.65,21,20.1,71.7,33.9,71.6
+475,475,Polytechnic University of Bari,Italy,6729,28.9,0.02,32 : 68,41.65,16.1,20.4,86.7,36.9,34
+476,476,Pontifical Javeriana University,Colombia,29281,15.3,0.01,55:45:00,41.65,15.8,9.7,99.3,33.8,44.8
+477,477,University of Porto,Portugal,32586,17.6,0.18,55:45:00,41.65,26.2,27.9,66.1,38.4,57.9
+478,478,University of Rome II ・・ Tor Vergata,Italy,25893,13.8,0.13,53:47:00,41.65,42.9,19.5,65.4,38.6,56.1
+479,479,Royal Veterinary College,United Kingdom,2191,10.9,0.23,79:21:00,41.65,25.7,17.4,67.8,43.9,89.1
+480,480,University of St Gallen,Switzerland,7759,12,0.33,35 : 65,41.65,29.2,19.1,67.6,43.6,95.1
+481,481,Saint-Petersburg Mining University ,Russian Federation,7705,11.4,0.11,40 : 60,41.65,20.7,10.9,95.1,74.3,29.1
+482,482,University of Salerno,Italy,25123,27.5,0.02,55:45:00,41.65,18.7,20.7,93.6,36.6,35.5
+483,483,University of Sannio,Italy,2998,15.8,0.02,51:49:00,41.65,22.9,16.1,82.7,50.6,30
+484,484,University of Saskatchewan,Canada,17973,18.4,0.21,55:45:00,41.65,34.7,27.4,48.9,61.4,73.5
+485,485,Semmelweis University,Hungary,10945,9.4,0.32,69:31:00,41.65,25.9,13.6,79.3,35.1,75.8
+486,486,Sharif University of Technology,Iran,8742,20.1,0.02,25 : 75,41.65,32.2,41.2,47.2,100,25
+487,487,Shenzhen University,China,35396,14.5,0.01,49:51:00,41.65,23.3,24.8,74.7,54.1,37.6
+488,488,University of Siena,Italy,13232,17.6,0.09,61:39:00,41.65,20.8,23.1,83.2,35.9,44.6
+489,489,University of South Carolina-Columbia,United States,32445,16.4,0.06,54:46:00,41.65,33.6,27.5,65.6,35,44.6
+490,490,South China University of Technology,China,40581,13.4,0.05,38 : 62,41.65,25.4,32.4,69,87.8,32.4
+491,491,SRUC (Scotland・・s Rural College),United Kingdom,1442,9.4,0.11,54:46:00,41.65,20.7,17.5,77.4,43.1,55.3
+492,492,University of Strathclyde,United Kingdom,18787,18.5,0.27,50:50:00,41.65,27.6,31.8,53.1,47,86.8
+493,493,Technion Israel Institute of Technology,Israel,14740,21.8,0.08,37 : 63,41.65,37.1,31.1,55.6,36.1,67.1
+494,494,Tianjin University,China,37405,14.5,0.07,n/a,41.65,32.8,40.1,43.7,99.1,32.2
+495,495,Tokyo Medical and Dental University (TMDU),Japan,3011,3.4,0.09,50:50:00,41.65,46.1,26.6,53.4,65.9,28.2
+496,496,Tongji University,China,33740,12,0.14,45:55:00,41.65,36.4,44.9,40.6,98.4,58.6
+497,497,University of Tsukuba,Japan,16633,13.4,0.2,39 : 61,41.65,43.5,39,35,47.1,44.6
+498,498,TU Dortmund University,Germany,34681,109.1,0.1,45:55:00,41.65,36.4,42.1,51.6,45.2,42.4
+499,499,The University of Tulsa,United States,4209,11.2,0.14,46:54:00,41.65,34.9,17.1,71.7,49.6,37.6
+500,500,University of Turin,Italy,55957,28.5,0.08,61:39:00,41.65,22.2,27.1,75,41.6,44.5
+501,501,TU Wien,Austria,10433,19.3,0.3,29 : 71,41.65,35.3,37.4,41.5,65.6,85.6
+502,502,University of Valencia,Spain,49822,14.4,0.12,59:41:00,41.65,21.8,21.9,74.2,35.8,48.2
+503,503,Verona University,Italy,20140,27.2,0.05,65:35:00,41.65,28.5,21.2,69,41.3,42.3
+504,504,University of the West of England,United Kingdom,22045,15.5,0.21,54:46:00,41.65,17,14.5,83.9,33.7,67.1
+505,505,Xi・・an Jiaotong University,China,36551,12.5,0.07,36 : 64,41.65,39.3,38.3,44.4,70.3,41.5
+506,506,York University,Canada,49353,37.7,0.25,57:43:00,41.65,27.3,37.2,50.9,44.1,76.1
+507,507,Abdul Wali Khan University Mardan,Pakistan,9664,22.7,0.01,29 : 71,38.05,13.1,9.2,85.5,33.4,45.8
+508,508,Amirkabir University of Technology,Iran,11672,22.1,0.02,36 : 64,38.05,32.5,35.5,48.6,89.4,24.5
+509,509,University of L・・Aquila,Italy,17322,39.5,0.04,57:43:00,38.05,31.6,20.2,67.1,41.9,32.8
+510,510,Universidad Autﾃｳnoma de Chile,Chile,24541,23.2,0.01,65:35:00,38.05,13.4,9.1,84.9,33.4,50.8
+511,511,Bar-Ilan University,Israel,16587,17.5,0.05,61:39:00,38.05,30.5,36.4,40.5,46.7,52.4
+512,512,Beihang University,China,30172,13.2,0.07,n/a,38.05,32,34.6,41.9,99,31.7
+513,513,Beijing University of Chemical Technology,China,25739,24.7,0.04,38 : 62,38.05,21.4,21.5,68.4,62.4,23.3
+514,514,Beijing Institute of Technology,China,31964,13.6,0.08,35 : 65,38.05,31.5,36.6,40,99.9,26.8
+515,515,"Binghamton University, State University of New York",United States,17959,22.5,0.13,49:51:00,38.05,22.3,26.1,62.3,36.4,39.2
+516,516,Bond University,Australia,3498,10.2,0.47,53:47:00,38.05,22.5,19.8,56.4,35,88.3
+517,517,Carleton University,Canada,28350,30.2,0.21,49:51:00,38.05,20.2,27,54.5,35.4,70.7
+518,518,University of Catania,Italy,26838,21.9,0.03,56:44:00,38.05,29.3,18.5,72.7,35.2,31.5
+519,519,CentraleSupﾃｩlec,France,4007,9.8,0.27,0.929861111,38.05,31.6,20.9,45.8,62.2,80.8
+520,520,Charles Darwin University,Australia,6219,23.7,0.3,67:33:00,38.05,22,25.9,49.9,46.2,79
+521,521,Claude Bernard University Lyon 1,France,27490,13,0.13,53:47:00,38.05,25.9,24.4,55.8,38.4,57.5
+522,522,Complutense University of Madrid,Spain,61732,20.1,0.12,61:39:00,38.05,28.2,30.7,48.5,35.2,44.5
+523,523,University of Costa Rica,Costa Rica,34776,15,0.02,53:47:00,38.05,17,8.3,83.9,33.3,48.3
+524,524,University of Cﾃｴte d・・Azur,France,32277,19.9,0.21,55:45:00,38.05,24.2,19,67.2,34.1,76.5
+525,525,University of Cyprus,Cyprus,6815,22.2,0.11,64:36:00,38.05,23.8,22.7,60,47.3,80.9
+526,526,Dublin City University,Ireland,13423,22.8,0.14,56:44:00,38.05,22.6,27,55.1,43,72.3
+527,527,University of Electronic Science and Technology of China,China,32932,15.3,0.03,27 : 73,38.05,26.1,24.9,62,72.6,31.3
+528,528,Ferhat Abbas Sﾃｩtif University 1,Algeria,35899,24.3,0.01,54:46:00,38.05,20.6,7.5,87.4,33.4,41.2
+529,529,University of Ferrara,Italy,17025,27.9,0.07,59:41:00,38.05,20.5,21.7,70.8,38.9,45.2
+530,530,Fujita Health University,Japan,3065,3.1,0,56:44:00,38.05,24.8,9.7,85.4,35.1,21.5
+531,531,Graz University of Technology,Austria,6297,9.6,0.21,24 : 76,38.05,31.3,17.7,52,68.8,80.1
+532,532,University of Guelph,Canada,22384,28.4,0.09,59:41:00,38.05,29.1,29,46.6,48.2,59.3
+533,533,Gwangju Institute of Science and Technology,South Korea,1933,11.1,0.05,25 : 75,38.05,39.5,40.4,38.5,54.8,37.2
+534,534,Hacettepe University,Turkey,51530,22.6,0.03,55:45:00,38.05,26.4,13.2,73.7,36,24.4
+535,535,Hofstra University,United States,10042,13.5,0.09,57:43:00,38.05,26.6,15.1,79.7,33.3,30.9
+536,536,Hokkaido University,Japan,18483,8.3,0.12,31 : 69,38.05,45,41.5,29.4,64.6,41.9
+537,537,University of Houston,United States,46052,26,0.09,50:50:00,38.05,33,25.4,54.4,37,43.4
+538,538,University of Hull,United Kingdom,13813,17.8,0.18,53:47:00,38.05,23.7,23.5,59,35.1,76.2
+539,539,University of Insubria,Italy,8414,24.2,0.05,55:45:00,38.05,20,19.7,74.9,35.7,40.8
+540,540,Iran University of Medical Sciences,Iran,8660,8.7,0.04,64:36:00,38.05,40.8,11.4,60.4,44.9,22.2
+541,541,Iran University of Science and Technology,Iran,14067,32.3,0.01,32 : 68,38.05,31.3,35.7,45.3,99.8,17.8
+542,542,ITMO University,Russian Federation,10094,14.5,0.17,36 : 64,38.05,30,32.2,42.7,90.1,63.4
+543,543,Jagiellonian University,Poland,38054,10.5,0.09,66:34:00,38.05,25.9,18.3,64.9,34.3,38.5
+544,544,University of Kashan,Iran,8245,26.7,0.04,53:47:00,38.05,23.1,18.5,78.3,37.4,20.4
+545,545,Keele University,United Kingdom,9114,14.7,0.17,57:43:00,38.05,21,24.1,61.9,34,72.8
+546,546,King Fahd University of Petroleum and Minerals,Saudi Arabia,6948,6.8,0.11,0.110416667,38.05,25.6,15.8,66.4,62.4,77.6
+547,547,King Khalid University,Saudi Arabia,39665,8.7,0.09,54:46:00,38.05,22.7,7.3,71.2,33.4,80.9
+548,548,Lagos State University,Nigeria,23421,33.9,0,44:56:00,38.05,12.9,7.5,93.7,33.4,31.7
+549,549,Leibniz University Hannover,Germany,28742,58.4,0.16,40 : 60,38.05,37.4,32.1,44.6,50.3,51.3
+550,550,University of Limerick,Ireland,14708,25.1,0.19,50:50:00,38.05,21.3,26.5,52.2,36.4,80.6
+551,551,University of Lincoln,United Kingdom,12904,14.8,0.12,55:45:00,38.05,17.1,14.6,71.5,34,71.7
+552,552,University of Lisbon,Portugal,49019,17.9,0.15,52:48:00,38.05,25.2,31.1,53.6,39.4,57.7
+553,553,Louisiana State University,United States,28221,20,0.06,53:47:00,38.05,32.6,23.2,53.5,35.2,38.2
+554,554,Lviv Polytechnic National University,Ukraine,21840,10.4,0.01,40 : 60,38.05,18.7,8.9,88.2,33.9,24.9
+555,555,Mashhad University of Medical Sciences,Iran,9592,10.5,0.03,59:41:00,38.05,29.4,12.1,77.9,33.4,21.7
+556,556,Memorial University of Newfoundland,Canada,15253,13.9,0.2,56:44:00,38.05,22.5,20.6,60,53.9,77.9
+557,557,University of Messina,Italy,15857,15.9,0.02,62:38:00,38.05,27.1,19.6,66.1,34.9,29.7
+558,558,University of Montana,United States,8559,16.2,0.02,57:43:00,38.05,35.5,20.4,62.3,33.8,28
+559,559,Murdoch University,Australia,15009,31.4,0.42,60:40:00,38.05,19.8,26.7,54.8,44.4,92.3
+560,560,National Cheng Kung University (NCKU),Taiwan,20659,15.5,0.13,37 : 63,38.05,33.7,44.8,25.1,100,37.8
+561,561,National Chiao Tung University,Taiwan,12090,16.9,0.12,30 : 70,38.05,36.8,47.1,24.1,92.9,38.8
+562,562,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,8528,19.2,0.17,30 : 70,38.05,29.7,41.3,38.6,65.5,44.9
+563,563,University of Nebraska Medical Center,United States,3675,2.6,0.08,64:36:00,38.05,34.6,12.7,66.8,37.3,45.2
+564,564,New Jersey Institute of Technology,United States,9284,14.8,0.27,26 : 74,38.05,22.6,19,58.3,35.4,86
+565,565,Northern Arizona University,United States,30486,27.6,0.05,61:39:00,38.05,20.5,14.2,83.9,34,32.6
+566,566,North-West University,South Africa,39056,28.4,0.04,60:40:00,38.05,20.4,18.5,73.9,39.8,48.1
+567,567,Northwestern Polytechnical University,China,27813,13.2,0.04,28 : 72,38.05,28.4,35.3,48.7,85.4,33.3
+568,568,Universidad Peruana Cayetano Heredia,Peru,6281,10.4,0.02,68:32:00,38.05,18.3,12.2,80.8,33.9,47.5
+569,569,Polytechnic University of Turin,Italy,29006,31.3,0.15,28 : 72,38.05,24.1,26.1,55.5,50.5,48.6
+570,570,Pontifical Catholic University of Chile,Chile,29071,15.1,0.07,n/a,38.05,25.1,30.5,55.4,77,57.8
+571,571,University of Portsmouth,United Kingdom,20871,15.4,0.26,46:54:00,38.05,18.8,16.7,70.4,33.9,88.6
+572,572,Quaid-i-Azam University,Pakistan,15258,25.6,0.01,66:34:00,38.05,18.4,18,79.2,33.4,45.5
+573,573,Renmin University of China,China,27134,13.4,0.06,n/a,38.05,42.7,22.2,51.7,44.1,41.2
+574,574,Rensselaer Polytechnic Institute,United States,7417,14.5,0.21,32 : 68,38.05,29.3,25.9,56,55.8,56.6
+575,575,Sabancﾄｱ University,Turkey,3687,20.7,0.09,39 : 61,38.05,26.4,36.9,46.1,89.8,53.6
+576,576,University of Sassari,Italy,14032,38.8,0.02,63:37:00,38.05,32.1,28.8,54.3,39.2,37.9
+577,577,Sciences Po,France,12435,46.1,0.36,60:40:00,38.05,29.2,24.8,46,37,78.4
+578,578,SOAS University of London,United Kingdom,4986,11.6,0.53,66:34:00,38.05,41.6,39,27,33.4,79.9
+579,579,Soochow University,China,46357,16.4,0.07,56:44:00,38.05,23.4,22.2,68.6,66.5,28.5
+580,580,Southeast University,China,33469,11.5,0.05,40 : 60,38.05,30.5,36.7,47.1,98.7,37.6
+581,581,University of Southern Queensland,Australia,12117,25.6,0.18,59:41:00,38.05,21.2,21.7,62.6,39.3,77.7
+582,582,Southwestern University of Finance and Economics,China,23766,16.8,0.03,63:37:00,38.05,20,12.6,77.6,36.9,44.5
+583,583,Stevens Institute of Technology,United States,6178,17.9,0.38,29 : 71,38.05,22.2,19.4,62.3,38.3,70.6
+584,584,University of Strasbourg,France,47732,19,0.2,58:42:00,38.05,28.3,21.3,59.5,39.9,72.4
+585,585,Suez Canal University,Egypt,35165,11.1,0.01,58:42:00,38.05,19.3,8.3,88.1,35.9,46.2
+586,586,Sumy State University,Ukraine,9288,10,0.14,n/a,38.05,19.8,10.4,80,37.6,43.5
+587,587,University of Tehran,Iran,44960,21.2,0.02,44:56:00,38.05,37.9,34,42.3,46.8,25.2
+588,588,Tehran University of Medical Sciences,Iran,11748,6.5,0.07,58:42:00,38.05,46.8,18.5,50.9,61.5,24
+589,589,Teikyo University,Japan,23031,16.6,0.03,35 : 65,38.05,15.7,11,92.3,34.8,20
+590,590,Tﾃｩlﾃｩcom SudParis,France,960,11.3,0.34,24 : 76,38.05,30.2,25.8,41.4,74.3,95
+591,591,The University of Texas at San Antonio,United States,25892,25.1,0.04,51:49:00,38.05,19.3,20.1,70.8,35.5,36.5
+592,592,Tomsk State University,Russian Federation,7798,11.7,0.35,n/a,38.05,42.6,36.3,26.1,55.9,73.2
+593,593,University of Trieste,Italy,16217,24.7,0.09,56:44:00,38.05,28.7,22.6,59.9,38.4,48.5
+594,594,Universiti Tunku Abdul Rahman (UTAR),Malaysia,17626,15.1,0.02,51:49:00,38.05,16.2,13.7,80.9,38.1,31.4
+595,595,University of Tuscia,Italy,6672,20.6,0.02,49:51:00,38.05,18.3,16.7,75.1,35.6,36.4
+596,596,University of Urbino Carlo Bo,Italy,14432,40.3,0.06,62:38:00,38.05,15.9,14.5,86.3,36.3,49.3
+597,597,Victoria University of Wellington,New Zealand,17775,18.9,0.22,57:43:00,38.05,23.4,31.5,45.7,60.7,89.3
+598,598,University of Waikato,New Zealand,10257,19,0.29,58:42:00,38.05,22.6,28.5,52.3,43.5,93.4
+599,599,The University of the West Indies,Jamaica,23753,15.5,0.01,70:30:00,38.05,17.5,10.4,81.1,36,55.7
+600,600,University of the West of Scotland,United Kingdom,12499,22.8,0.22,61:39:00,38.05,17.1,14.3,76,33.5,77.6
+601,601,Xiamen University,China,41546,14.8,0.05,47:53:00,38.05,27.5,21,68.8,52.3,33.7
+602,602,Zhejiang Normal University,China,23939,10.8,0.06,n/a,38.05,16.9,14.9,86.4,64.3,28.5
+603,603,ﾃ・bo Akademi University,Finland,5230,17,0.14,n/a,33.25,22.4,30,43.4,36.9,67.1
+604,604,The University of Aizu,Japan,1190,11.6,0.07,0.561111111,33.25,21,12.8,58.6,35.1,70.6
+605,605,Ajou University,South Korea,9224,14.7,0.08,n/a,33.25,26.8,32.4,35,71.7,33.5
+606,606,University of Alabama,United States,36027,22.4,0.04,56:44:00,33.25,26.9,17.5,60.3,34.4,29.3
+607,607,University of Alabama in Huntsville,United States,7672,18,0.07,44:56:00,33.25,20.8,20.9,51.4,70.2,43.9
+608,608,Al-Balqa Applied University,Jordan,31019,30.3,0.05,59:41:00,33.25,12.7,9.9,65.1,41.5,49.4
+609,609,Amedeo Avogadro University of Eastern Piedmont,Italy,13747,36.3,0.07,61:39:00,33.25,13.2,19.4,63,33.7,42.3
+610,610,University of Antofagasta,Chile,9152,20.1,0.01,53:47:00,33.25,14.5,8.8,69.5,33.4,49.9
+611,611,Aristotle University of Thessaloniki,Greece,47827,28.6,0.05,57:43:00,33.25,19.1,18.1,67.9,40.2,41.8
+612,612,University of Arkansas,United States,25238,19.9,0.05,53:47:00,33.25,27.7,26.9,43.8,36,29.8
+613,613,Athens University of Economics and Business,Greece,9698,47.5,0.05,46:54:00,33.25,15.8,23.4,47.3,38.9,47.2
+614,614,Auburn University,United States,26838,19,0.09,50:50:00,33.25,30.7,21.4,45.4,40,45.7
+615,615,University of Aveiro,Portugal,9931,16.5,0.13,51:49:00,33.25,24.7,26.2,42.1,41.3,54.7
+616,616,University of the Balearic Islands,Spain,11133,11.8,0.07,59:41:00,33.25,17.6,14.5,62.5,33.4,49.2
+617,617,Banaras Hindu University,India,15121,11.4,0.03,0.479166667,33.25,30.5,15,53.2,33.5,18.2
+618,618,University of Beira Interior,Portugal,7180,16.1,0.18,52:48:00,33.25,17.7,17.6,50.8,34.6,56.5
+619,619,University of Belgrade,Serbia,95099,19,0.05,61:39:00,33.25,19.5,26.9,45.2,39.3,40.1
+620,620,University of Bergamo,Italy,20565,60,0.07,61:39:00,33.25,18,21.4,59.6,39.8,36.5
+621,621,Bilkent University,Turkey,10093,14.2,0.09,46:54:00,33.25,24.5,21.6,50.3,53.6,63.9
+622,622,Birmingham City University,United Kingdom,20817,18,0.24,62:38:00,33.25,16.9,10.6,62.4,33.7,63.9
+623,623,Boﾄ・aziﾃｧi University,Turkey,13772,24.5,0.03,45:55:00,33.25,24.4,21.8,44.7,56.1,40.7
+624,624,Universitﾃｩ Bourgogne Franche-Comtﾃｩ (UBFC),France,61908,34.1,0.12,54:46:00,33.25,20.6,14.3,51,37.2,57
+625,625,University of Bradford,United Kingdom,8455,17.8,0.28,57:43:00,33.25,20.3,17.8,45.1,36,79.9
+626,626,University of Brighton,United Kingdom,17068,18.7,0.21,60:40:00,33.25,18,14.2,48.1,33.9,76.6
+627,627,Bucharest University of Economic Studies,Romania,21340,15.8,0.04,63:37:00,33.25,15.6,10.8,69.6,34.5,22.1
+628,628,Ca・・ Foscari University of Venice,Italy,16187,26.3,0.1,64:36:00,33.25,33.8,27.3,30.3,36.5,54.7
+629,629,Cairo University,Egypt,222102,41.6,0.02,48:52:00,33.25,22.7,15.5,55.7,34.3,35.7
+630,630,University of Calabria,Italy,26745,33,0.03,58:42:00,33.25,16,17.7,62.9,89,38.8
+631,631,University of Central Florida,United States,58425,35.7,0.04,56:44:00,33.25,25,28.9,51.6,43.6,33.2
+632,632,Chapman University,United States,8792,12.8,0.07,60:40:00,33.25,38.1,12.8,38.6,36.8,35.9
+633,633,Institute of Chemical Technology,India,2278,19.1,0,36 : 64,33.25,37.6,26,39.7,67,14.4
+634,634,China Agricultural University,China,20609,12,0.01,58:42:00,33.25,32.8,27.8,46.4,50.8,22.6
+635,635,"China University of Petroleum, Beijing",China,15445,17.6,0.05,n/a,33.25,24,23.2,42.5,96.7,23.5
+636,636,Chongqing University,China,42095,20.6,0.05,n/a,33.25,25.3,29.1,43.5,80.6,24.4
+637,637,Chulalongkorn University,Thailand,33643,12.2,0.03,59:41:00,33.25,34.4,22,29.3,60.2,40.3
+638,638,Chung-Ang University,South Korea,17599,22.3,0.2,n/a,33.25,35.5,37.1,28,71.5,51.2
+639,639,Clemson University,United States,22236,16.1,0.07,48:52:00,33.25,25.3,21,41.3,38.3,39.5
+640,640,University of Clermont Auvergne,France,35625,20.9,0.14,56:44:00,33.25,25.6,14.7,56,35.1,59.8
+641,641,University of Coimbra,Portugal,21332,16.6,0.18,57:43:00,33.25,27.1,28.3,46.7,40.4,58
+642,642,COMSATS University Islamabad,Pakistan,33324,13.3,0.01,28 : 72,33.25,16.3,11,65.1,33.6,46
+643,643,Concordia University,Canada,34710,33.1,0.31,50:50:00,33.25,20.9,26.8,46.5,35.8,83.6
+644,644,Coventry University,United Kingdom,29609,14.6,0.45,48:52:00,33.25,19,12.5,47.8,33.6,89.7
+645,645,Creighton University,United States,8430,11.2,0.05,58:42:00,33.25,41.4,12.2,38.8,34.6,25.8
+646,646,Dalian University of Technology,China,39705,15.2,0.03,35 : 65,33.25,26.2,25.1,45,77.7,31.6
+647,647,University of Delhi,India,24725,25.5,0.01,47:53:00,33.25,37.2,21.9,34.5,33.4,17.5
+648,648,De Montfort University,United Kingdom,21134,19.9,0.3,55:45:00,33.25,17.1,13.8,53.6,33.5,81
+649,649,University of Deusto,Spain,9553,22.6,0.11,60:40:00,33.25,17.5,18,51.2,36.4,46.1
+650,650,ﾃ・cole des Mines de Saint-ﾃ・tienne,France,1110,9,0.25,26 : 74,33.25,30,18.5,35.7,56.3,66.8
+651,651,ﾃ・cole normale supﾃｩrieure Paris-Saclay,France,1850,12.2,0.16,29 : 71,33.25,36.7,30.7,23.5,56.2,59.6
+652,652,Edinburgh Napier University,United Kingdom,10384,18.1,0.31,55:45:00,33.25,16.6,14.8,56.7,34,82.8
+653,653,Eﾃｶtvﾃｶs Lorﾃ｡nd University,Hungary,27199,14.8,0.1,63:37:00,33.25,29.8,17.7,44.9,34.2,52.5
+654,654,European University of Madrid,Spain,10307,10.3,0.31,47:53:00,33.25,23.6,9.2,63.7,33.8,60
+655,655,Ewha Womans University,South Korea,14824,17.2,0.13,100:00:00,33.25,31.6,31.2,32.6,73,44.9
+656,656,Federal University of Minas Gerais,Brazil,43833,12.2,0.02,53:47:00,33.25,31,18.6,52.8,39.2,31.5
+657,657,Federal University of Rio Grande do Sul,Brazil,51830,18.7,0.01,51:49:00,33.25,28.9,18.4,56.9,41.5,27.5
+658,658,Federal University of Santa Catarina,Brazil,38362,16.1,0.03,48:52:00,33.25,29,13.6,56,42.2,30.6
+659,659,Federal University of Sﾃ｣o Paulo (UNIFESP),Brazil,14526,5.3,0.01,61:39:00,33.25,30,15.2,47.8,34.6,30.1
+660,660,Federal University of Sergipe (UFS),Brazil,25821,15,0,52:48:00,33.25,16.5,7.9,82.2,33.3,20.7
+661,661,Gabriele d・・Annunzio University,Italy,24710,37.4,0.02,64:36:00,33.25,14.7,16.4,71.3,34.5,37.6
+662,662,University of Girona,Spain,13920,21.1,0.14,58:42:00,33.25,19.1,20,57.8,36.6,52.3
+663,663,Glasgow Caledonian University,United Kingdom,13236,21.2,0.18,58:42:00,33.25,19.1,13.1,59.7,34,64.3
+664,664,University of Granada,Spain,56173,15.7,0.12,59:41:00,33.25,20.1,22.8,53.4,34.5,51
+665,665,University of Graz,Austria,19845,21.8,0.15,65:35:00,33.25,24.4,19.8,51.4,34.8,77.9
+666,666,University of Greenwich,United Kingdom,14212,17.5,0.38,58:42:00,33.25,18,16.2,51.4,34.3,91.9
+667,667,Guangdong University of Technology,China,43332,19.3,0,29 : 71,33.25,15.3,14.2,64.4,67.7,26.8
+668,668,University of Haifa,Israel,16228,9.5,0.06,66:34:00,33.25,24.5,21.6,57.4,34.2,39.5
+669,669,Hamburg University of Technology,Germany,5127,34.2,0.24,27 : 73,33.25,35.2,19.7,43.4,94,56.7
+670,670,Huazhong Agricultural University,China,26498,16.8,0.02,54:46:00,33.25,22.9,15.6,54.7,45.1,24.4
+671,671,University of Huddersfield,United Kingdom,14968,21.8,0.26,55:45:00,33.25,24.4,22.6,49.9,35.4,77.1
+672,672,University of Idaho,United States,9779,17.3,0.08,49:51:00,33.25,32.5,21.8,50,35.3,48.1
+673,673,IDC Herzliya,Israel,6773,45.8,0.25,51:49:00,33.25,14.4,9.8,60,33.3,65.4
+674,674,"Indian Institute of Science Education and Research, Pune",India,1418,10.4,0,33 : 67,33.25,32.3,15.2,44.7,34.4,23
+675,675,Indian Institute of Science Education and Research Kolkata,India,1442,13.7,0,26 : 74,33.25,28.6,14.8,64.2,36.7,18.8
+676,676,Indian Institute of Technology Gandhinagar,India,1419,13.1,0,1.011805556,33.25,26.8,13.4,66.6,40.8,25.8
+677,677,Indian Institute of Technology Hyderabad,India,2350,13.1,0,0.888888889,33.25,29,18.6,53.9,55.1,19.1
+678,678,Indraprastha Institute of Information Technology Delhi,India,1332,17.1,0.01,25 : 75,33.25,22,13.8,60.2,68.9,30.6
+679,679,Universitat Internacional de Catalunya,Spain,4121,11.6,0.26,62:38:00,33.25,17.8,13,57.7,36.8,60.7
+680,680,University of International Business and Economics,China,15707,16.8,0.17,68:32:00,33.25,25.7,16.4,47.7,35.5,59.7
+681,681,University of Ioannina,Greece,22956,47.4,0.04,56:44:00,33.25,16.1,16.3,64.2,36.4,44.5
+682,682,ISCTE-University Institute of Lisbon,Portugal,8868,23.3,0.12,50:50:00,33.25,24.9,27.1,38,36.1,50.8
+683,683,Isfahan University of Technology,Iran,9373,21.8,0.01,48:52:00,33.25,30.2,25.9,41.4,91.1,25.2
+684,684,Jamia Millia Islamia,India,10717,9.6,0.03,41:59:00,33.25,33,9.5,52.8,34.5,24.6
+685,685,Jaume I University,Spain,11763,15.1,0.09,58:42:00,33.25,20,17.4,53,37.2,44.5
+686,686,Jawaharlal Nehru University,India,7821,13.8,0.04,50:50:00,33.25,43.5,19.7,33.1,34.8,19.3
+687,687,Jiangsu Normal University,China,22372,14.1,0.03,n/a,33.25,15.9,11.8,65.8,38.3,24.5
+688,688,Jikei University School of Medicine,Japan,1090,0.9,0,49:51:00,33.25,27.6,8.7,58.4,37.4,15.9
+689,689,Jinan University,China,35812,14.1,0.29,59:41:00,33.25,22.5,16.8,46.9,40,55.7
+690,690,University of Johannesburg,South Africa,27660,25,0.15,54:46:00,33.25,22.7,30.2,33.7,42.2,71.9
+691,691,Johannes Kepler University of Linz,Austria,6193,10.3,0.12,51:49:00,33.25,28.8,20.2,44.5,51.7,67.8
+692,692,Kafrelsheikh University,Egypt,88281,36.2,0.01,52:48:00,33.25,13.1,7.8,80,36.5,47
+693,693,University of Kaiserslautern,Germany,14833,51.5,0.2,39 : 61,33.25,34.1,25,35.1,67.8,54.5
+694,694,Kansai Medical University,Japan,841,1.1,0.03,38 : 62,33.25,27.5,8.8,72.8,34.6,18.5
+695,695,Kansas State University,United States,21036,14.1,0.08,50:50:00,33.25,24.3,19.9,45.9,42.4,45.7
+696,696,Kazan Federal University,Russian Federation,25940,9.7,0.25,68:32:00,33.25,31.6,17.2,38.7,40.3,53.4
+697,697,Universiti Kebangsaan Malaysia,Malaysia,17601,10.3,0.16,57:43:00,33.25,35.3,21.4,42.5,37,49.3
+698,698,Keio University,Japan,34498,10,0.09,37 : 63,33.25,32.1,25.2,38.4,43.6,33.4
+699,699,King George・・s Medical University,India,2934,6.9,0,46:54:00,33.25,26.5,10,73.5,35,14.7
+700,700,Kobe University,Japan,15676,9.9,0.08,35 : 65,33.25,32.1,23.4,36.1,40,32.3
+701,701,Konkuk University,South Korea,12047,22.8,0.17,51:49:00,33.25,33.1,38.5,32.1,47.8,50.1
+702,702,University of Kurdistan,Iran,10555,31,0.03,54:46:00,33.25,15.8,14,77.7,42.2,22.1
+703,703,University of Lagos,Nigeria,34514,19.9,0,49:51:00,33.25,16.3,9.6,81.1,34.5,30.4
+704,704,Lakehead University,Canada,8060,24.6,0.16,54:46:00,33.25,17.3,22.4,47.5,35.1,52.8
+705,705,University of La Laguna,Spain,18300,12.7,0.04,58:42:00,33.25,18.9,11.7,61.5,34,47.7
+706,706,University of Latvia,Latvia,12007,31.7,0.07,70:30:00,33.25,18.3,24.8,47.9,42.3,51.6
+707,707,Lehigh University,United States,6545,11,0.19,45:55:00,33.25,27.9,20.7,52.4,38.1,63.4
+708,708,University of Lille,France,68393,28.5,0.14,57:43:00,33.25,25.6,19.1,54.8,38.7,63
+709,709,Lincoln University,New Zealand,2511,13.8,0.42,50:50:00,33.25,25.3,21.3,44.7,50.3,95.3
+710,710,University of Lleida,Spain,8702,14.2,0.09,60:40:00,33.25,19.2,15.2,54.8,36.9,43.9
+711,711,University of Lorraine,France,59690,19.5,0.16,52:48:00,33.25,20.5,13.3,63.3,36.3,63.5
+712,712,Mae Fah Luang University,Thailand,14218,22.9,0.05,72:28:00,33.25,16.8,9.9,60.4,33.4,52.7
+713,713,Mahatma Gandhi University,India,1653,17.6,0.01,68:32:00,33.25,40.9,24,36.8,34.9,18.9
+714,714,Mahidol University,Thailand,29296,9.7,0.04,64:36:00,33.25,33.9,22.3,42.8,71.4,45.5
+715,715,University of Malta,Malta,10122,14.4,0.1,58:42:00,33.25,17.4,14.8,54.5,33.7,60.6
+716,716,Manchester Metropolitan University,United Kingdom,28375,15.1,0.17,58:42:00,33.25,19.2,14.9,54.8,33.8,67.5
+717,717,Marche Polytechnic University,Italy,10550,19.8,0.05,47:53:00,33.25,19.6,19.3,66.4,42.4,32.4
+718,718,"University of Maryland, Baltimore County",United States,11808,18.6,0.08,45:55:00,33.25,22.2,22.9,59.4,34.6,36.4
+719,719,Masaryk University,Czech Republic,31107,19.6,0.22,62:38:00,33.25,22.9,25.7,33.9,34.7,63
+720,720,Massey University,New Zealand,18664,16.5,0.32,63:37:00,33.25,21.4,22.4,50.1,41.2,93.6
+721,721,Metropolitan Autonomous University,Mexico,58623,20.2,0,48:52:00,33.25,17.1,16,72.8,35.2,25.5
+722,722,Miguel Hernﾃ｡ndez University of Elche ,Spain,11695,17,0.06,48:52:00,33.25,29,14,49.2,37,36.9
+723,723,University of Missouri-St Louis,United States,6777,15.5,0.05,58:42:00,33.25,27.7,18.4,57.9,42.8,39
+724,724,University of Mohaghegh Ardabili,Iran,10427,27.2,0,54:46:00,33.25,20.4,11.7,79,34.6,18.9
+725,725,Montana State University,United States,14153,17.6,0.03,47:53:00,33.25,20.2,18.3,61.5,42.7,28.1
+726,726,Monterrey Institute of Technology,Mexico,14683,15.1,0.1,42:58:00,33.25,20.3,17.6,45.4,66,57.3
+727,727,University of Nairobi,Kenya,84000,37.6,0,31 : 69,33.25,13.4,8.3,68.7,33.4,46.6
+728,728,Nanjing Agricultural University,China,26368,16.3,0.03,57:43:00,33.25,23.7,16.9,50.9,44.8,22.7
+729,729,Nanjing University of Information Science and Technology,China,25567,16.7,0.04,n/a,33.25,17.7,15.8,65.3,40.6,32.3
+730,730,Nanjing Medical University,China,19949,11,0.05,n/a,33.25,37.3,27,40.9,35.4,21
+731,731,Nanjing Tech University,China,34424,13.8,0.02,n/a,33.25,18.5,12.7,59.9,68.2,26.9
+732,732,University of Nantes,France,36559,24.2,0.11,56:44:00,33.25,24.9,20,46.7,38.9,52.6
+733,733,National Institute of Applied Sciences of Lyon (INSA Lyon),France,6292,19.6,0.28,34 : 66,33.25,28.6,22.5,31.8,88.6,71.5
+734,734,National University of Science and Technology (MISiS),Russian Federation,7168,10.8,0.26,40 : 60,33.25,25.8,19.1,31.9,87.8,67.9
+735,735,National Taiwan Normal University,Taiwan,9854,10.9,0.26,n/a,33.25,32.5,36.8,30.8,80.6,55.2
+736,736,National Technical University of Athens,Greece,14419,20.4,0.07,33 : 67,33.25,21.9,17.7,43.3,94,39
+737,737,"University of Nevada, Las Vegas",United States,25690,22.4,0.05,57:43:00,33.25,27.2,22.6,45,34.1,31.4
+738,738,New Mexico State University (Main campus),United States,12400,16.3,0.07,55:45:00,33.25,23.2,19.7,49.7,37,37.4
+739,739,Nippon Medical School,Japan,850,0.9,0,34 : 66,33.25,26.2,9.4,66.8,33.8,17.5
+740,740,University of North Carolina at Greensboro,United States,19105,21.5,0.04,66:34:00,33.25,22.2,19.7,50.7,33.6,22.4
+741,741,Norwegian University of Life Sciences,Norway,5860,6.8,0.2,59:41:00,33.25,26.3,10.2,61.1,39.2,78.6
+742,742,Nottingham Trent University,United Kingdom,25862,14.7,0.2,58:42:00,33.25,18.9,12.7,59.9,33.9,74.3
+743,743,Novosibirsk State University,Russian Federation,7043,6.2,0.2,n/a,33.25,42.6,33.6,22.9,34.9,44.1
+744,744,Ohio University (Main campus),United States,24729,23,0.05,56:44:00,33.25,28.7,17.8,45.5,34.9,29.6
+745,745,The Open University,United Kingdom,59908,31.1,0.08,63:37:00,33.25,17.5,16.2,63.1,33.8,57.7
+746,746,Open University of Catalonia,Spain,24756,86.2,0.05,56:44:00,33.25,18.6,16,70.9,34.7,46.3
+747,747,Oxford Brookes University,United Kingdom,13591,15.2,0.26,59:41:00,33.25,25.7,22.5,49,33.8,79.2
+748,748,Ozyegin University,Turkey,6280,19.1,0.04,43:57:00,33.25,16.7,11.4,57.8,34.2,49
+749,749,Palackﾃｽ University Olomouc,Czech Republic,17337,13.8,0.13,69:31:00,33.25,20.4,22.4,49.5,34.7,59.4
+750,750,University of Palermo,Italy,29820,20.7,0.01,58:42:00,33.25,18.3,19.3,61.3,34,30.5
+751,751,Panjab University,India,19006,20.3,0.01,49:51:00,33.25,29.1,15.2,52.9,34.7,16
+752,752,Panthﾃｩon-Sorbonne University ・・ Paris 1,France,33714,27.2,0.21,60:40:00,33.25,43.1,34.9,10.3,33.8,60.1
+753,753,University of Parma,Italy,26046,29.8,0.06,56:44:00,33.25,18.3,19.3,61.1,38.9,39.2
+754,754,Parthenope University of Naples,Italy,12106,35.9,0.02,43:57:00,33.25,19,15.8,74.9,34.7,27.7
+755,755,University of Pﾃｩcs,Hungary,16798,11.7,0.24,57:43:00,33.25,36.3,11,40.1,35.2,56.5
+756,756,Polytechnic University of Catalonia,Spain,22824,10,0.13,27 : 73,33.25,23.5,17.3,51.8,41.5,57.5
+757,757,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,14999,19.5,0.04,51:49:00,33.25,28.7,25.5,29.2,99.8,41.4
+758,758,University of Pretoria,South Africa,35387,23.1,0.07,57:43:00,33.25,26.6,30.9,36.3,41.2,53.7
+759,759,Universiti Putra Malaysia,Malaysia,19937,12.1,0.25,61:39:00,33.25,33.3,29.7,24.4,67.3,73.5
+760,760,Universitﾃｩ du Quﾃｩbec,Canada,53354,19.7,0.12,56:44:00,33.25,26.1,27.2,36.2,40.3,70.2
+761,761,University of Rennes 1,France,28137,18.5,0.11,53:47:00,33.25,26.9,17,46.1,38,55.9
+762,762,University of Rhode Island,United States,16254,15,0.03,58:42:00,33.25,23.1,16.9,68.4,33.4,38
+763,763,University of Rome III,Italy,32361,49.9,0.05,59:41:00,33.25,25.3,21.8,53.9,39.9,41.6
+764,764,Roskilde University,Denmark,6305,17.4,0.13,64:36:00,33.25,19.4,33.3,48.8,38,54.3
+765,765,University of Rovira i Virgili,Spain,12562,12.3,0.12,60:40:00,33.25,20.9,20.5,62.9,36,54
+766,766,Ryerson University,Canada,34510,42.8,0.05,55:45:00,33.25,19.5,26.1,39.9,36.3,53.9
+767,767,Universiti Sains Malaysia,Malaysia,21039,10.7,0.14,64:36:00,33.25,34.7,23.3,32.2,45,53.7
+768,768,Saint Petersburg State University,Russian Federation,21865,7.1,0.15,63:37:00,33.25,45.9,31.3,20.5,36.9,41.9
+769,769,University of Salento,Italy,12462,20.9,0.01,63:37:00,33.25,22.4,17.9,55.7,35.8,27.5
+770,770,San Diego State University,United States,31109,29.9,0.08,55:45:00,33.25,23.7,11.4,65.1,34.3,33.6
+771,771,Savitribai Phule Pune University,India,6182,12.9,0.03,60:40:00,33.25,37.1,18.6,42.7,34.9,18.5
+772,772,Shahid Beheshti University,Iran,18438,21.2,0.02,51:49:00,33.25,25.9,31.8,36.2,69.1,20.7
+773,773,Shahid Beheshti University of Medical Sciences,Iran,12361,8.6,0.03,59:41:00,33.25,42.4,15.3,37,71,18.4
+774,774,Shandong University,China,43643,13.3,0.07,52:48:00,33.25,34,30.3,39.4,85.6,30.2
+775,775,University of Sharjah,United Arab Emirates,12688,18.6,0.58,67:33:00,33.25,20.4,14.6,51.8,37.9,98.9
+776,776,Shiraz University of Technology,Iran,1453,14.4,0,36 : 64,33.25,25.3,27,59.5,41,20.6
+777,777,Sichuan University,China,67257,14,0.04,50:50:00,33.25,29.9,26.6,43,71.7,30.6
+778,778,University of Siegen,Germany,19291,40.6,0.12,51:49:00,33.25,21.9,24.9,44.9,39.7,55.7
+779,779,Southern Cross University,Australia,10197,32.5,0.32,61:39:00,33.25,18.6,24,47.7,43.3,71.8
+780,780,Southern Medical University,China,19802,11,0.06,n/a,33.25,34.7,28,33.5,42,24.1
+781,781,University of the Sunshine Coast,Australia,10242,28.5,0.18,67:33:00,33.25,19.1,24.5,47.9,38.7,70.1
+782,782,University of Tabriz,Iran,12444,16,0.06,53:47:00,33.25,32.8,19.7,55.9,43.5,27.9
+783,783,Tabriz University of Medical Sciences,Iran,8075,9.4,0,52:48:00,33.25,44.9,12.6,43.6,33.7,17.7
+784,784,Universiti Teknologi Malaysia,Malaysia,19988,11.8,0.17,44:56:00,33.25,30.4,24.3,38.8,46.2,58.1
+785,785,Universiti Teknologi Petronas,Malaysia,5907,15.3,0.19,35 : 65,33.25,30.1,30.3,32,74.3,72.5
+786,786,University of Texas at Arlington,United States,29817,27.7,0.14,57:43:00,33.25,21.5,19.3,53.8,40.2,46.6
+787,787,Texas Tech University,United States,33464,20.9,0.09,47:53:00,33.25,29.1,20.3,45.2,35.3,49.2
+788,788,Thapar University,India,7996,14.9,0.01,24 : 76,33.25,19.2,10.6,78.4,33.8,19.5
+789,789,University of Thessaly,Greece,17886,40.7,0.02,50:50:00,33.25,13.4,18.6,55.1,50.9,39.7
+790,790,University of Toledo,United States,18587,15.5,0.1,51:49:00,33.25,31.6,13.7,48.9,42.7,46.4
+791,791,TU Braunschweig,Germany,20103,10.3,0.15,38 : 62,33.25,24.4,16.7,53.8,42.7,54.7
+792,792,University of Udine,Italy,11776,18,0.07,53:47:00,33.25,21.9,16.3,68.7,38,41.9
+793,793,University of Ulsan,South Korea,12830,11.5,0.05,46:54:00,33.25,21,25,61.7,65.1,23.4
+794,794,Ulster University,United Kingdom,17194,17.3,0.08,56:44:00,33.25,20.2,18,41.8,33.6,76.5
+795,795,Universiti Utara Malaysia,Malaysia,12951,11.6,0.29,69:31:00,33.25,31,25.2,34.8,36.7,61.3
+796,796,University of the Western Cape,South Africa,22660,30.1,0.06,61:39:00,33.25,19.2,21.4,57.6,33.4,60.9
+797,797,Western Washington University,United States,15050,18.4,0.01,58:42:00,33.25,15.9,10.2,71.4,33.5,26.4
+798,798,University of Windsor,Canada,13771,30.4,0.26,n/a,33.25,34.1,27.4,35,39.2,82.6
+799,799,University of Wisconsin-Milwaukee,United States,20490,18.7,0.06,54:46:00,33.25,21.8,22.7,62.4,35.2,33.4
+800,800,Worcester Polytechnic Institute,United States,5761,12.5,0.22,35 : 65,33.25,24.5,17.7,56.8,35.3,54.3
+801,801,University of Wuppertal,Germany,23117,59,0.11,52:48:00,33.25,23.6,20.2,55.9,45.6,50.2
+802,802,Xi・・an Jiaotong-Liverpool University,China,11388,23.3,0.07,53:47:00,33.25,16.7,15,66.4,36,76.5
+803,803,Yasouj University,Iran,6023,25.7,0,50:50:00,33.25,18.8,14.8,78.8,35.4,16.4
+804,804,Yokohama City University,Japan,4976,4.4,0.02,56:44:00,33.25,27.5,8.5,68.7,39.2,20.9
+805,805,University of the Aegean,Greece,14297,43.5,0.01,56:44:00,27.6,17.8,13.1,48.4,34.8,37.5
+806,806,"University of Agriculture, Faisalabad",Pakistan,26756,39.8,0,44:56:00,27.6,23,15.8,34.2,45.2,38.9
+807,807,University of Alcalﾃ｡,Spain,19400,14.6,0.19,58:42:00,27.6,17.9,13.8,45.2,38.9,59.9
+808,808,University of Algarve,Portugal,8008,12.9,0.19,57:43:00,27.6,16.9,13.6,43.5,33.7,66.6
+809,809,Aligarh Muslim University,India,19396,12.2,0.02,39 : 61,27.6,31.1,11,41.6,38.1,24
+810,810,American University in Cairo,Egypt,5832,13.1,0.05,55:45:00,27.6,25.6,20.7,22.6,34.4,63.5
+811,811,American University of Sharjah,United Arab Emirates,4784,12.1,0.81,52:48:00,27.6,20.6,16.6,28,35.6,93.3
+812,812,Amrita Vishwa Vidyapeetham,India,15130,12.1,0.1,n/a,27.6,26,18.6,38.5,74.1,41.5
+813,813,"University of the Andes, Colombia",Colombia,15280,12.6,0.02,45:55:00,27.6,21.6,16.3,43.2,38.1,55.4
+814,814,"Asia University, Taiwan",Taiwan,11627,31.9,0.07,60:40:00,27.6,17.5,35.6,28.5,100,42
+815,815,Azarbaijan Shahid Madani University,Iran,6470,24,0,62:38:00,27.6,19.3,14,46,38.3,17.5
+816,816,University of the Basque Country,Spain,42724,15.2,0.05,54:46:00,27.6,19.2,17.9,48,35.7,43.9
+817,817,Baylor University,United States,17274,15.3,0.06,58:42:00,27.6,29.7,14.5,38,34.1,35.6
+818,818,University of Bedfordshire,United Kingdom,9733,18.7,0.38,62:38:00,27.6,17.2,14.2,31.8,33.9,78.3
+819,819,Beijing Jiaotong University,China,30200,14.1,0.08,39 : 61,27.6,23,24.2,23.2,67.1,37.7
+820,820,Benha University,Egypt,110000,32.4,0.04,40 : 60,27.6,15.3,7.5,57.8,34.4,42.7
+821,821,Beni-Suef University,Egypt,73693,26.7,0.01,47:53:00,27.6,14.6,7.4,61.7,33.4,44.7
+822,822,Bharathiar University,India,3674,15.1,0,67:33:00,27.6,36.3,15,28.7,33.5,20.2
+823,823,Bowling Green State University,United States,15333,16.3,0.04,57:43:00,27.6,20,13.1,43.6,33.4,26
+824,824,University of Brasﾃｭlia,Brazil,45594,14.9,0.02,51:49:00,27.6,26.7,14.8,39.4,41.3,32.1
+825,825,Capital Medical University,China,13374,4.8,0.05,67:33:00,27.6,30.5,18,31.8,33.9,24.2
+826,826,Cardiff Metropolitan University,United Kingdom,8941,18.8,0.18,55:45:00,27.6,18.8,12.3,39.5,34.2,64.5
+827,827,Carlos III University of Madrid,Spain,17652,11,0.16,44:56:00,27.6,23.3,16.6,29.3,38.6,61.5
+828,828,University of Central Lancashire,United Kingdom,17521,14.2,0.18,58:42:00,27.6,17.4,13.1,37.8,33.6,65.9
+829,829,Central Queensland University,Australia,15905,20.6,0.35,53:47:00,27.6,16.4,13.2,47.8,35.8,59.8
+830,830,University of Cergy-Pontoise,France,15380,19.3,0.16,58:42:00,27.6,16.5,15.8,39.4,34.5,67.5
+831,831,Chang Gung University,Taiwan,7358,12.4,0.05,47:53:00,27.6,24.3,29.9,32.3,82.8,25.6
+832,832,Charles Sturt University,Australia,20280,20.9,0.33,57:43:00,27.6,17.4,16.4,43.3,34.4,72.2
+833,833,Chiba University,Japan,13764,9.8,0.05,38 : 62,27.6,26.3,18.5,30.9,46.1,26.7
+834,834,University of Chile,Chile,36433,15.4,0.06,48:52:00,27.6,23.6,17,35.1,38.3,51.9
+835,835,"China University of Geosciences, Beijing",China,16920,14.1,0.01,38 : 62,27.6,26,16.3,40,45.4,28.8
+836,836,"China University of Geosciences, Wuhan",China,29124,16.2,0.04,n/a,27.6,21.4,17.1,51.1,47.2,27.5
+837,837,China University of Mining and Technology,China,46973,18.3,0.02,33 : 67,27.6,20.3,14.3,52.7,56.3,19.2
+838,838,Chonnam National University,South Korea,22835,17.5,0.08,48:52:00,27.6,22,20.9,30.9,39.2,29.4
+839,839,University of Cﾃｳrdoba,Spain,17834,14.8,0.09,56:44:00,27.6,18.5,15.7,42.2,36.8,44.4
+840,840,Covenant University,Nigeria,8601,16,0,43:57:00,27.6,18.3,18.4,51,45.7,30.1
+841,841,University of Debrecen,Hungary,26938,14.1,0.21,55:45:00,27.6,34.4,10.8,29.5,37.7,60.1
+842,842,Delhi Technological University,India,9000,22.6,0.01,0.806944444,27.6,17,13.4,53.7,34.5,14
+843,843,University of Derby,United Kingdom,14111,14.7,0.15,57:43:00,27.6,16.6,10.8,39.5,34.4,63
+844,844,East China University of Science and Technology,China,25985,15.9,0.02,44:56:00,27.6,21.6,19.7,40,60.5,19
+845,845,Eastern Mediterranean University,Northern Cyprus,18205,24.5,0.81,41:59:00,27.6,18.2,11.5,31.9,33.3,85.9
+846,846,University of East London,United Kingdom,10699,19,0.32,62:38:00,27.6,22.1,14.8,33.5,33.4,80.3
+847,847,ﾃ・cole Centrale de Lyon,France,2053,14.9,0.25,28 : 72,27.6,27.2,20.3,20.1,64,72.7
+848,848,Federal University of Pelotas,Brazil,22618,16.7,0,56:44:00,27.6,18.7,11.5,45.4,33.4,20.6
+849,849,Federal University of Rio de Janeiro,Brazil,59963,14.6,0.01,55:45:00,27.6,31.8,19.3,23.8,65,29
+850,850,Federation University Australia,Australia,11888,20.7,0.47,54:46:00,27.6,16.7,13.9,48.5,37.7,66.7
+851,851,Florida Agricultural and Mechanical University,United States,9433,15.3,0.01,66:34:00,27.6,34.5,11.6,30.2,33.9,28.3
+852,852,Florida Atlantic University,United States,24678,18.5,0.1,57:43:00,27.6,19.6,17.7,40.5,38.9,44.8
+853,853,Florida Institute of Technology,United States,5477,14.3,0.33,34 : 66,27.6,23.4,14.4,32.9,37.6,57.1
+854,854,University of Foggia,Italy,10355,32,0.01,60:40:00,27.6,14.7,20.8,46.8,36.3,25.9
+855,855,Fu Jen Catholic University,Taiwan,19606,27.7,0.08,56:44:00,27.6,23.4,23.7,35.6,85.1,31.2
+856,856,Fuzhou University,China,35717,15.7,0.02,41:59:00,27.6,17,13.1,56.1,57.6,27.6
+857,857,Government College University Faisalabad,Pakistan,19898,34.7,0,42:58:00,27.6,14.3,10.7,47,33.4,39.1
+858,858,Guru Jambheshwar University of Science and Technology,India,5017,19.1,0,41:59:00,27.6,29.5,8.9,41.7,33.4,14.4
+859,859,University of Hertfordshire,United Kingdom,17888,15.8,0.29,56:44:00,27.6,17.7,12.2,45.2,34.2,81.3
+860,860,Hiroshima University,Japan,15080,8.9,0.11,36 : 64,27.6,29.4,23.5,32,55.1,37
+861,861,Hyogo College of Medicine,Japan,912,2.2,0.01,35 : 65,27.6,28.8,13.1,45.3,33.4,16.7
+862,862,Ilmenau University of Technology,Germany,5807,17.8,0.22,27 : 73,27.6,26.1,16.4,26.7,49.8,56.9
+863,863,Imam Abdulrahman Bin Faisal University,Saudi Arabia,24643,8.2,0.04,76:24:00,27.6,21.7,8.1,37.2,33.7,72.1
+864,864,Indian Institute of Technology Bhubaneswar,India,1469,10.8,0,0.602083333,27.6,22.6,10.8,45.8,34,18.4
+865,865,Indian Institute of Technology (Indian School of Mines) Dhanbad,India,7322,22,0.01,0.684027778,27.6,25.8,19.8,36.2,55.2,14.8
+866,866,Indian Institute of Science Education and Research Bhopal,India,1351,13,0,32 : 68,27.6,30.9,14.6,37.3,34.8,17.5
+867,867,University of Indonesia,Indonesia,41561,10.2,0.1,66:34:00,27.6,37.6,20.7,15.2,84.5,51.3
+868,868,Inha University,South Korea,19467,23.6,0.07,40 : 60,27.6,25.2,21.9,27.9,71.9,33.6
+869,869,Isfahan University of Medical Sciences,Iran,11400,12.3,0.01,69:31:00,27.6,41.4,12.3,26.1,36.5,17.1
+870,870,Istanbul University,Turkey,87146,38.2,0.07,51:49:00,27.6,25.4,23.7,32.5,45.2,29.3
+871,871,Istanbul Technical University,Turkey,37861,23,0.04,34 : 66,27.6,24.5,28.2,28.1,100,26.8
+872,872,Iuliu Haﾅ｣ieganu University of Medicine and Pharmacy Cluj-Napoca,Romania,7635,7.8,0.33,65:35:00,27.6,20,8.6,41.5,33.5,50.3
+873,873,Jadavpur University,India,12641,21.2,0.01,32 : 68,27.6,34.2,23.3,24.8,41.4,15.8
+874,874,University of Jaﾃｩn,Spain,14364,17.2,0.08,56:44:00,27.6,17,14.3,40.4,34.2,40.2
+875,875,Jamia Hamdard University,India,6827,13.9,0.06,55:45:00,27.6,26.2,12.9,41.6,37.1,26.7
+876,876,Jiangsu University,China,36125,9.6,0.06,42:58:00,27.6,19.5,11,49.6,56.2,40.2
+877,877,Jilin University,China,71593,10.8,0.03,45:55:00,27.6,28.1,16.3,30.2,42.6,21.5
+878,878,University of Jordan,Jordan,31495,17,0.16,68:32:00,27.6,25.7,12.2,40.4,38.4,67
+879,879,Juntendo University,Japan,4953,4.1,0.02,53:47:00,27.6,33.6,13.9,31.4,47.7,21.5
+880,880,Kaohsiung Medical University,Taiwan,6802,12.1,0.07,57:43:00,27.6,24.5,26.9,30.2,50.6,27.2
+881,881,Karabﾃｼk University,Turkey,47464,45.9,0.17,41:59:00,27.6,18.7,7.7,45.9,35.1,36.1
+882,882,Karlstad University,Sweden,8727,13,0,63:37:00,27.6,16.9,13.6,49,34.4,38.2
+883,883,Kent State University,United States,23764,17.6,0.07,60:40:00,27.6,22.4,17.6,46.8,33.8,39.5
+884,884,Kerman University of Medical Sciences,Iran,5422,3.9,0,63:37:00,27.6,25.4,8.1,48.1,34.4,15.3
+885,885,Kharkiv National University of Radio Electronics,Ukraine,8058,11.8,0.09,0.888888889,27.6,17.4,8.5,52,33.7,28.4
+886,886,Kindai University,Japan,33614,14.1,0.02,31 : 69,27.6,19.9,11.2,56.6,38.4,23.8
+887,887,King Mongkut・・s University of Technology Thonburi,Thailand,16498,21.3,0.06,47:53:00,27.6,18.8,17.5,35,72.3,34.5
+888,888,King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,12238,7.3,0,52:48:00,27.6,28.6,8.2,40.2,34.2,67.7
+889,889,Kingston University,United Kingdom,14285,18.3,0.37,58:42:00,27.6,17.4,17.7,36.1,33.6,85.3
+890,890,K.N. Toosi University of Technology,Iran,6866,22.6,0.01,34 : 66,27.6,24.9,23.9,31.3,53.2,20.8
+891,891,Kurume University,Japan,4995,7.5,0.02,n/a,27.6,21.5,10.4,59.4,37.8,22.2
+892,892,Kyoto Prefectural University of Medicine,Japan,1323,3.3,0.01,47:53:00,27.6,30.1,13.8,39.7,44.3,17
+893,893,Kyungpook National University,South Korea,21323,20.4,0.09,44:56:00,27.6,26.3,31.4,26.7,45.7,34.3
+894,894,Lahore University of Management Sciences,Pakistan,4067,15.1,0.02,41:59:00,27.6,22,15.9,33.8,35.9,46.7
+895,895,University of Las Palmas de Gran Canaria,Spain,18377,17.1,0.08,57:43:00,27.6,16.8,12.2,46.3,33.4,40.2
+896,896,Lebanese American University,Lebanon,7861,13.1,0.18,51:49:00,27.6,29.3,10.4,32.7,33.7,86.6
+897,897,Leeds Beckett University,United Kingdom,19022,19.4,0.12,52:48:00,27.6,17.5,15,43.6,34,51.3
+898,898,University of Leoben,Austria,2635,5,0.14,1.011805556,27.6,29.4,11.9,30.1,54.9,70.2
+899,899,University of Ljubljana,Slovenia,38762,13.9,0.06,60:40:00,27.6,21.2,18.7,45.9,38.8,44.1
+900,900,Louisiana Tech University,United States,10602,25.4,0.04,44:56:00,27.6,16.9,11.6,48.3,35.1,33.5
+901,901,"Lumiﾃｨre University, Lyon 2",France,24414,49.9,0.17,67:33:00,27.6,25.1,17.9,25,33.8,59.4
+902,902,Marquette University,United States,10650,11.9,0.04,55:45:00,27.6,36.3,15.5,38.2,35.4,26.2
+903,903,Medical University of Warsaw,Poland,9727,6.3,0.08,74:26:00,27.6,29.1,9.8,36.3,39,27.4
+904,904,University of Memphis,United States,16460,14.2,0.03,59:41:00,27.6,26,17.4,45.8,34.8,25.4
+905,905,Miami University,United States,18301,25.2,0.15,51:49:00,27.6,21.9,20.8,32.3,35.7,35.5
+906,906,Middle East Technical University,Turkey,23330,27.8,0.06,43:57:00,27.6,30,22.4,32.6,59.7,33
+907,907,University of Minho,Portugal,18504,18.2,0.13,55:45:00,27.6,23.2,20.5,37,62.8,54
+908,908,Mississippi State University,United States,26823,19.1,0.03,51:49:00,27.6,21.1,17.6,46.2,45.8,28.4
+909,909,Nanjing Normal University,China,29862,13.5,0.04,69:31:00,27.6,19.8,11.5,57.3,48.1,25.6
+910,910,National Autonomous University of Mexico,Mexico,166368,16.5,0.08,51:49:00,27.6,31.2,29.5,18.2,60.6,49.7
+911,911,National Central University,Taiwan,11233,10.1,0.11,33 : 67,27.6,26.9,25.5,21.7,74.4,42.4
+912,912,National Chengchi University,Taiwan,13161,15.6,0.16,52:48:00,27.6,24.9,29.4,14.6,42,49.4
+913,913,National Dong Hwa University,Taiwan,9928,18.1,0.08,51:49:00,27.6,17.2,23.7,30.1,38.6,40
+914,914,National Institute of Technology Rourkela,India,5808,17.5,0.04,0.765972222,27.6,27.9,15.5,43.2,39.4,16.9
+915,915,National University of Sciences and Technology,Pakistan,10998,7.5,0.04,34 : 66,27.6,22,13.3,38.4,35.8,41.4
+916,916,National Sun Yat-Sen University,Taiwan,8374,13.5,0.08,37 : 63,27.6,24.2,32.3,27.5,59,40.3
+917,917,National Taipei University of Technology,Taiwan,9874,15.6,0.09,28 : 72,27.6,21.9,21.3,28,90.8,33
+918,918,National Institute of Technology Silchar,India,3169,12.8,0.01,0.643055556,27.6,25.2,13.1,47.2,33.8,14.6
+919,919,The New School,United States,10554,9.5,0.35,72:28:00,27.6,25.5,15.3,36.1,38,50.1
+920,920,University of New Brunswick UNB,Canada,8570,14.1,0.13,52:48:00,27.6,20.6,19.5,37.4,42,59.5
+921,921,University of Nicosia,Cyprus,4683,10.5,0.51,51:49:00,27.6,19,11.4,32.8,33.4,92.3
+922,922,Niigata University,Japan,12093,7.8,0.03,38 : 62,27.6,23.9,12.1,45.3,38.5,23.8
+923,923,Normandy University,France,67205,20.4,0.11,55:45:00,27.6,19.9,14.9,36.4,34.4,53.8
+924,924,Northeastern University,China,37339,14.6,0.04,n/a,27.6,25.6,22.9,25.6,96.9,39.6
+925,925,Northeast Normal University,China,26862,17.1,0.02,75:25:00,27.6,25.4,10.9,48.7,36.6,20.8
+926,926,University of Northern British Columbia (UNBC),Canada,2826,14.2,0.09,62:38:00,27.6,19.3,18.4,40.2,33.7,38.3
+927,927,NorthWest A&F University,China,30159,14.8,0.01,50:50:00,27.6,20.3,14.1,48.5,46,22.3
+928,928,Ocean University of China,China,27999,15.3,0.04,54:46:00,27.6,21.9,16.3,38,46.6,23.9
+929,929,Okayama University,Japan,13136,10.9,0.09,39 : 61,27.6,27.8,19.8,28.6,58.5,30.3
+930,930,Old Dominion University,United States,18811,18.2,0.03,56:44:00,27.6,23.4,19.7,46.9,33.3,30.3
+931,931,University of Oran 1,Algeria,25787,18.8,0.01,64:36:00,27.6,31.3,7.9,47.3,34.2,40.4
+932,932,Osmania University,India,13426,28.5,0.04,38 : 62,27.6,36,13.8,28.1,39.2,17.1
+933,933,University of Oviedo,Spain,21555,12.3,0.03,54:46:00,27.6,18.9,15.7,48.7,36.8,34.8
+934,934,Pablo de Olavide University,Spain,13736,16.2,0.14,59:41:00,27.6,16.6,14.5,50.2,34.6,48
+935,935,University of Peshawar,Pakistan,6063,10.1,0.02,46:54:00,27.6,26.5,10.7,47.6,33.4,38.4
+936,936,Polytechnic University of Valencia,Spain,22019,10.6,0.15,39 : 61,27.6,22.8,16.9,40.3,46,51.6
+937,937,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,16633,23.1,0,50:50:00,27.6,20,11.2,42.6,44.6,29.6
+938,938,Portland State University,United States,20202,18.4,0.08,56:44:00,27.6,21.4,18.7,44.4,34.6,30.3
+939,939,University of Puerto Rico,Puerto Rico,51933,13.1,0.01,58:42:00,27.6,21.4,9.1,43.4,33.9,43.3
+940,940,Pusan National University,South Korea,24992,18.4,0.09,47:53:00,27.6,27.4,29,24.3,67.1,34.7
+941,941,University of Regina,Canada,13324,23.7,0.24,60:40:00,27.6,17.7,16.2,46.3,35.1,65.7
+942,942,Rikkyo University,Japan,20298,15.7,0.05,n/a,27.6,16.8,8.7,46.9,34,46.4
+943,943,Rochester Institute of Technology,United States,14093,15.7,0.17,35 : 65,27.6,20.1,18.2,40.8,34.6,41.8
+944,944,University of Roehampton,United Kingdom,7825,15.3,0.28,70:30:00,27.6,19.9,19.7,36.4,33.4,76.8
+945,945,RUDN University,Russian Federation,20455,12.8,0.31,52:48:00,27.6,35.8,15,26,37.7,57.3
+946,946,Universitﾃｩ Saint-Joseph de Beyrouth,Lebanon,7748,20,0.05,64:36:00,27.6,29.5,13.7,28.4,45.7,70.6
+947,947,University of Salamanca,Spain,28709,17.5,0.16,58:42:00,27.6,24.2,18,37.2,35.7,52.7
+948,948,University of Salford,United Kingdom,16793,18.4,0.2,54:46:00,27.6,21.1,16,39,34.3,70.1
+949,949,University of Santiago de Compostela,Spain,24968,14.9,0.09,61:39:00,27.6,20.9,16.4,45.6,38.2,45.8
+950,950,Sﾃ｣o Paulo State University (UNESP),Brazil,38877,13.8,0.03,51:49:00,27.6,35.2,24.1,17.8,39.2,28.2
+951,951,University of Science and Technology Beijing,China,25354,15,0.04,37 : 63,27.6,25.7,25.6,33.3,59.9,21
+952,952,University of Seville,Spain,50970,16.8,0.1,61:39:00,27.6,19.7,18.2,36.3,36.6,44
+953,953,Shanghai University,China,37395,11.2,0.05,50:50:00,27.6,23.1,26.5,36.3,65.1,30.5
+954,954,Shanghai University of Finance and Economics (SUFE),China,15613,15,0.05,57:43:00,27.6,25.1,13.1,38.4,38.4,46.8
+955,955,Shanghai Maritime University,China,21959,15.8,0.03,42:58:00,27.6,15.8,10.6,43.3,55.4,38.2
+956,956,Shantou University,China,11084,12.1,0.01,48:52:00,27.6,20.3,16,42.8,45,39.1
+957,957,Sheffield Hallam University,United Kingdom,25548,17.2,0.11,55:45:00,27.6,17,12.8,41.6,33.7,52.8
+958,958,Shiraz University,Iran,13490,18.9,0,50:50:00,27.6,23.8,27.5,34.2,58.6,19.6
+959,959,Sidi Mohamed Ben Abdellah University,Morocco,87278,57.1,0.02,47:53:00,27.6,24,7.7,59,33.5,22.6
+960,960,Sogang University,South Korea,9749,23.8,0.11,45:55:00,27.6,25.4,27.6,23.4,48.1,34.5
+961,961,Sohag University,Egypt,55753,28.3,0,59:41:00,27.6,13.7,7.4,50.5,33.5,43.4
+962,962,University of South Bohemia in ﾄ・eskﾃｩ Budﾄ・jovice,Czech Republic,9143,14.4,0.05,70:30:00,27.6,18.4,13.8,40.4,33.4,47.9
+963,963,South China Normal University,China,31465,15.7,0.03,n/a,27.6,19.1,15.2,43.6,50,29.6
+964,964,University of South Dakota,United States,7282,15.8,0.03,n/a,27.6,34.2,15.4,35.8,34.9,25.8
+965,965,Southern Illinois University Carbondale,United States,11158,14.9,0.08,48:52:00,27.6,31.3,18.9,37.7,45.1,34.3
+966,966,University of Split,Croatia,19867,19.7,0.02,n/a,27.6,15.5,12,57.7,34.5,39.1
+967,967,Sri Venkateswara University,India,7707,14.2,0,41:59:00,27.6,37.1,10.6,30.3,33.8,21.7
+968,968,Sultan Qaboos University,Oman,7224,7.7,0.04,50:50:00,27.6,23.7,17.3,29.8,47.1,73.6
+969,969,University of Szeged,Hungary,18859,12.1,0.2,56:44:00,27.6,23.5,13.7,38.4,36.3,59.1
+970,970,Tallinn University,Estonia,4506,11.4,0.13,71:29:00,27.6,19.3,20.1,26.5,34.7,64.3
+971,971,Tallinn University of Technology,Estonia,9437,13.4,0.14,43:57:00,27.6,19.5,16.1,27.7,44.6,68.1
+972,972,Technical University of Madrid,Spain,37683,13.1,0.15,32 : 68,27.6,22.2,14.5,41.1,40.9,51.5
+973,973,Technological University Dublin,Ireland,19300,18.4,0.18,43:57:00,27.6,15.7,12.4,36.4,34.1,69.3
+974,974,University of Technology of Compiﾃｨgne,France,4308,16,0.24,37 : 63,27.6,22.2,10.3,33,42.7,85
+975,975,University of Technology of Troyes,France,3087,19.3,0.24,0.970833333,27.6,27,10.1,31,41.1,76
+976,976,Teesside University,United Kingdom,12258,19.1,0.11,58:42:00,27.6,16.4,11.7,43.2,33.7,54.5
+977,977,Universiti Tenaga Nasional (UNITEN),Malaysia,5736,13.5,0.09,38 : 62,27.6,18.6,15,34.1,94.9,43.6
+978,978,University of Texas at El Paso,United States,17883,23.7,0.08,53:47:00,27.6,21,22.7,37.6,33.4,41.8
+979,979,Tokyo Medical University,Japan,1370,1.7,0.01,49:51:00,27.6,28.9,11.8,40.5,38.8,17.9
+980,980,Tokyo Metropolitan University,Japan,8853,10.1,0.05,38 : 62,27.6,24.4,14.5,50.6,36.7,27.6
+981,981,Tomsk Polytechnic University,Russian Federation,9118,7.9,0.28,33 : 67,27.6,28.3,19.7,26.5,52,55.1
+982,982,University of Tours,France,27994,21.9,0.11,60:40:00,27.6,28.2,13.2,37.7,34.6,53.7
+983,983,Tribhuvan University,Nepal,422690,31.1,0,51:49:00,27.6,12.1,7.2,50.4,33.4,45.5
+984,984,"Vietnam National University, Hanoi",Vietnam,36410,13.5,0.01,54:46:00,27.6,22.4,9.9,41.9,37.1,47.7
+985,985,University of Vigo,Spain,18103,15.8,0.05,50:50:00,27.6,18.5,14,39.9,36.8,43.4
+986,986,Vilnius University,Lithuania,16470,10.3,0.1,65:35:00,27.6,21.4,14.4,35.3,43.1,55.6
+987,987,Vilnius Gediminas Technical University,Lithuania,9328,14,0.12,32 : 68,27.6,16.8,13,39,40.7,45.7
+988,988,VIT University,India,32943,19.3,0.02,24 : 76,27.6,22.4,15.8,37.1,35.7,22.6
+989,989,Volgograd State Technical University,Russian Federation,14162,15.2,0.07,35 : 65,27.6,15.7,9.3,51,42.1,19.9
+990,990,University of Warsaw,Poland,41344,13.3,0.1,65:35:00,27.6,26.4,25.3,33.6,34.3,43.9
+991,991,Waseda University,Japan,48260,15.5,0.11,38 : 62,27.6,30.8,24.2,26,37.6,40.3
+992,992,Wenzhou University,China,15780,14,0.05,58:42:00,27.6,15.6,10.1,59.8,37.7,23.6
+993,993,University of Westminster,United Kingdom,16226,19.3,0.49,60:40:00,27.6,17.9,16.9,36,33.8,83.9
+994,994,University of Wolverhampton,United Kingdom,14779,18.4,0.21,63:37:00,27.6,16.2,13.2,37.4,33.5,65.2
+995,995,Wuhan University of Technology,China,52910,14.4,0.03,30 : 70,27.6,19.8,14.2,46.8,57.5,24.2
+996,996,Xidian University,China,35133,16.5,0.02,28 : 72,27.6,21.2,18.4,37.9,80.1,20.5
+997,997,Yangzhou University,China,33876,13.8,0.04,55:45:00,27.6,16.8,11.9,46.8,43.6,23.1
+998,998,Yeungnam University,South Korea,19494,14.8,0.05,50:50:00,27.6,18.8,13.3,46,39.6,37.5
+999,999,University of Zaragoza,Spain,28036,9.9,0.07,54:46:00,27.6,21.2,15.6,41.7,37.3,40.5
+1000,1000,Zayed University,United Arab Emirates,7524,14.6,0.02,89:11:00,27.6,17.2,13.3,41.8,33.8,74.1
+1001,1001,Zhejiang University of Technology,China,30891,14.7,0.08,n/a,27.6,17.6,16.1,40.7,60.7,25.8
+1002,1002,Acharya Nagarjuna University,India,4816,10.3,0.07,37 : 63,17.65,40.7,9.6,18,40.8,22.3
+1003,1003,Acﾄｱbadem University,Turkey,2608,4.7,0.02,75:25:00,17.65,22.7,10.1,6.9,35.6,21.7
+1004,1004,University of A Coruﾃｱa,Spain,14815,12.4,0.04,52:48:00,17.65,17.7,15.6,33.2,35.3,32.5
+1005,1005,"Adam Mickiewicz University, Poznaﾅ・",Poland,34534,13.2,0.03,69:31:00,17.65,19.9,14.5,31.8,34.4,34.3
+1006,1006,Adolfo Ibﾃ｡ﾃｱez University,Chile,10385,28.8,0.05,38 : 62,17.65,14.8,14.6,26.5,35.4,58.6
+1007,1007,AGH University of Science and Technology,Poland,24949,13.2,0.03,34 : 66,17.65,18.5,13.6,22.7,41.4,22.2
+1008,1008,Aichi Medical University,Japan,1291,2.7,0.01,59:41:00,17.65,25.9,10.2,36.8,38.8,18
+1009,1009,Ain Shams University,Egypt,202325,17.6,0.02,49:51:00,17.65,22.6,10.5,37.7,34.6,36.2
+1010,1010,Akdeniz University,Turkey,36492,33,0.03,35 : 65,17.65,21.6,9.7,12.6,34.9,19.4
+1011,1011,Akita University,Japan,4936,10.1,0.04,35 : 65,17.65,21.7,10.9,9.2,39.4,22.7
+1012,1012,Aksaray University,Turkey,22626,37.5,0.06,45:55:00,17.65,11.7,8.5,23.6,34.1,21.6
+1013,1013,Al-Azhar University,Egypt,342151,32.9,0.06,44:56:00,17.65,14.5,7.7,22.7,33.4,46.8
+1014,1014,Alexandria University,Egypt,187170,25.4,0.03,54:46:00,17.65,18.8,12.9,33.9,38.4,44.8
+1015,1015,Alexandru Ioan Cuza University,Romania,23919,19.6,0.06,63:37:00,17.65,17.1,11.4,12.5,33.4,32.1
+1016,1016,Al-Farabi Kazakh National University,Kazakhstan,22116,4.6,0.17,56:44:00,17.65,26.6,9.6,15,40.9,76.3
+1017,1017,University of Alicante,Spain,24543,16.1,0.08,58:42:00,17.65,18.4,15.9,26.9,36.1,38.5
+1018,1018,University of Almerﾃｭa,Spain,13067,17.7,0.12,56:44:00,17.65,18.9,14.3,30.5,35.1,43.3
+1019,1019,Alzahra University,Iran,9616,22.6,0.01,100:00:00,17.65,18.8,11.3,15.7,37.4,17.9
+1020,1020,Amity University,India,31103,15.4,0.05,46:54:00,17.65,17.2,10,21.8,33.9,19.9
+1021,1021,Anadolu University,Turkey,513690,339.1,0,43:57:00,17.65,13.5,23.6,21.2,100,17.7
+1022,1022,"University of the Andes, Chile",Chile,8734,15.1,0.02,59:41:00,17.65,16.7,10.9,23.3,36.2,46.4
+1023,1023,"University of the Andes, Venezuela",Venezuela,31841,12.4,0.02,60:40:00,17.65,16.9,7.9,16.5,33.4,47.7
+1024,1024,Andhra University,India,8869,13.9,0.05,49:51:00,17.65,38.9,9.6,10,38,17.8
+1025,1025,Andrﾃｩs Bello University (UNAB),Chile,41098,19.1,0.02,52:48:00,17.65,14.2,8.4,30.3,33.5,47.7
+1026,1026,Ankara University,Turkey,76364,18.5,0.05,45:55:00,17.65,17.9,10.8,18,34.8,24.8
+1027,1027,Anna University,India,14966,15.2,0.01,45:55:00,17.65,22.4,13.4,22,43.8,15.4
+1028,1028,Annamalai University,India,19490,12.8,0.02,49:51:00,17.65,24.4,8.7,12.5,34.5,16.6
+1029,1029,University of Antioquia,Colombia,40807,23.4,0,50:50:00,17.65,17.2,13.1,16.5,41.3,37.3
+1030,1030,Aoyama Gakuin University,Japan,19084,11.6,0.03,50:50:00,17.65,17.1,8.2,18.1,33.9,29.4
+1031,1031,Arak University,Iran,6369,21.4,0,57:43:00,17.65,27,11.5,17.6,35.1,16.2
+1032,1032,Ariel University,Israel,11250,28.3,0,49:51:00,17.65,13.7,15.8,19,34.9,22.5
+1033,1033,Assiut University,Egypt,96833,21.3,0.01,54:46:00,17.65,16.4,9.8,30.8,33.4,46.7
+1034,1034,Atatﾃｼrk University,Turkey,58588,33.6,0.02,49:51:00,17.65,18.5,15.4,35.2,35.1,18.1
+1035,1035,Atﾄｱlﾄｱm University,Turkey,9385,14.1,0.05,41:59:00,17.65,16.3,8.3,32.7,34.5,37
+1036,1036,Austral University of Chile,Chile,16392,17.8,0.02,51:49:00,17.65,16.3,12.7,21.8,45.4,51.2
+1037,1037,Autonomous University of Baja California,Mexico,64427,20,0.02,53:47:00,17.65,13.7,7.7,9.1,33.8,32.1
+1038,1038,Autonomous University of Hidalgo State (UAEH),Mexico,36143,18.2,0.01,57:43:00,17.65,14.6,8.8,10.6,35.2,22
+1039,1039,Autonomous University of Nuevo Leﾃｳn,Mexico,117108,40.7,0.01,49:51:00,17.65,13.6,8,11.3,34,30.3
+1040,1040,Autonomous University of Puebla,Mexico,79778,40.2,0,53:47:00,17.65,13.2,8.2,12.9,33.6,25.8
+1041,1041,Autonomous University of Querﾃｩtaro,Mexico,22411,39.7,0.01,56:44:00,17.65,18,9,16.8,39,26.8
+1042,1042,Autonomous University of San Luis Potosi,Mexico,31551,8.9,0,52:48:00,17.65,18.9,7.4,12,33.5,27.1
+1043,1043,Autonomous University of the State of Mexico,Mexico,58936,21.3,0,58:42:00,17.65,15.3,8.6,6.7,37.8,24.6
+1044,1044,Autonomous University of Yucatﾃ｡n,Mexico,17119,14.8,0,50:50:00,17.65,16.2,9.7,14.5,42.5,30.5
+1045,1045,Babeﾅ・-Bolyai University,Romania,38974,25.8,0.05,65:35:00,17.65,18.1,14.8,34.3,33.9,49.6
+1046,1046,University of Baghdad,Iraq,70590,11.2,0,58:42:00,17.65,20,8,26.2,34.2,22.1
+1047,1047,Bahauddin Zakariya University,Pakistan,28987,34.9,0,43:57:00,17.65,13.7,9.4,24.7,33.6,37
+1048,1048,Bahﾃｧeﾅ・ehir University,Turkey,18422,50.6,0.14,48:52:00,17.65,19.3,17.5,22.2,46.3,43.6
+1049,1049,Banasthali University,India,10368,17.6,0.04,98:02:00,17.65,33.1,9.9,23.6,38.8,19.7
+1050,1050,Bandung Institute of Technology (ITB),Indonesia,17267,9.5,0.02,42:58:00,17.65,22.9,16.5,17.3,89.7,29.5
+1051,1051,Bangladesh University of Engineering and Technology,Bangladesh,5607,11.4,0,24 : 76,17.65,18,12.4,21.2,33.7,23.9
+1052,1052,Bashkir State University,Russian Federation,14166,11.9,0.03,64:36:00,17.65,16.6,8.3,4.6,36.3,17
+1053,1053,Baﾅ・kent University,Turkey,13227,14.4,0.02,61:39:00,17.65,16,12.9,4.5,33.4,18.2
+1054,1054,University of Basrah,Iraq,32479,13.4,0,52:48:00,17.65,16.8,7.1,12.8,33.4,38
+1055,1055,Beijing Forestry University,China,19353,16.3,0.02,55:45:00,17.65,23.1,25.9,21.2,78.7,19.4
+1056,1056,Beijing University of Technology,China,21899,11.8,0.03,43:57:00,17.65,25.1,20.6,19.2,57.9,19.8
+1057,1057,University of Bﾃｩjaﾃｯa,Algeria,43062,25.4,0.01,58:42:00,17.65,14.8,8.1,38.7,33.4,43.1
+1058,1058,Belarusian State University,Belarus,24451,7.8,0.1,61:39:00,17.65,21.7,9.6,12.9,45.3,57.4
+1059,1059,Belgorod State National Research University,Russian Federation,12994,14.3,0.18,64:36:00,17.65,19.3,10.1,13.8,41,39.7
+1060,1060,Bezmiﾃ｢lem Vakif University,Turkey,3521,12.4,0.05,73:27:00,17.65,29.6,11.5,30,35.1,21
+1061,1061,University of Bﾃｭo-Bﾃｭo,Chile,13085,25.5,0.01,42:58:00,17.65,13.7,10.8,6.1,37.1,46.2
+1062,1062,University of Birjand,Iran,12055,26.2,0.01,53:47:00,17.65,16.1,8.1,12.3,33.6,17.4
+1063,1063,"Birla Institute of Technology and Science, Pilani",India,14788,18.1,0.01,0.888888889,17.65,20.2,10.8,36.4,34.7,16.8
+1064,1064,University of Biskra,Algeria,32650,23.6,0.01,n/a,17.65,15.5,7.4,17.2,33.4,34.1
+1065,1065,Blida 1 University,Algeria,33723,24.6,0.01,62:38:00,17.65,16,7.7,17.4,33.6,39
+1066,1066,Bolu Abant Izzet Baysal University,Turkey,22466,24.2,0.01,57:43:00,17.65,15.6,8.2,14.9,33.4,19.3
+1067,1067,University of Botswana,Botswana,12206,16.1,0.04,56:44:00,17.65,16,10.8,13.7,33.6,66
+1068,1068,University of Brawijaya,Indonesia,52540,17.2,0.02,54:46:00,17.65,16.9,8.7,10.2,36.3,21.9
+1069,1069,Brno University of Technology,Czech Republic,19589,18.9,0.23,29 : 71,17.65,20.1,16.5,17.5,41.4,53.1
+1070,1070,Bu-Ali Sina University,Iran,11279,25.6,0.01,55:45:00,17.65,23.8,16,23.8,35.3,17.5
+1071,1071,University of Bucharest,Romania,32371,19.1,0.02,68:32:00,17.65,19,10.9,13.9,36.6,26.6
+1072,1072,Budapest University of Technology and Economics,Hungary,19415,17.7,0.11,31 : 69,17.65,17.2,13.9,22.3,43,37.8
+1073,1073,Burapha University,Thailand,34785,23.7,0.01,64:36:00,17.65,21.2,7.9,8.9,33.4,27.5
+1074,1074,University of Burgos,Spain,7200,13,0.05,55:45:00,17.65,17.4,12.4,25.2,36.7,38
+1075,1075,University of Cadiz,Spain,18995,18.7,0.09,56:44:00,17.65,17.2,15.3,32.5,35.1,38.6
+1076,1076,University of Calcutta,India,18570,25.4,0.01,60:40:00,17.65,36.9,12.3,14.2,44,15.9
+1077,1077,"California State University, Long Beach",United States,30440,19.5,0.04,58:42:00,17.65,23.2,11.3,29,35.8,43.2
+1078,1078,Canterbury Christ Church University,United Kingdom,11131,16.7,0.13,69:31:00,17.65,17.5,12,22.3,33.4,43.1
+1079,1079,Polytechnic University of Cartagena,Spain,4497,10.2,0.09,27 : 73,17.65,24,11.4,27.2,39,37.9
+1080,1080,University of Carthage,Tunisia,31188,9.6,0.01,66:34:00,17.65,19.2,8.8,20,33.9,44.1
+1081,1081,University of Castilla-La Mancha,Spain,23198,13.6,0.07,56:44:00,17.65,18.7,13.3,36,35.5,39.7
+1082,1082,The Catholic University of Korea,South Korea,9762,7.2,0.03,59:41:00,17.65,25.1,19,23,37.2,19
+1083,1083,Catholic University of the North,Chile,11567,20,0.02,46:54:00,17.65,14.6,12.3,23.7,34.3,54.1
+1084,1084,Universidad Catﾃｳlica San Antonio de Murcia (UCAM),Spain,12621,6.7,0.1,56:44:00,17.65,20.7,8.6,23.4,35.6,41.9
+1085,1085,University of Caxias do Sul,Brazil,15400,23.5,0,53:47:00,17.65,14.1,8,8.7,33.9,18.5
+1086,1086,Cearﾃ｡ State University,Brazil,20106,17.6,0,61:39:00,17.65,16.3,8.9,5.7,34.7,17.5
+1087,1087,Central University of Finance and Economics,China,15859,14.1,0.03,62:38:00,17.65,19.8,11.7,29.6,38.9,36.6
+1088,1088,Chaoyang University of Technology,Taiwan,16173,41.3,0.06,55:45:00,17.65,15.2,13.5,7.3,43.4,26.2
+1089,1089,"University of Chemistry and Technology, Prague",Czech Republic,4159,9.2,0.22,61:39:00,17.65,25.2,13.7,17.4,39.4,50.6
+1090,1090,University of Chester,United Kingdom,11016,19.6,0.11,68:32:00,17.65,16.8,13.3,21.8,36.1,49.4
+1091,1091,Chiang Mai University,Thailand,36296,15.4,0.02,63:37:00,17.65,22.4,15.6,19.9,44.6,32.9
+1092,1092,Chiba Institute of Technology,Japan,9797,30.9,0.01,0.643055556,17.65,15.2,9.3,6.1,40.3,17.1
+1093,1093,China Pharmaceutical University,China,16470,16.1,0.03,65:35:00,17.65,21.5,12.9,38.1,59.3,18.4
+1094,1094,Chubu University,Japan,12227,23,0.02,26 : 74,17.65,14.7,10.3,16.8,35.3,29.2
+1095,1095,Chungbuk National University,South Korea,19294,14.8,0.03,32 : 68,17.65,18.1,13.7,15.9,36.5,23.3
+1096,1096,Chungnam National University,South Korea,21744,20.5,0.04,46:54:00,17.65,24.7,22.2,14,44.5,23.4
+1097,1097,Chung Yuan Christian University,Taiwan,15978,32.9,0.11,44:56:00,17.65,16.9,23.1,20.8,56.7,39.2
+1098,1098,Chuo University,Japan,26212,37.7,0.04,37 : 63,17.65,23.7,10.2,15.8,36.1,24.1
+1099,1099,Cochin University of Science and Technology,India,8463,19.3,0,39 : 61,17.65,26.6,11.2,10.5,34.2,14.9
+1100,1100,University of Colombo,Sri Lanka,29197,35.6,0,56:44:00,17.65,25.5,9.2,33.1,33.5,38.1
+1101,1101,Comenius University in Bratislava,Slovakia,21141,9.9,0.13,66:34:00,17.65,23.1,12.7,30.6,33.5,51.4
+1102,1102,University of Concepciﾃｳn,Chile,28176,17.2,0.02,52:48:00,17.65,16.4,12.1,23.5,56,49.3
+1103,1103,University of Constantine 1,Algeria,35321,21,0.01,57:43:00,17.65,21,7.5,7.3,34.3,37.7
+1104,1104,Corvinus University of Budapest,Hungary,11232,24.9,0.16,53:47:00,17.65,16.8,12.6,27.1,33.7,44.2
+1105,1105,Cracow University of Technology,Poland,13079,12.1,0.02,38 : 62,17.65,16.6,9.1,22.8,37.8,18.8
+1106,1106,Cukurova University,Turkey,42974,18,0.03,44:56:00,17.65,17.1,9.8,17.7,56.6,19.9
+1107,1107,Czech University of Life Sciences Prague (CULS),Czech Republic,17500,20.7,0.21,51:49:00,17.65,17.2,13.8,22,51.6,59.8
+1108,1108,Czech Technical University in Prague,Czech Republic,18282,11.6,0.2,30 : 70,17.65,21.5,16.5,22.9,51.7,56.9
+1109,1109,De La Salle University,Philippines,13346,16.4,0.03,49:51:00,17.65,18.2,12.7,22.4,33.4,26.9
+1110,1110,Del Rosario University,Colombia,11952,14.5,0.01,57:43:00,17.65,16.2,9.9,19.2,36.2,48.3
+1111,1111,Democritus University of Thrace,Greece,30414,48.4,0.03,54:46:00,17.65,15.1,11.6,31.4,34.7,33.5
+1112,1112,University of Dhaka,Bangladesh,210856,16.9,0.03,47:53:00,17.65,15.3,7.7,36.6,33.8,42.4
+1113,1113,Diponegoro University,Indonesia,38420,15.6,0.02,56:44:00,17.65,21.1,10.5,15,43.2,26.5
+1114,1114,Dokkyo Medical University,Japan,1344,1.3,0.01,53:47:00,17.65,24.3,8.3,16.9,36.5,16.4
+1115,1115,Dokuz Eylﾃｼl University,Turkey,61620,18.8,0.02,47:53:00,17.65,15.6,9.6,25.3,42,18.9
+1116,1116,Doshisha University,Japan,28272,18.7,0.04,41:59:00,17.65,18.2,10.1,5.9,34.8,27.7
+1117,1117,Dunarea de Jos University of Galati,Romania,12383,16.8,0.22,58:42:00,17.65,15,8.4,7.5,33.4,37.8
+1118,1118,Duzce University,Turkey,28346,25.7,0.02,42:58:00,17.65,18.6,10.8,20.6,59.5,18.2
+1119,1119,East Carolina University,United States,26230,14.5,0.02,58:42:00,17.65,22.1,12.6,27.9,37.5,29.2
+1120,1120,"University of Economics, Prague",Czech Republic,13493,27.2,0.24,53:47:00,17.65,18.1,17,5.8,34.2,43.8
+1121,1121,Edge Hill University,United Kingdom,11624,14.5,0.06,68:32:00,17.65,15.8,11,33.5,33.4,43.4
+1122,1122,Ege University,Turkey,42173,26.3,0.03,48:52:00,17.65,21.7,14.1,14.4,36.2,20.5
+1123,1123,Ehime University,Japan,9341,13.2,0.03,38 : 62,17.65,20.6,13.1,19,42.9,29.2
+1124,1124,The University of Electro-Communications,Japan,4838,15.8,0.05,0.561111111,17.65,19.8,19.9,14.3,39.3,29.7
+1125,1125,University of Engineering & Technology (UET) Lahore,Pakistan,13832,13.4,0.03,24 : 76,17.65,16.4,9.2,24.4,33.4,44.3
+1126,1126,Erciyes University,Turkey,37580,29.6,0.03,46:54:00,17.65,21.5,17.3,17.1,94.1,21.5
+1127,1127,Eskiﾅ・ehir Osmangazi University,Turkey,30533,20.5,0.03,38 : 62,17.65,15.6,8.4,15.7,33.5,18.5
+1128,1128,Far Eastern Federal University,Russian Federation,15750,11.2,0.23,n/a,17.65,20.4,11.5,20.3,40,51.8
+1129,1129,Fayoum University,Egypt,35991,14.6,0.01,66:34:00,17.65,15.7,9.1,43,34.7,39.3
+1130,1130,Federal University of ABC (UFABC),Brazil,15580,21.2,0.01,35 : 65,17.65,17.2,12.9,29.3,33.8,35.3
+1131,1131,Federal University of Alagoas,Brazil,30196,18.4,0,n/a,17.65,14.8,15.9,14.1,33.3,22.3
+1132,1132,Federal University of Bahia,Brazil,45148,18.1,0,44:56:00,17.65,23.3,14.2,21,33.3,23.8
+1133,1133,Federal University of Cearﾃ｡ (UFC),Brazil,36345,16.3,0.01,45:55:00,17.65,23.4,11.3,18.3,36.7,26.3
+1134,1134,Federal University of Espﾃｭrito Santo,Brazil,24617,12.8,0.01,56:44:00,17.65,18.5,9.1,20.2,35.7,23.5
+1135,1135,Federal University of Goiﾃ｡s,Brazil,34803,13.1,0,51:49:00,17.65,20.8,10.1,14.9,38.6,21.1
+1136,1136,Federal University of Health Sciences of Porto Alegre (UFCSPA) ,Brazil,6047,16.8,0.1,67:33:00,17.65,18.1,10.8,15.2,33.4,26.4
+1137,1137,Federal University of Itajubﾃ｡,Brazil,8286,15.9,0.01,29 : 71,17.65,17.2,9.2,22,36.4,23.4
+1138,1138,Federal University of Juiz de Fora (UFJF),Brazil,28458,18.3,0,42:58:00,17.65,16.2,7.6,25.5,35.4,20.2
+1139,1139,Federal University of Lavras,Brazil,14546,18.4,0.01,49:51:00,17.65,25.8,17.5,13.2,53.9,20.4
+1140,1140,Federal University of Maranhﾃ｣o (UFMA),Brazil,29443,14.3,0,49:51:00,17.65,25.5,8,18.4,34,18.2
+1141,1141,Federal University of Mato Grosso do Sul,Brazil,27263,17.3,0.01,53:47:00,17.65,17.3,9.2,9.7,35.6,19
+1142,1142,Federal University of Ouro Preto,Brazil,13936,16,0.01,52:48:00,17.65,17.5,9.8,20.1,37.4,21
+1143,1143,Federal University of Parﾃ｡,Brazil,43681,16.3,0,53:47:00,17.65,18.9,11.4,13.7,35.3,24.1
+1144,1144,Federal University of Paraﾃｭﾂｭba (UFPB),Brazil,30829,11.9,0,51:49:00,17.65,20.6,7.4,10.3,34.1,20.4
+1145,1145,Federal University of Paranﾃ｡ (UFPR),Brazil,32860,13.3,0,51:49:00,17.65,25.9,12,13.4,34,22.8
+1146,1146,Federal University of Pernambuco,Brazil,40131,17.4,0.01,49:51:00,17.65,26.1,9.7,14.2,35.2,21.4
+1147,1147,Federal University of Piauﾃｭ,Brazil,30467,15.5,0,54:46:00,17.65,15.4,9.3,7.9,34.3,19
+1148,1148,Federal University of Rio Grande do Norte (UFRN),Brazil,40206,18.6,0,45:55:00,17.65,21.8,9.2,20.4,36.9,26.7
+1149,1149,Federal Rural University of the Semi-Arid Region,Brazil,8007,11.7,0,42:58:00,17.65,21.8,8,2.2,33.4,14.6
+1150,1150,Federal University of Santa Maria,Brazil,27667,13.8,0.01,53:47:00,17.65,21.4,8.9,14.9,34.2,19.3
+1151,1151,Federal University of Sﾃ｣o Carlos,Brazil,19404,15.1,0.02,48:52:00,17.65,26.2,16.9,19.2,41.9,25.2
+1152,1152,Federal University of Technology ・・ Paranﾃ｡,Brazil,31943,12.7,0.01,35 : 65,17.65,16.6,9.4,9.9,36.8,20.3
+1153,1153,Federal University of Uberlﾃ｢ndia,Brazil,29867,15.8,0.01,52:48:00,17.65,20.3,10,19.5,41.1,19.8
+1154,1154,Federal University of Viﾃｧosa,Brazil,15347,12.3,0.01,49:51:00,17.65,26.4,16.1,15.2,46.5,20.7
+1155,1155,Federico Santa Marﾃｭa Technical University,Chile,19430,24.7,0.04,25 : 75,17.65,13.8,10,35.8,43.6,58.9
+1156,1156,Feng Chia University,Taiwan,19790,23.2,0.08,37 : 63,17.65,19.3,17.8,17.5,39.4,34.1
+1157,1157,Ferdowsi University of Mashhad,Iran,24186,29.9,0.05,56:44:00,17.65,27.3,20.2,26.4,45.1,22.2
+1158,1158,Fluminense Federal University,Brazil,54134,15.3,0.01,45:55:00,17.65,21.1,10.8,14.2,33.9,25.7
+1159,1159,University of Fortaleza (UNIFOR),Brazil,22101,18,0,54:46:00,17.65,15.3,7.8,48,33.7,32.8
+1160,1160,University of La Frontera,Chile,10827,23.4,0.01,49:51:00,17.65,14.9,17.7,31.9,33.9,46.9
+1161,1161,University of Fukui,Japan,5047,8.2,0.04,30 : 70,17.65,21.4,10.2,9,36.8,22.3
+1162,1162,Universitas Gadjah Mada,Indonesia,38092,7.9,0.06,53:47:00,17.65,24.2,12.3,13.1,56.7,38.4
+1163,1163,Gazi University,Turkey,43518,25.6,0.02,49:51:00,17.65,20.5,17.6,16.2,96.9,16.9
+1164,1164,Gaziantep University,Turkey,30713,27.6,0.12,47:53:00,17.65,16.3,8.1,18.2,33.6,29
+1165,1165,University of Gdaﾅ・sk,Poland,24302,17.4,0.02,69:31:00,17.65,17.4,11.8,20.7,33.8,31.5
+1166,1166,Gdaﾅ・sk University of Technology,Poland,15540,13.9,0.05,40 : 60,17.65,17.7,12.8,34.7,38.6,25.5
+1167,1167,Gebze Technical University,Turkey,7492,23.7,0.02,37 : 63,17.65,19.1,13.1,20.3,37.8,27.2
+1168,1168,"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania,10629,20.3,0.08,53:47:00,17.65,15.2,8.3,13.3,33.5,28.5
+1169,1169,University of Ghana,Ghana,39872,25.4,0.01,46:54:00,17.65,16.8,15.2,31.3,45,49.2
+1170,1170,Gifu University,Japan,7203,7.5,0.04,37 : 63,17.65,23,11.9,15.3,37,24
+1171,1171,GITAM University,India,19012,15.5,0.01,30 : 70,17.65,17,8,10.7,34.7,20.1
+1172,1172,Government College University Lahore,Pakistan,10012,18.5,0.01,41:59:00,17.65,17.7,9.2,8.9,33.7,38.8
+1173,1173,Grigore T. Popa University of Medicine and Pharmacy,Romania,9416,11.1,0.26,62:38:00,17.65,18.6,7.9,12.7,33.6,39.6
+1174,1174,University of Guadalajara,Mexico,127330,56.8,0,53:47:00,17.65,15.7,8.1,8.9,33.3,28.5
+1175,1175,University of Guanajuato,Mexico,27203,19.8,0.03,54:46:00,17.65,16.1,8.3,11.3,35.7,34.7
+1176,1176,Guangxi University,China,38481,18.4,0.04,47:53:00,17.65,17,12.4,31.6,42.6,23
+1177,1177,Gubkin Russian State University of Oil and Gas,Russian Federation,9553,10.1,0.06,37 : 63,17.65,19,10.4,20,55.4,21.8
+1178,1178,University of Guilan,Iran,17364,29.8,0.01,59:41:00,17.65,20.4,15.7,31.4,37.8,17.7
+1179,1179,Gunma University,Japan,6344,7.7,0.04,38 : 62,17.65,24.8,11,13.6,36.8,21
+1180,1180,Gyeongsang National University,South Korea,15611,14.5,0.03,45:55:00,17.65,19.5,19.1,17.9,42.4,26.3
+1181,1181,Hakim Sabzevari University,Iran,5311,14.4,0.02,53:47:00,17.65,17,9,28.6,34.9,24.2
+1182,1182,Hallym University,South Korea,8383,10.4,0.05,n/a,17.65,19.1,17.4,17.6,38.8,21.7
+1183,1183,Hamamatsu University School of Medicine,Japan,1208,3.8,0.01,49:51:00,17.65,27.7,14.5,28.6,37.8,18.7
+1184,1184,Hanoi University of Science and Technology,Vietnam,30893,20.6,0.01,26 : 74,17.65,15.3,9,30.1,36.5,44.4
+1185,1185,Hashemite University,Jordan,16987,18.8,0.06,62:38:00,17.65,14.4,11.5,9.8,33.4,50.3
+1186,1186,Universitﾃｩ Hassan II de Casablanca,Morocco,117685,35.3,0.02,53:47:00,17.65,18.7,8.7,26.2,35.9,28.6
+1187,1187,University of Havana,Cuba,16058,10.6,0.06,60:40:00,17.65,21.4,10,7.1,39.5,52.6
+1188,1188,Helwan University,Egypt,114062,22.1,0.01,52:48:00,17.65,15.4,8.6,24.1,34,39.3
+1189,1189,Hosei University,Japan,30662,40.8,0.03,38 : 62,17.65,17.1,10.1,27.2,35,28.1
+1190,1190,University of Hradec Krﾃ｡lovﾃｩ,Czech Republic,6245,13.3,0.05,66:34:00,17.65,16.8,12.8,18,36.4,36.2
+1191,1191,Huaqiao University,China,30890,17.4,0.12,51:49:00,17.65,15.4,12,35.8,35.8,52.6
+1192,1192,University of Hyogo,Japan,6570,12.9,0.03,41:59:00,17.65,17.5,12.1,7.6,42.5,19.3
+1193,1193,Ibaraki University,Japan,7975,14.5,0.03,36 : 64,17.65,16.7,10.5,7.4,38.8,23.1
+1194,1194,Ibn Tofaﾃｯl University,Morocco,47086,76.1,0.02,50:50:00,17.65,19,10.2,27.6,37.9,23.5
+1195,1195,Immanuel Kant Baltic Federal University,Russian Federation,7282,10.4,0.09,64:36:00,17.65,19.8,9,10.3,34.8,40.1
+1196,1196,Incheon National University,South Korea,13468,17.4,0.03,n/a,17.65,18.1,7.9,22.7,35.3,29.1
+1197,1197,Indian Institute of Technology Patna,India,1535,13,0,0.602083333,17.65,23.4,8.7,41.5,33.8,15.6
+1198,1198,Industrial University of Santander (UIS),Colombia,20786,15.5,0,45:55:00,17.65,15.4,11.3,37.2,33.4,37.2
+1199,1199,IPB University,Indonesia,22258,8.3,0.03,58:42:00,17.65,24.7,10.1,12.6,58.1,40.8
+1200,1200,Irkutsk State University,Russian Federation,12577,12.5,0.05,69:31:00,17.65,16.8,8.9,13.5,34.1,22.9
+1201,1201,University of Isfahan,Iran,15139,23.1,0.02,62:38:00,17.65,34.8,22,17.3,46.3,20.1
+1202,1202,I-Shou University,Taiwan,13419,28.3,0.15,49:51:00,17.65,16.3,19,15,52.2,35.8
+1203,1203,The Islamia University of Bahawalpur,Pakistan,15509,27.4,0,44:56:00,17.65,17.4,10.9,23.3,33.4,38
+1204,1204,Istanbul Medipol University,Turkey,18780,23.5,0.04,67:33:00,17.65,13.5,9.4,12.5,35.6,23.5
+1205,1205,Ivane Javakhishvili Tbilisi State University,Georgia,20319,24.8,0.03,61:39:00,17.65,15.2,9.2,5.1,33.7,46.7
+1206,1206,Ivan Franko National University of Lviv,Ukraine,18646,10.2,0.01,65:35:00,17.65,20,7.7,8.1,33.7,33.5
+1207,1207,Iwate University,Japan,5436,14,0.03,37 : 63,17.65,19.1,10.2,10.2,35.6,23.6
+1208,1208,Izmir Institute of Technology,Turkey,5328,19.5,0.03,46:54:00,17.65,17.6,10.5,23.6,41.4,28.9
+1209,1209,James Madison University,United States,21315,17.9,0.02,60:40:00,17.65,18.1,11.3,24.4,33.6,27.7
+1210,1210,Jan Evangelista Purkynﾄ・ University,Czech Republic,7438,17.7,0.03,69:31:00,17.65,15.2,11.5,20.6,35.8,34
+1211,1211,Jawaharlal Nehru Technological University Anantapur (JNTUA),India,5402,15.2,0,42:58:00,17.65,27.3,10.5,13.3,33.9,14.4
+1212,1212,Jeju National University,South Korea,12189,19.1,0.05,52:48:00,17.65,17.5,14.8,16.4,35.4,22.2
+1213,1213,Jeonbuk National University,South Korea,20555,20.4,0.06,45:55:00,17.65,22.4,20.7,26,39.4,30.1
+1214,1214,Jianghan University,China,17149,13.8,0.02,55:45:00,17.65,15.9,10.1,24.8,36.2,22.3
+1215,1215,Kagawa University,Japan,6377,9.9,0.02,41:59:00,17.65,20,12.2,26.8,39.5,30.8
+1216,1216,Kagoshima University,Japan,10539,10.2,0.03,37 : 63,17.65,19.9,10.9,17.6,41.7,24.8
+1217,1217,Kanagawa University,Japan,18090,14.9,0.03,29 : 71,17.65,15.3,7.6,16.5,33.8,28.3
+1218,1218,Kanazawa University,Japan,10341,9.8,0.06,36 : 64,17.65,27.1,18.2,24.8,35.9,26
+1219,1219,Kanazawa Medical University,Japan,1149,2.3,0.01,n/a,17.65,24.3,8.3,28.3,33.7,20.4
+1220,1220,Kangwon National University,South Korea,21454,21.3,0.03,40 : 60,17.65,18.9,15.9,18.8,36.9,22.3
+1221,1221,Kansai University,Japan,30766,12.3,0.03,40 : 60,17.65,17,7.8,6.9,34.7,23
+1222,1222,Kasetsart University,Thailand,67668,18.6,0.01,58:42:00,17.65,19.3,13.1,12.7,49.3,34.7
+1223,1223,Kaunas University of Technology,Lithuania,9587,14.8,0.06,37 : 63,17.65,17.1,10.9,8.7,38.5,35.9
+1224,1224,Kazan National Research Technical University ,Russian Federation,6993,11.1,0.11,27 : 73,17.65,18.6,9.4,39.1,47.4,28.9
+1225,1225,Kazan National Research Technological University,Russian Federation,14266,11,0.12,45:55:00,17.65,18.1,9.1,17.5,45.6,26.7
+1226,1226,Kharazmi University,Iran,12226,19.2,0.01,56:44:00,17.65,31.4,13.7,23.8,37.7,18.9
+1227,1227,Khon Kaen University,Thailand,33738,17.4,0.02,62:38:00,17.65,22.8,13.3,18.4,56,30.3
+1228,1228,KIIT University,India,21668,12.7,0.03,48:52:00,17.65,22.1,12.2,34.4,66.6,18.3
+1229,1229,King Faisal University,Saudi Arabia,79232,37,0.01,43:57:00,17.65,15.6,9.2,22.6,63.1,73
+1230,1230,King Mongkut・・s Institute of Technology Ladkrabang,Thailand,25154,22.6,0.01,52:48:00,17.65,18.1,21.6,6.2,84.7,20.2
+1231,1231,King Mongkut's University of Technology North Bangkok,Thailand,27177,24.4,0,43:57:00,17.65,15.9,10.3,17,38.8,21.3
+1232,1232,Kitasato University,Japan,8561,5.4,0,53:47:00,17.65,24.4,10.1,20.3,42.1,16.7
+1233,1233,KL University,India,16930,14.8,0.02,33 : 67,17.65,15.6,8.8,32.8,33.8,15.5
+1234,1234,Kochi University,Japan,5423,7.9,0.01,44:56:00,17.65,20.1,10.8,17.8,38.5,24.2
+1235,1235,Kochi University of Technology,Japan,2477,20.2,0.02,0.970833333,17.65,24.4,14.6,15,41.7,31.7
+1236,1236,Kogakuin University,Japan,6278,17.8,0.01,0.806944444,17.65,17.1,10.5,19.8,40.6,19.9
+1237,1237,Kookmin University,South Korea,17467,11.9,0.11,47:53:00,17.65,18.5,10.1,16.7,38.1,30.7
+1238,1238,Universiti Kuala Lumpur,Malaysia,15533,12.1,0.02,41:59:00,17.65,16.6,8.1,21.6,34,33.7
+1239,1239,Kumamoto University,Japan,10045,7.8,0.07,38 : 62,17.65,25.9,14.9,26,44.4,30.9
+1240,1240,Kunming University of Science and Technology,China,43099,18.3,0.04,34 : 66,17.65,15.4,12.1,12.2,46.1,17.9
+1241,1241,Kuwait University,Kuwait,36853,23.3,0.14,75:25:00,17.65,19.8,10.4,31.2,35,70.3
+1242,1242,Kwansei Gakuin University,Japan,25417,24.3,0.03,48:52:00,17.65,16.5,8.7,29.5,34.3,33.7
+1243,1243,Kyoto Sangyo University,Japan,13151,22.6,0.02,32 : 68,17.65,14.3,8,20,33.4,38
+1244,1244,Kyoto Institute of Technology,Japan,3985,13,0.05,27 : 73,17.65,21.3,15,8,40.9,24.9
+1245,1245,Kyushu Institute of Technology (Kyutech),Japan,5649,16.2,0.05,0.602083333,17.65,19.4,12.9,24.9,51,31.5
+1246,1246,Latvia University of Life Sciences and Technologies,Latvia,3880,39.9,0.02,50:50:00,17.65,17.5,20.4,6.9,37.1,19
+1247,1247,Lebanese University,Lebanon,49737,15.5,0.16,70:30:00,17.65,21.5,7.2,16.7,33.4,77.9
+1248,1248,University of Leﾃｳn,Spain,12803,15.8,0.16,52:48:00,17.65,17.1,11.9,38.5,36.3,47.3
+1249,1249,University of Lethbridge,Canada,6990,12.7,0.11,n/a,17.65,17.3,12.2,21.4,33.5,57.8
+1250,1250,L.N. Gumilyov Eurasian National University,Kazakhstan,18985,6.7,0.04,n/a,17.65,21.6,8.5,20.9,33.4,55.3
+1251,1251,Lobachevsky State University of Nizhni Novgorod,Russian Federation,17310,7.2,0.1,53:47:00,17.65,26.4,11.5,10.9,42.9,31.8
+1252,1252,University of ﾅ・ﾃｳdﾅｺ,Poland,25026,12.3,0.1,62:38:00,17.65,18.5,11.4,13.2,33.6,31.7
+1253,1253,Lodz University of Technology,Poland,15442,12.8,0.04,40 : 60,17.65,17.4,11.4,22.5,37.6,24.2
+1254,1254,London South Bank University,United Kingdom,11560,15.7,0.33,57:43:00,17.65,16.8,10.9,30,33.7,76.7
+1255,1255,Londrina State University,Brazil,26470,15.3,0.01,58:42:00,17.65,21.9,13.4,15,33.3,19.5
+1256,1256,Lorestan University,Iran,8333,27.7,0,57:43:00,17.65,24.1,10.7,39.4,34.8,17.1
+1257,1257,University of Lucknow,India,20942,46.2,0,46:54:00,17.65,21.7,9.5,12.2,33.4,16.6
+1258,1258,Maharaja Sayajirao University of Baroda,India,41564,28.5,0,55:45:00,17.65,13.9,8.8,14.1,34.6,15.1
+1259,1259,Mahasarakham University,Thailand,42628,33.3,0,67:33:00,17.65,17.9,7.9,9.6,34.5,26.9
+1260,1260,University of Malaga,Spain,35376,12.7,0.09,55:45:00,17.65,17.2,11.7,36.8,35.7,41.7
+1261,1261,Universiti Malaysia Perlis,Malaysia,11212,12.7,0.06,42:58:00,17.65,18.6,11.7,31.7,35.5,28.3
+1262,1262,Universiti Malaysia Sarawak (UNIMAS),Malaysia,16217,18.6,0.06,63:37:00,17.65,21.5,8.9,9.3,33.8,43.8
+1263,1263,Manipal Academy of Higher Education,India,22843,9.1,0.12,45:55:00,17.65,29.9,13.4,12.6,39.9,33.3
+1264,1264,University of Manouba,Tunisia,16894,13.1,0.01,62:38:00,17.65,17.8,7.8,22,33.4,41.9
+1265,1265,University of Maribor,Slovenia,11488,13,0.06,54:46:00,17.65,18,16.3,31.5,40.7,38.8
+1266,1266,Marmara University,Turkey,63090,31.1,0.05,50:50:00,17.65,16.8,8.5,21.4,33.4,24.4
+1267,1267,University of Marrakech Cadi Ayyad,Morocco,100717,43.3,0.01,48:52:00,17.65,17.8,10.2,25.9,34.5,41
+1268,1268,University of Mazandaran,Iran,12452,32.1,0.02,64:36:00,17.65,28.6,12.4,32.7,37.1,18.5
+1269,1269,Meiji University,Japan,33449,11.7,0.05,35 : 65,17.65,18.7,8.4,11,34.9,27.2
+1270,1270,Meijo University,Japan,15437,31.8,0.01,30 : 70,17.65,16.5,10.5,13.5,34.5,27.3
+1271,1271,Mendel University in Brno,Czech Republic,8459,17.7,0.19,58:42:00,17.65,18.1,16.5,8.1,35.1,45.9
+1272,1272,Menoufia University,Egypt,94466,36.6,0.01,45:55:00,17.65,15.2,7.9,32.9,35.2,36.8
+1273,1273,M'Hamed Bougara University of Boumerdﾃｨs,Algeria,31889,21.6,0.01,58:42:00,17.65,14.9,7.2,13.2,33.4,29.3
+1274,1274,Michoacﾃ｡n University of San Nicolﾃ｡s of Hidalgo,Mexico,39861,28.7,0.01,53:47:00,17.65,15.3,9.9,9.6,34.3,29.3
+1275,1275,Mie University,Japan,7247,8.6,0.04,38 : 62,17.65,21.7,10.5,17,42.4,23.7
+1276,1276,Ming Chuan University,Taiwan,18423,22.4,0.09,60:40:00,17.65,15.1,11.9,12.7,34.1,29.1
+1277,1277,Minia University,Egypt,72328,18.5,0.01,59:41:00,17.65,15.1,7.3,30.5,33.5,44.9
+1278,1278,MIREA - Russian Technological University,Russian Federation,21612,19.3,0.03,32 : 68,17.65,15.5,10.2,4.1,58.9,17.7
+1279,1279,University of Miskolc,Hungary,9322,18,0.04,n/a,17.65,14.9,8.9,14.4,34.9,28.7
+1280,1280,University of Miyazaki,Japan,5524,7.7,0.03,35 : 65,17.65,22.1,10.2,21.1,36.1,23.7
+1281,1281,Mohammed V University of Rabat,Morocco,83521,33.4,0.05,57:43:00,17.65,27.2,10.3,14.8,41.6,27.9
+1282,1282,University of Monastir,Tunisia,18876,9.4,0.01,68:32:00,17.65,19,9,16.5,33.4,43.5
+1283,1283,University of Montenegro,Montenegro,18275,26.4,0.02,57:43:00,17.65,12.7,10.4,13.8,33.4,44.5
+1284,1284,Morgan State University,United States,7120,13.8,0.13,54:46:00,17.65,18.2,10,35.7,33.4,48.7
+1285,1285,Moscow Aviation Institute,Russian Federation,15317,12.5,0.1,28 : 72,17.65,22.6,10.8,11.9,70.7,24.5
+1286,1286,Moscow Power Engineering Institute,Russian Federation,12082,18.1,0.1,39 : 61,17.65,17.8,13.3,11.3,74.7,29.4
+1287,1287,Multimedia University,Malaysia,9519,11.6,0.08,45:55:00,17.65,18.1,9.5,20.3,36.9,37.2
+1288,1288,University of Mumbai,India,12167,22.2,0,43:57:00,17.65,27.3,24.8,14.1,35,15.2
+1289,1289,University of Murcia,Spain,27120,15.7,0.08,62:38:00,17.65,18.5,14.9,35.3,35.5,42
+1290,1290,Muroran Institute of Technology,Japan,3334,18.4,0.04,0.561111111,17.65,16.1,9.9,38.6,38.7,32.1
+1291,1291,University of Mysore,India,7950,21.5,0.1,40 : 60,17.65,30.7,8.3,11.4,33.8,32.9
+1292,1292,Universidad Nacional del Litoral,Argentina,45401,30.2,0,60:40:00,17.65,13.4,8.4,16.1,34.7,27.1
+1293,1293,Nagaoka University of Technology,Japan,2301,11.2,0.12,0.520138889,17.65,23.1,14.8,9.7,44,33.6
+1294,1294,Nagasaki University,Japan,9090,7.1,0.04,37 : 63,17.65,26.1,14.7,24.4,40.5,30.6
+1295,1295,Nagoya City University,Japan,4412,7.4,0.02,53:47:00,17.65,24.5,15.5,25.2,45,19.4
+1296,1296,Nagoya Institute of Technology,Japan,5711,16.3,0.04,0.725,17.65,18.3,19.1,10.6,49.4,24
+1297,1297,Nanjing University of Aeronautics and Astronautics,China,29583,16.3,0.03,28 : 72,17.65,21.4,22.4,21.1,76.9,19.7
+1298,1298,Nara Medical University,Japan,1252,3.4,0.01,46:54:00,17.65,26.7,11,27.6,42.2,15.8
+1299,1299,Naresuan University,Thailand,22184,15.1,0.01,63:37:00,17.65,18,8.2,14.1,42.8,35.9
+1300,1300,National Changhua University of Education,Taiwan,8333,22.6,0.04,49:51:00,17.65,20.2,19.3,9.8,36.8,21.4
+1301,1301,National Chiayi University,Taiwan,12143,24.2,0.03,48:52:00,17.65,15.7,12.1,10,65.7,18.3
+1302,1302,National Chi Nan University,Taiwan,6143,15.6,0.12,52:48:00,17.65,17.8,15.4,5.5,48,31.1
+1303,1303,National Chin-Yi University of Technology,Taiwan,7316,24.1,0.05,30 : 70,17.65,14.6,22.8,5.9,46.4,20
+1304,1304,National Chung Cheng University,Taiwan,10195,15.1,0.05,45:55:00,17.65,19.9,19.5,13.9,38.6,22.8
+1305,1305,National Chung Hsing University,Taiwan,15184,16.6,0.07,38 : 62,17.65,23.2,21.1,20.5,50.1,27.9
+1306,1306,National University of Colombia,Colombia,52166,22,0.01,38 : 62,17.65,18.9,14.3,35.2,33.9,36.3
+1307,1307,National University of Cﾃｳrdoba,Argentina,80219,12.9,0.02,62:38:00,17.65,19,9.5,20.1,33.9,34.7
+1308,1308,National University of Cuyo,Argentina,38253,7.9,0.03,74:26:00,17.65,19.6,7.3,24.7,33.4,38.7
+1309,1309,National Ilan University,Taiwan,5470,23.3,0.03,34 : 66,17.65,14.5,11.8,16.9,34.2,32.4
+1310,1310,"National Institute of Technology, Tiruchirappalli",India,5848,17.3,0.08,24 : 76,17.65,23.3,14.5,36.9,36.9,22.5
+1311,1311,National University of Kaohsiung,Taiwan,5565,23.3,0.04,41:59:00,17.65,14,15,6,38.4,26.7
+1312,1312,National Polytechnic University (IPN),Mexico,180801,11,0,39 : 61,17.65,17.4,8.7,14.9,40,24.5
+1313,1313,National Research University of Electronic Technology (MIET),Russian Federation,4306,8.7,0.05,28 : 72,17.65,37.9,14,8.6,80,20.6
+1314,1314,National Research Saratov State University,Russian Federation,9782,9.2,0.08,60:40:00,17.65,21,11.3,24.2,37.3,31.3
+1315,1315,National University of San Martﾃｭn,Argentina,15841,15.8,0.05,65:35:00,17.65,17,9.8,28.6,34,40.5
+1316,1316,National Taipei University,Taiwan,8636,16.5,0.04,54:46:00,17.65,19.5,14.1,23,34.4,27.2
+1317,1317,National Taiwan Ocean University,Taiwan,8655,21.5,0.09,32 : 68,17.65,18.6,22.2,18.5,53.8,31.2
+1318,1318,National Technical University Kharkiv Polytechnic Institute,Ukraine,12141,8,0.09,31 : 69,17.65,20.7,7.8,9.4,34,26.4
+1319,1319,National Technical University of Ukraine ・・ Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,21072,10.4,0.03,39 : 61,17.65,18.5,8.6,10.7,33.4,21
+1320,1320,National Yunlin University of Science and Technology,Taiwan,9200,25.2,0.05,42:58:00,17.65,20.9,27.6,8,99.4,21.3
+1321,1321,Nicolaus Copernicus University in Toruﾅ・,Poland,21990,11.3,0.03,69:31:00,17.65,20.1,11.7,22.5,34.7,27.2
+1322,1322,University of Nigeria Nsukka,Nigeria,42785,14.6,0.01,49:51:00,17.65,23.1,8.9,22.1,34.2,27.2
+1323,1323,Slovak University of Agriculture in Nitra,Slovakia,5707,12.8,0.03,54:46:00,17.65,19.1,9.7,10.4,35.4,39.5
+1324,1324,University of North Carolina Wilmington,United States,14865,18.8,0.02,62:38:00,17.65,16.2,8.2,28.1,34.4,27.5
+1325,1325,North China Electric Power University,China,36362,18.3,0.03,35 : 65,17.65,17.7,12.8,30.9,55.8,17.6
+1326,1326,"University of the North, Colombia",Colombia,14861,20.4,0.04,50:50:00,17.65,15,10.7,21.5,35.1,52.6
+1327,1327,North-Eastern Federal University,Russian Federation,12806,11.2,0.05,54:46:00,17.65,20.6,8.8,9.8,36.6,33.9
+1328,1328,Northwest University,China,23351,13.4,0.05,56:44:00,17.65,20.4,11.8,37.6,40.7,23.9
+1329,1329,University of Novi Sad,Serbia,48101,14.9,0.03,55:45:00,17.65,16.1,9.5,13.6,35.6,34
+1330,1330,Novosibirsk State Technical University,Russian Federation,11589,11.4,0.21,52:48:00,17.65,19.9,12.5,9.9,36,35.9
+1331,1331,Oakland University,United States,15441,18.1,0.04,57:43:00,17.65,27.2,13.9,27.5,33.8,30.8
+1332,1332,Obafemi Awolowo University,Nigeria,29423,23.5,0,49:51:00,17.65,17.7,9.3,13.7,36.3,33.3
+1333,1333,Ochanomizu University,Japan,2802,14.8,0.05,100:00:00,17.65,23.9,12.6,10.6,37.4,24.1
+1334,1334,Oita University,Japan,5645,9,0.01,37 : 63,17.65,20,9.4,27.4,37.1,18.8
+1335,1335,Omsk State Technical University,Russian Federation,13102,11.4,0.17,37 : 63,17.65,16.6,7.9,27.3,35.3,30.4
+1336,1336,Ondokuz Mayis University,Turkey,37333,28.1,0.1,50:50:00,17.65,15.7,8.8,7.9,37.2,27.5
+1337,1337,Osaka City University,Japan,8019,8.7,0.03,36 : 64,17.65,25.6,14.4,28.2,41.5,24.7
+1338,1338,Osaka Institute of Technology,Japan,7120,26.1,0.01,0.561111111,17.65,15.1,10.9,22,36,22
+1339,1339,Osaka Medical College,Japan,1224,2.7,0.01,51:49:00,17.65,27.8,10.2,14.7,35.9,16.1
+1340,1340,Osaka Prefecture University,Japan,7710,12.2,0.04,36 : 64,17.65,21.8,16.5,16.1,42.2,21.7
+1341,1341,University of Ostrava,Czech Republic,8796,17.7,0.09,70:30:00,17.65,17.3,14.4,24.9,33.5,40.7
+1342,1342,Padjadjaran University,Indonesia,42928,15.3,0.01,59:41:00,17.65,22.5,8.6,14.5,40.5,22
+1343,1343,University of Pardubice,Czech Republic,6961,13.1,0.08,55:45:00,17.65,19,16.4,7.4,34.5,29.6
+1344,1344,Paris Nanterre University,France,32742,35.6,0.17,62:38:00,17.65,22.6,18.2,12.8,33.6,51.2
+1345,1345,University of Patras,Greece,25636,27.3,0.05,44:56:00,17.65,16.6,12.3,39.9,39.2,37.8
+1346,1346,Pavol Jozef ﾅafﾃ｡rik University in Koﾅ｡ice,Slovakia,6802,10.1,0.22,65:35:00,17.65,39,9.5,16,33.5,63.9
+1347,1347,Perm National Research Polytechnic University,Russian Federation,8257,9.8,0.09,38 : 62,17.65,19.5,10.5,7.5,56.5,23.2
+1348,1348,Perm State University,Russian Federation,9273,10.9,0.02,62:38:00,17.65,19.2,9.9,2.9,38.8,16.8
+1349,1349,Pirogov Russian National Research Medical University,Russian Federation,8225,6.3,0.06,72:28:00,17.65,38.3,10,3.1,37.1,21.1
+1350,1350,PMAS Arid Agriculture University Rawalpindi,Pakistan,12023,48.3,0,38 : 62,17.65,14.8,9.3,23.2,33.3,38.3
+1351,1351,Polytechnic Institute of Porto,Portugal,18259,16.8,0.06,48:52:00,17.65,14.1,9.4,44.6,33.5,34.9
+1352,1352,Polytechnic University of Bucharest,Romania,29699,23.1,0.03,36 : 64,17.65,16,11.1,11.8,33.9,21.3
+1353,1353,Polytechnic University of Timiﾅ・oara,Romania,12762,20.6,0.02,36 : 64,17.65,14.7,8.2,13.8,34.3,19.3
+1354,1354,Pondicherry University,India,6940,20.1,0.01,41:59:00,17.65,36.5,20.3,16.7,33.4,14.8
+1355,1355,Pontifical Bolivarian University (UPB) ・・ Medellﾃｭn,Colombia,15400,14,0.02,54:46:00,17.65,16.9,9.2,7.9,33.7,37.3
+1356,1356,Pontifical Catholic University of Minas Gerais,Brazil,65117,39.5,0,53:47:00,17.65,14.6,8.3,7,33.7,20.7
+1357,1357,Pontifical Catholic University of Paranﾃ｡,Brazil,16353,18.1,0.01,53:47:00,17.65,19.4,11.3,30.9,36.3,27.8
+1358,1358,Pontifical Catholic University of Peru,Peru,25807,7.4,0.02,47:53:00,17.65,20.5,8.9,36.6,34.7,45.4
+1359,1359,Pontifical Catholic University of Valparaﾃｭso,Chile,16511,24.1,0.01,42:58:00,17.65,16.8,16,17.2,47.4,48.9
+1360,1360,Port Said University,Egypt,22163,27.7,0,47:53:00,17.65,13.9,7.2,19.6,33.4,42.3
+1361,1361,Prince of Songkla University,Thailand,37788,15.6,0.02,70:30:00,17.65,17.9,11.2,18.8,37.8,31.5
+1362,1362,PSG College of Technology,India,8563,13.8,0,38 : 62,17.65,17.2,8.9,12.2,34,14.2
+1363,1363,Public University of Navarre,Spain,7481,11.7,0.08,51:49:00,17.65,18.5,12.7,36.1,35.9,45.3
+1364,1364,University of the Punjab,Pakistan,27907,24.8,0,52:48:00,17.65,20.1,11.2,34.8,34.2,33.8
+1365,1365,Qassim University,Saudi Arabia,64042,15.5,0.03,66:34:00,17.65,16.6,7.4,13.2,34.5,73.6
+1366,1366,Razi University,Iran,12266,29.3,0.01,58:42:00,17.65,24.7,14.3,30.5,35.4,17.6
+1367,1367,Recep Tayyip Erdoﾄ・an University,Turkey,12365,23.3,0.03,51:49:00,17.65,15.4,8.6,8.2,33.4,18.4
+1368,1368,University Rey Juan Carlos,Spain,43273,23.5,0.09,58:42:00,17.65,15.4,10.5,41,35.5,43.7
+1369,1369,Riga Technical University,Latvia,11134,31,0.12,34 : 66,17.65,20.6,18.1,18.3,57.2,46
+1370,1370,Rio de Janeiro State University (UERJ),Brazil,24286,9.8,0,57:43:00,17.65,25.6,11.4,15.6,38.9,23.1
+1371,1371,Ritsumeikan University,Japan,35401,18.3,0.08,n/a,17.65,18.9,12.6,16.4,35.9,36.8
+1372,1372,Robert Gordon University,United Kingdom,9684,20.1,0.23,62:38:00,17.65,16.6,11.3,22.8,34.3,76.8
+1373,1373,Russian Presidential Academy of National Economy and Public Administration,Russian Federation,15067,9.3,0.05,57:43:00,17.65,20.5,14.8,13.4,36.5,21.4
+1374,1374,Ryukoku University,Japan,16124,33.4,0.02,37 : 63,17.65,15.5,10.2,12.1,34.3,21.5
+1375,1375,University of the Ryukyus,Japan,7658,10,0.02,38 : 62,17.65,19.7,12,15.9,41.3,29.2
+1376,1376,University of La Sabana,Colombia,11904,18.8,0.03,58:42:00,17.65,15.9,9.6,5,33.8,40.5
+1377,1377,Saga University,Japan,6761,9.7,0.02,40 : 60,17.65,21.8,12.7,20.1,49.6,23.8
+1378,1378,Saitama University,Japan,8484,14.1,0.05,33 : 67,17.65,18.9,13,17.5,35.6,32.9
+1379,1379,Saitama Medical University,Japan,1904,1.5,0,52:48:00,17.65,23.3,8.8,30.7,37.1,15.3
+1380,1380,Sakarya University,Turkey,51273,31.7,0.05,45:55:00,17.65,14,9,17.6,35.1,20.9
+1381,1381,Samara University,Russian Federation,9806,10.5,0.13,50:50:00,17.65,20.3,12.3,22.1,43.1,33.8
+1382,1382,Samara State Technical University,Russian Federation,14126,15.8,0.03,38 : 62,17.65,15.6,8.9,13.7,42.6,16.5
+1383,1383,San Sebastiﾃ｡n University,Chile,17617,9.2,0,61:39:00,17.65,17.8,7.6,7.5,33.4,44
+1384,1384,Santa Catarina State University,Brazil,13414,12.8,0.01,52:48:00,17.65,20,9.7,23.7,34.1,16.8
+1385,1385,"University of Santiago, Chile (USACH)",Chile,23469,25.4,0.03,43:57:00,17.65,16,15.3,12.2,35.9,47.4
+1386,1386,Sapporo Medical University,Japan,1305,3.3,0,43:57:00,17.65,28.9,11.7,27.8,42.9,15.4
+1387,1387,University of Sargodha,Pakistan,20999,23.3,0,53:47:00,17.65,24.6,9,15.6,35.1,40.5
+1388,1388,SASTRA University,India,9160,12,0,46:54:00,17.65,17.8,9.5,37.9,41.8,15.1
+1389,1389,Satbayev University,Kazakhstan,8610,16,0.02,35 : 65,17.65,17.7,10,21,44,43.4
+1390,1390,Sathyabama Institute of Science and Technology,India,12715,14.7,0.02,46:54:00,17.65,19.5,9.6,13.8,34,16.6
+1391,1391,Saveetha University,India,9409,6.5,0.01,38 : 62,17.65,22.3,7.7,1.9,35.2,27.9
+1392,1392,University of Sciences and Technology Houari Boumediene,Algeria,42174,23.1,0,58:42:00,17.65,15.7,8.3,8.1,33.5,35.5
+1393,1393,University of Science and Technology of Oran Mohamed-Boudiaf,Algeria,21290,11.1,0.02,52:48:00,17.65,18.7,7.2,6.4,33.6,36
+1394,1394,Sechenov University,Russian Federation,15840,7.7,0.18,70:30:00,17.65,27.3,11.5,8.5,36.7,42.1
+1395,1395,Selﾃｧuk University,Turkey,46791,21.9,0.04,62:38:00,17.65,15.6,8.4,24.6,33.8,21.5
+1396,1396,Semnan University,Iran,14773,14.6,0.01,50:50:00,17.65,21.4,9.2,43.9,34,17.3
+1397,1397,University of Seoul,South Korea,9461,17.2,0.06,n/a,17.65,23.8,18.2,27,40.1,28.8
+1398,1398,Seoul National University of Science and Technology (SeoulTech),South Korea,11299,17.9,0.06,35 : 65,17.65,20.3,14.2,16.7,37.9,23.4
+1399,1399,University of Sfax,Tunisia,30923,12.8,0.01,68:32:00,17.65,25.6,11.1,16.4,33.4,41.8
+1400,1400,Shahed University,Iran,6371,19.1,0,51:49:00,17.65,25.5,14.3,16.5,37.8,14.9
+1401,1401,Shahid Bahonar University of Kerman,Iran,14705,23.5,0,60:40:00,17.65,18.4,15.2,18.5,43.1,16.7
+1402,1402,・・Shahid Chamran University of Ahvaz,Iran,13149,22.3,0.01,60:40:00,17.65,28.2,17.2,16.2,70.8,16.1
+1403,1403,Shahid Rajaee Teacher Training University,Iran,9738,45.9,0,30 : 70,17.65,15.9,18.6,25.4,69,19.2
+1404,1404,Shahrekord University,Iran,7166,22.4,0,59:41:00,17.65,18.1,11.3,44.3,34.4,16.5
+1405,1405,Shahrood University of Technology,Iran,8056,22.7,0.01,42:58:00,17.65,24.3,15,35.1,35,21.2
+1406,1406,Shibaura Institute of Technology Tokyo,Japan,8864,26.3,0.05,0.806944444,17.65,17.7,14.8,10.3,39.7,31.2
+1407,1407,Shiga University of Medical Science,Japan,1146,3.1,0.02,49:51:00,17.65,26.8,10.6,37,44.9,19.8
+1408,1408,Shimane University,Japan,6106,7.5,0.02,37 : 63,17.65,21.7,11.7,15.4,36.5,22.8
+1409,1409,Shinshu University,Japan,10768,10.3,0.03,32 : 68,17.65,22.6,14.7,30.7,41.4,25.6
+1410,1410,Shiraz University of Medical Sciences,Iran,10465,10.8,0.02,55:45:00,17.65,33.9,9.6,31.8,34.4,17.4
+1411,1411,Shizuoka University,Japan,9949,13.9,0.03,29 : 71,17.65,18.2,14,12.2,39.3,30
+1412,1412,University of Shizuoka,Japan,3099,11.6,0.03,61:39:00,17.65,20.9,11.8,13.6,36.5,20.9
+1413,1413,Showa University,Japan,3724,2,0,59:41:00,17.65,30.4,8.9,22.3,34.9,16.5
+1414,1414,Siberian Federal University,Russian Federation,10972,19.1,0.08,36 : 64,17.65,20.3,15.8,22.4,64.8,47.2
+1415,1415,Siksha ・・O・・ Anusandhan,India,12143,9.7,0,50:50:00,17.65,21.1,8.4,20.1,38.3,13.5
+1416,1416,University of Silesia in Katowice,Poland,24535,13.3,0.03,66:34:00,17.65,18.9,9.4,15.6,33.4,26.3
+1417,1417,Silesian University of Technology,Poland,17892,11.9,0.02,34 : 66,17.65,17.6,11.4,23.6,37.7,18.2
+1418,1418,Silpakorn University,Thailand,24138,21.3,0.01,69:31:00,17.65,17,9.2,12.3,41.3,24.9
+1419,1419,Simﾃｳn Bolﾃｭvar University,Venezuela,8373,23.6,0,46:54:00,17.65,17.2,10.6,16.9,66.3,46.8
+1420,1420,University of Sistan and Baluchestan,Iran,24331,52.8,0,50:50:00,17.65,18,10.7,14,35.1,15.8
+1421,1421,Slovak University of Technology in Bratislava,Slovakia,11194,11.3,0.04,32 : 68,17.65,20.8,12.1,9.6,36.6,28.9
+1422,1422,Sofia University,Bulgaria,21735,7.1,0.06,67:33:00,17.65,21.8,9.4,14.7,34.3,42.2
+1423,1423,University of Sonora,Mexico,30218,18.3,0.01,54:46:00,17.65,14.8,7.5,8.2,33.4,27.9
+1424,1424,Soongsil University,South Korea,15979,19.9,0.09,44:56:00,17.65,22,11.4,14.5,35.2,29.5
+1425,1425,Sophia University,Japan,13511,24.8,0.11,57:43:00,17.65,21.7,12.1,11.2,35.1,43.5
+1426,1426,University of Sousse,Tunisia,25594,11.2,0.01,67:33:00,17.65,22.9,8.1,13.7,33.4,37.4
+1427,1427,University of South Africa,South Africa,222065,179.7,0.06,69:31:00,17.65,23.3,22.8,25.2,34.4,34.5
+1428,1428,University of South China,China,26083,11,0.01,45:55:00,17.65,16.7,9.3,15.9,41,16.7
+1429,1429,Southern Federal University,Russian Federation,19251,11.5,0.09,55:45:00,17.65,19.4,11.1,16.7,44.2,28.7
+1430,1430,South Ural State University,Russian Federation,22313,15.5,0.09,43:57:00,17.65,17,12,32.2,40.7,26.9
+1431,1431,South Valley University,Egypt,47430,58.1,0,61:39:00,17.65,15.1,9.2,39.8,33.6,44.7
+1432,1432,University of South Wales,United Kingdom,15478,15.4,0.19,53:47:00,17.65,16.3,9.8,36.1,33.7,66.7
+1433,1433,Southwest Jiaotong University,China,41878,17.1,0.02,1.011805556,17.65,18.9,17.2,25.2,88.8,25.5
+1434,1434,Srinakharinwirot University,Thailand,22649,17.2,0,72:28:00,17.65,18.1,8.5,9.7,33.6,19.3
+1435,1435,SRM Institute of Science and Technology,India,51528,15.6,0.02,1.011805556,17.65,18.1,8.7,20.1,33.5,18.9
+1436,1436,Staffordshire University,United Kingdom,8733,15.4,0.11,49:51:00,17.65,17.4,10.5,40,33.6,48.9
+1437,1437,State University of Maringﾃ｡,Brazil,22727,12.1,0.01,57:43:00,17.65,20.3,11.2,11.3,33.7,18.3
+1438,1438,State University of Ponta Grossa,Brazil,8549,8.8,0,54:46:00,17.65,20.7,9.6,24.6,33.4,21.5
+1439,1439,State University of Santa Cruz,Brazil,6718,8.6,0.01,61:39:00,17.65,24.4,8.6,11,33.4,25.2
+1440,1440,St Marianna University School of Medicine,Japan,848,0.9,0.01,35 : 65,17.65,27,7.9,37.4,33.4,16.7
+1441,1441,St Petersburg Electrotechnical University (LETI),Russian Federation,8227,12.9,0.19,30 : 70,17.65,20.2,13.8,19,60.7,35.6
+1442,1442,Sﾃｼleyman Demirel University,Turkey,37150,41.1,0.03,50:50:00,17.65,16.7,8.4,15.8,33.6,19.1
+1443,1443,Suranaree University of Technology,Thailand,14329,30.9,0.01,55:45:00,17.65,19.3,13.2,22.1,50.2,31.4
+1444,1444,SWPS University of Social Sciences and Humanities,Poland,13561,35.3,0.09,74:26:00,17.65,15.6,12.8,27.5,33.4,53.4
+1445,1445,Szent Istvﾃ｡n University,Hungary,13198,17.9,0.11,48:52:00,17.65,17.7,9.9,18.3,35.1,44.1
+1446,1446,University of Talca,Chile,11310,15.7,0.01,51:49:00,17.65,16,11,27.2,37.8,50.8
+1447,1447,Tamil Nadu Agricultural University,India,6393,8.5,0,65:35:00,17.65,23.3,9.4,2,39.1,15.9
+1448,1448,Tamkang University,Taiwan,25343,24.5,0.08,48:52:00,17.65,16.5,12.5,14.5,35.5,33.2
+1449,1449,Tanta University,Egypt,115169,21.8,0.01,42:58:00,17.65,14.7,7.5,45,33.6,41
+1450,1450,University of Tarapacﾃ｡,Chile,8703,27.4,0.02,54:46:00,17.65,13.8,15.9,13.8,35.3,51.9
+1451,1451,Taras Shevchenko National University of Kyiv,Ukraine,23687,8.9,0.04,58:42:00,17.65,22.8,9.8,8.3,33.8,31.7
+1452,1452,Technical University of Cluj-Napoca,Romania,19136,19.4,0.02,36 : 64,17.65,15.4,10.4,17.6,35.5,22.1
+1453,1453,Technical University of Koﾅ｡ice,Slovakia,9110,12,0.13,28 : 72,17.65,20,13.5,11.4,44.5,35
+1454,1454,Technical University of Liberec,Czech Republic,5129,11.2,0.12,53:47:00,17.65,19.9,13.1,6.1,41.2,37.4
+1455,1455,"University of Technology, Iraq",Iraq,10417,6.7,0,34 : 66,17.65,20.7,7.1,30.7,33.5,29.5
+1456,1456,Universiti Teknikal Malaysia Melaka,Malaysia,12678,16.1,0.06,39 : 61,17.65,14.9,9,14.8,33.5,29.7
+1457,1457,Universiti Teknologi MARA,Malaysia,56945,17.8,0,67:33:00,17.65,19.6,14.2,10.8,33.8,18.9
+1458,1458,Institut Teknologi Sepuluh Nopember,Indonesia,14941,10.4,0.05,28 : 72,17.65,19.7,12.1,17.5,61.9,38.2
+1459,1459,Telkom University,Indonesia,23042,21.9,0,41:59:00,17.65,12.9,8.5,22.2,33.8,15.5
+1460,1460,Texas State University,United States,31872,19.4,0.01,59:41:00,17.65,18.4,16.5,27.1,36.4,32.4
+1461,1461,Tezpur University,India,4278,13.6,0.02,39 : 61,17.65,29.4,12.2,26.2,41.8,16.6
+1462,1462,Thammasat University,Thailand,28359,10.9,0.01,64:36:00,17.65,20.4,13.3,11.2,39,34.4
+1463,1463,University of Tlemcen,Algeria,41558,23.4,0.01,67:33:00,17.65,26.5,8.3,5.1,33.5,35.4
+1464,1464,TOBB University of Economics and Technology,Turkey,5839,14.7,0,48:52:00,17.65,17.8,10.6,24,37.6,25.9
+1465,1465,Toho University,Japan,5306,13.8,0,52:48:00,17.65,20.2,13.9,30.9,40.7,18.1
+1466,1466,Tokai University,Japan,29644,13.1,0.03,27 : 73,17.65,20.1,10.4,22.8,35.5,24.9
+1467,1467,Tokat Gaziosmanpaﾅ・a University,Turkey,18471,16.2,0.03,52:48:00,17.65,15.1,7.7,20.7,33.5,18.5
+1468,1468,Tokushima University,Japan,7553,9.2,0.03,35 : 65,17.65,22.8,18.5,15.4,59,23.5
+1469,1469,Tokyo University of Agriculture,Japan,12468,33.4,0.02,42:58:00,17.65,15.6,9.5,13.4,35.6,19.3
+1470,1470,Tokyo University of Agriculture and Technology,Japan,5767,15.2,0.06,31 : 69,17.65,27.2,24.1,15.4,48.2,28.2
+1471,1471,Tokyo City University,Japan,7389,14.6,0.01,1.011805556,17.65,17.2,10.8,8.8,43.6,20
+1472,1472,Tokyo Denki University,Japan,9262,25,0.02,0.602083333,17.65,14.8,9.3,2.6,38.9,17.7
+1473,1473,Tokyo University of Marine Science and Technology,Japan,2641,10.7,0.08,34 : 66,17.65,23.5,14.1,11.4,49,33.4
+1474,1474,Tokyo University of Science,Japan,18578,24.8,0.02,24 : 76,17.65,21.3,23.6,16.1,41.1,22.2
+1475,1475,Tomas Bata University in Zlﾃｭn,Czech Republic,8389,18.8,0.11,58:42:00,17.65,19.5,18.3,12.7,36.3,44.4
+1476,1476,Tomsk State University of Control Systems and Radioelectronics,Russian Federation,6409,15.2,0.17,36 : 64,17.65,16.8,11.4,17.4,64.9,33.6
+1477,1477,Tottori University,Japan,6040,7.6,0.02,37 : 63,17.65,22.3,11.2,12.1,36.1,20.7
+1478,1478,University of Toyama,Japan,9120,12,0.04,40 : 60,17.65,21.4,13.6,26.9,46.5,28.3
+1479,1479,Toyo University,Japan,31588,26.5,0.06,42:58:00,17.65,15.4,9.1,7.2,34.4,32.9
+1480,1480,Toyohashi University of Technology (TUT),Japan,2059,8.8,0.09,0.479166667,17.65,21.6,17.6,14.2,53.1,29.2
+1481,1481,Transilvania University of Braﾈ・ov,Romania,19123,21.5,0.01,52:48:00,17.65,14,9.8,19.3,34.4,26.3
+1482,1482,University of Trﾃ｡s-os-Montes and Alto Douro,Portugal,6515,11.4,0.04,56:44:00,17.65,19.2,15.4,32.9,33.4,41
+1483,1483,Tshwane University of Technology,South Africa,40869,35.2,0.03,56:44:00,17.65,15.4,11.5,41.7,38.3,44.4
+1484,1484,Tunghai University,Taiwan,16080,22.6,0.07,54:46:00,17.65,15.2,11.5,12.6,37.8,32.7
+1485,1485,University of Tunis El Manar,Tunisia,30817,8.9,0.02,67:33:00,17.65,25.8,10.1,18.5,33.5,41.1
+1486,1486,Tzu Chi University,Taiwan,3524,9.9,0.12,61:39:00,17.65,20.3,13.9,13.3,38.8,27.9
+1487,1487,Ufa State Aviation Technical University,Russian Federation,14021,13.9,0.01,36 : 64,17.65,15.4,8.4,11.1,33.4,18.1
+1488,1488,Umm Al-Qura University,Saudi Arabia,30043,8.3,0.1,33 : 67,17.65,29,10,13.2,61.6,81.4
+1489,1489,Unisinos University,Brazil,12040,19.9,0.01,52:48:00,17.65,23.4,12.7,27.8,50.4,21.1
+1490,1490,Ural Federal University,Russian Federation,26807,12.9,0.13,48:52:00,17.65,23.7,19.4,14,63.2,51.3
+1491,1491,Urmia University,Iran,14834,30.5,0,50:50:00,17.65,20.3,14.2,24,42.9,16.5
+1492,1492,Utsunomiya University,Japan,4847,13.4,0.04,37 : 63,17.65,19.1,10.3,3.8,36.4,23.1
+1493,1493,University of Valladolid,Spain,22420,11.9,0.07,53:47:00,17.65,22.1,12.4,23.7,37.8,39.2
+1494,1494,University of Valparaﾃｭso,Chile,16682,18.8,0.04,58:42:00,17.65,16.5,10,17.9,33.5,48.8
+1495,1495,"University of Veterinary and Animal Sciences, Lahore",Pakistan,6578,31.3,0,48:52:00,17.65,16.9,11.4,14.8,58.7,43.6
+1496,1496,Vietnam National University (Ho Chi Minh City),Vietnam,61531,21.1,0.01,44:56:00,17.65,15.7,9.4,20.1,40.3,39.4
+1497,1497,"Visvesvaraya National Institute of Technology, Nagpur",India,4303,17.2,0.03,25 : 75,17.65,22.4,13.2,31.5,51.6,16.3
+1498,1498,V.N. Karazin Kharkiv National University,Ukraine,17113,8.8,0.27,55:45:00,17.65,20.5,9,10.2,33.5,48.4
+1499,1499,Voronezh State University,Russian Federation,16823,12,0.16,55:45:00,17.65,20.2,8.7,6.6,34.4,32.6
+1500,1500,VSB - Technical University of Ostrava,Czech Republic,11845,13.9,0.13,35 : 65,17.65,19.8,14.5,8.8,43.1,39.4
+1501,1501,Vytautas Magnus University,Lithuania,8269,14.6,0.15,68:32:00,17.65,15.6,12.1,10,33.5,68.7
+1502,1502,Warsaw University of Life Sciences ・・ SGGW,Poland,16838,13.2,0.05,59:41:00,17.65,16.8,9.5,22.3,35.3,23.5
+1503,1503,Warsaw University of Technology,Poland,24376,10.9,0.06,35 : 65,17.65,20.3,12.3,23.8,38.4,26
+1504,1504,Wenzhou Medical University,China,16757,11.8,0.05,62:38:00,17.65,17.3,14.6,32,36,25.3
+1505,1505,University of West Bohemia,Czech Republic,11730,15.9,0.04,54:46:00,17.65,17,17.7,12.9,38,28.8
+1506,1506,Western Michigan University,United States,19273,21.8,0.07,52:48:00,17.65,20.2,15.4,25.8,33.6,34.6
+1507,1507,Western Paranﾃ｡ State University (Unioeste),Brazil,11935,9.2,0,52:48:00,17.65,18.6,13.1,4.3,36.4,15.9
+1508,1508,West University of Timiﾅ・oara,Romania,14027,19.5,0.05,64:36:00,17.65,18.2,9.3,11.9,34.4,27.5
+1509,1509,Wrocﾅ・aw University of Environmental and Life Sciences,Poland,8540,12.2,0.06,68:32:00,17.65,16.8,9.7,21.7,35.9,24
+1510,1510,Wrocﾅ・aw University of Science and Technology,Poland,26064,30.9,0.04,34 : 66,17.65,18.2,16,16.3,43,22.3
+1511,1511,University of Wrocﾅ・aw,Poland,22175,13.9,0.06,69:31:00,17.65,19.6,11.6,25.7,33.7,40.1
+1512,1512,Xiangtan University,China,31743,21.3,0.02,53:47:00,17.65,15,11.7,45.1,37.7,21.4
+1513,1513,Yamagata University,Japan,8905,8.6,0.02,35 : 65,17.65,22.1,11.9,17.3,50,24
+1514,1514,Yamaguchi University,Japan,10693,10.9,0.06,37 : 63,17.65,21.4,12.3,14.1,42.2,27.3
+1515,1515,University of Yamanashi,Japan,4692,6.4,0.04,32 : 68,17.65,24.5,11.2,23.4,36.1,22.2
+1516,1516,Yanshan University,China,35554,16.4,0.01,39 : 61,17.65,17.2,11.9,17.4,51.3,16.7
+1517,1517,Yarmouk University,Jordan,33270,28.8,0.09,62:38:00,17.65,22,9.1,8.7,34.3,47.2
+1518,1518,Yazd University,Iran,14289,30.1,0.01,58:42:00,17.65,19.5,14.1,16.8,35.3,18.2
+1519,1519,Yeditepe University,Turkey,19415,35.2,0.02,55:45:00,17.65,17.6,11.8,10.6,68.2,21.5
+1520,1520,Yﾄｱldﾄｱz Technical University,Turkey,34336,36.8,0.05,40 : 60,17.65,18,24.9,21.1,52.8,22.2
+1521,1521,Yokohama National University,Japan,9859,12.4,0.07,29 : 71,17.65,21.9,16.9,14.8,50.5,28.2
+1522,1522,Yuan Ze University,Taiwan,8188,19.7,0.07,42:58:00,17.65,18.8,14.1,19.7,50.1,30.9
+1523,1523,Yuriy Fedkovych Chernivtsi National University,Ukraine,12616,10.7,0,57:43:00,17.65,17.9,7.7,5.3,33.4,22.2
+1524,1524,Zagazig University,Egypt,156270,24.4,0.02,54:46:00,17.65,13.7,7.4,42.3,33.4,40.6
+1525,1525,University of Zagreb,Croatia,59336,15.3,0.03,59:41:00,17.65,19.5,13.2,27.2,40.3,34.3
+1526,1526,University of ﾅｽilina,Slovakia,7136,11.7,0.02,34 : 66,17.65,20.3,13.2,26.4,42.9,31.8
